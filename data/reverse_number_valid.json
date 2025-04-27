@@ -1,0 +1,3810 @@
+[
+  {
+    "input": "Reverse the following sequence: 17396",
+    "output": "69371"
+  },
+  {
+    "input": "Reverse the following sequence: 91886",
+    "output": "68819"
+  },
+  {
+    "input": "Reverse the following sequence: 77342",
+    "output": "24377"
+  },
+  {
+    "input": "Reverse the following sequence: 81989",
+    "output": "98918"
+  },
+  {
+    "input": "Reverse the following sequence: 56972",
+    "output": "27965"
+  },
+  {
+    "input": "Reverse the following sequence: 29713",
+    "output": "31792"
+  },
+  {
+    "input": "Reverse the following sequence: 23525",
+    "output": "52532"
+  },
+  {
+    "input": "Reverse the following sequence: 54244",
+    "output": "44245"
+  },
+  {
+    "input": "Reverse the following sequence: 34800",
+    "output": "00843"
+  },
+  {
+    "input": "Reverse the following sequence: 43851",
+    "output": "15834"
+  },
+  {
+    "input": "Reverse the following sequence: 25335",
+    "output": "53352"
+  },
+  {
+    "input": "Reverse the following sequence: 48815",
+    "output": "51884"
+  },
+  {
+    "input": "Reverse the following sequence: 89714",
+    "output": "41798"
+  },
+  {
+    "input": "Reverse the following sequence: 53111",
+    "output": "11135"
+  },
+  {
+    "input": "Reverse the following sequence: 19331",
+    "output": "13391"
+  },
+  {
+    "input": "Reverse the following sequence: 67651",
+    "output": "15676"
+  },
+  {
+    "input": "Reverse the following sequence: 72447",
+    "output": "74427"
+  },
+  {
+    "input": "Reverse the following sequence: 99531",
+    "output": "13599"
+  },
+  {
+    "input": "Reverse the following sequence: 59256",
+    "output": "65295"
+  },
+  {
+    "input": "Reverse the following sequence: 19208",
+    "output": "80291"
+  },
+  {
+    "input": "Reverse the following sequence: 30791",
+    "output": "19703"
+  },
+  {
+    "input": "Reverse the following sequence: 13778",
+    "output": "87731"
+  },
+  {
+    "input": "Reverse the following sequence: 54317",
+    "output": "71345"
+  },
+  {
+    "input": "Reverse the following sequence: 89630",
+    "output": "03698"
+  },
+  {
+    "input": "Reverse the following sequence: 81255",
+    "output": "55218"
+  },
+  {
+    "input": "Reverse the following sequence: 71974",
+    "output": "47917"
+  },
+  {
+    "input": "Reverse the following sequence: 90332",
+    "output": "23309"
+  },
+  {
+    "input": "Reverse the following sequence: 52708",
+    "output": "80725"
+  },
+  {
+    "input": "Reverse the following sequence: 25836",
+    "output": "63852"
+  },
+  {
+    "input": "Reverse the following sequence: 54580",
+    "output": "08545"
+  },
+  {
+    "input": "Reverse the following sequence: 32301",
+    "output": "10323"
+  },
+  {
+    "input": "Reverse the following sequence: 19082",
+    "output": "28091"
+  },
+  {
+    "input": "Reverse the following sequence: 46988",
+    "output": "88964"
+  },
+  {
+    "input": "Reverse the following sequence: 77189",
+    "output": "98177"
+  },
+  {
+    "input": "Reverse the following sequence: 25680",
+    "output": "08652"
+  },
+  {
+    "input": "Reverse the following sequence: 29600",
+    "output": "00692"
+  },
+  {
+    "input": "Reverse the following sequence: 84275",
+    "output": "57248"
+  },
+  {
+    "input": "Reverse the following sequence: 72302",
+    "output": "20327"
+  },
+  {
+    "input": "Reverse the following sequence: 65075",
+    "output": "57056"
+  },
+  {
+    "input": "Reverse the following sequence: 09084",
+    "output": "48090"
+  },
+  {
+    "input": "Reverse the following sequence: 29075",
+    "output": "57092"
+  },
+  {
+    "input": "Reverse the following sequence: 39791",
+    "output": "19793"
+  },
+  {
+    "input": "Reverse the following sequence: 02058",
+    "output": "85020"
+  },
+  {
+    "input": "Reverse the following sequence: 70199",
+    "output": "99107"
+  },
+  {
+    "input": "Reverse the following sequence: 53207",
+    "output": "70235"
+  },
+  {
+    "input": "Reverse the following sequence: 96585",
+    "output": "58569"
+  },
+  {
+    "input": "Reverse the following sequence: 49581",
+    "output": "18594"
+  },
+  {
+    "input": "Reverse the following sequence: 25901",
+    "output": "10952"
+  },
+  {
+    "input": "Reverse the following sequence: 41441",
+    "output": "14414"
+  },
+  {
+    "input": "Reverse the following sequence: 22647",
+    "output": "74622"
+  },
+  {
+    "input": "Reverse the following sequence: 36906",
+    "output": "60963"
+  },
+  {
+    "input": "Reverse the following sequence: 31402",
+    "output": "20413"
+  },
+  {
+    "input": "Reverse the following sequence: 75806",
+    "output": "60857"
+  },
+  {
+    "input": "Reverse the following sequence: 09028",
+    "output": "82090"
+  },
+  {
+    "input": "Reverse the following sequence: 92560",
+    "output": "06529"
+  },
+  {
+    "input": "Reverse the following sequence: 61819",
+    "output": "91816"
+  },
+  {
+    "input": "Reverse the following sequence: 70837",
+    "output": "73807"
+  },
+  {
+    "input": "Reverse the following sequence: 29422",
+    "output": "22492"
+  },
+  {
+    "input": "Reverse the following sequence: 15503",
+    "output": "30551"
+  },
+  {
+    "input": "Reverse the following sequence: 56405",
+    "output": "50465"
+  },
+  {
+    "input": "Reverse the following sequence: 99747",
+    "output": "74799"
+  },
+  {
+    "input": "Reverse the following sequence: 23900",
+    "output": "00932"
+  },
+  {
+    "input": "Reverse the following sequence: 32734",
+    "output": "43723"
+  },
+  {
+    "input": "Reverse the following sequence: 17740",
+    "output": "04771"
+  },
+  {
+    "input": "Reverse the following sequence: 56501",
+    "output": "10565"
+  },
+  {
+    "input": "Reverse the following sequence: 94560",
+    "output": "06549"
+  },
+  {
+    "input": "Reverse the following sequence: 31297",
+    "output": "79213"
+  },
+  {
+    "input": "Reverse the following sequence: 06479",
+    "output": "97460"
+  },
+  {
+    "input": "Reverse the following sequence: 07283",
+    "output": "38270"
+  },
+  {
+    "input": "Reverse the following sequence: 58645",
+    "output": "54685"
+  },
+  {
+    "input": "Reverse the following sequence: 85295",
+    "output": "59258"
+  },
+  {
+    "input": "Reverse the following sequence: 74461",
+    "output": "16447"
+  },
+  {
+    "input": "Reverse the following sequence: 74806",
+    "output": "60847"
+  },
+  {
+    "input": "Reverse the following sequence: 60469",
+    "output": "96406"
+  },
+  {
+    "input": "Reverse the following sequence: 44838",
+    "output": "83844"
+  },
+  {
+    "input": "Reverse the following sequence: 29661",
+    "output": "16692"
+  },
+  {
+    "input": "Reverse the following sequence: 66536",
+    "output": "63566"
+  },
+  {
+    "input": "Reverse the following sequence: 07361",
+    "output": "16370"
+  },
+  {
+    "input": "Reverse the following sequence: 51867",
+    "output": "76815"
+  },
+  {
+    "input": "Reverse the following sequence: 25899",
+    "output": "99852"
+  },
+  {
+    "input": "Reverse the following sequence: 84232",
+    "output": "23248"
+  },
+  {
+    "input": "Reverse the following sequence: 85480",
+    "output": "08458"
+  },
+  {
+    "input": "Reverse the following sequence: 97245",
+    "output": "54279"
+  },
+  {
+    "input": "Reverse the following sequence: 87822",
+    "output": "22878"
+  },
+  {
+    "input": "Reverse the following sequence: 74017",
+    "output": "71047"
+  },
+  {
+    "input": "Reverse the following sequence: 41776",
+    "output": "67714"
+  },
+  {
+    "input": "Reverse the following sequence: 02309",
+    "output": "90320"
+  },
+  {
+    "input": "Reverse the following sequence: 54747",
+    "output": "74745"
+  },
+  {
+    "input": "Reverse the following sequence: 66421",
+    "output": "12466"
+  },
+  {
+    "input": "Reverse the following sequence: 33361",
+    "output": "16333"
+  },
+  {
+    "input": "Reverse the following sequence: 47239",
+    "output": "93274"
+  },
+  {
+    "input": "Reverse the following sequence: 51840",
+    "output": "04815"
+  },
+  {
+    "input": "Reverse the following sequence: 87767",
+    "output": "76778"
+  },
+  {
+    "input": "Reverse the following sequence: 74048",
+    "output": "84047"
+  },
+  {
+    "input": "Reverse the following sequence: 73800",
+    "output": "00837"
+  },
+  {
+    "input": "Reverse the following sequence: 81410",
+    "output": "01418"
+  },
+  {
+    "input": "Reverse the following sequence: 45430",
+    "output": "03454"
+  },
+  {
+    "input": "Reverse the following sequence: 35352",
+    "output": "25353"
+  },
+  {
+    "input": "Reverse the following sequence: 94028",
+    "output": "82049"
+  },
+  {
+    "input": "Reverse the following sequence: 00636",
+    "output": "63600"
+  },
+  {
+    "input": "Reverse the following sequence: 73482",
+    "output": "28437"
+  },
+  {
+    "input": "Reverse the following sequence: 04788",
+    "output": "88740"
+  },
+  {
+    "input": "Reverse the following sequence: 92759",
+    "output": "95729"
+  },
+  {
+    "input": "Reverse the following sequence: 14036",
+    "output": "63041"
+  },
+  {
+    "input": "Reverse the following sequence: 06025",
+    "output": "52060"
+  },
+  {
+    "input": "Reverse the following sequence: 27644",
+    "output": "44672"
+  },
+  {
+    "input": "Reverse the following sequence: 99551",
+    "output": "15599"
+  },
+  {
+    "input": "Reverse the following sequence: 06950",
+    "output": "05960"
+  },
+  {
+    "input": "Reverse the following sequence: 57604",
+    "output": "40675"
+  },
+  {
+    "input": "Reverse the following sequence: 88751",
+    "output": "15788"
+  },
+  {
+    "input": "Reverse the following sequence: 81787",
+    "output": "78718"
+  },
+  {
+    "input": "Reverse the following sequence: 71840",
+    "output": "04817"
+  },
+  {
+    "input": "Reverse the following sequence: 47237",
+    "output": "73274"
+  },
+  {
+    "input": "Reverse the following sequence: 66453",
+    "output": "35466"
+  },
+  {
+    "input": "Reverse the following sequence: 89058",
+    "output": "85098"
+  },
+  {
+    "input": "Reverse the following sequence: 58311",
+    "output": "11385"
+  },
+  {
+    "input": "Reverse the following sequence: 64054",
+    "output": "45046"
+  },
+  {
+    "input": "Reverse the following sequence: 16761",
+    "output": "16761"
+  },
+  {
+    "input": "Reverse the following sequence: 30197",
+    "output": "79103"
+  },
+  {
+    "input": "Reverse the following sequence: 49012",
+    "output": "21094"
+  },
+  {
+    "input": "Reverse the following sequence: 22034",
+    "output": "43022"
+  },
+  {
+    "input": "Reverse the following sequence: 50180",
+    "output": "08105"
+  },
+  {
+    "input": "Reverse the following sequence: 58061",
+    "output": "16085"
+  },
+  {
+    "input": "Reverse the following sequence: 19424",
+    "output": "42491"
+  },
+  {
+    "input": "Reverse the following sequence: 21429",
+    "output": "92412"
+  },
+  {
+    "input": "Reverse the following sequence: 50849",
+    "output": "94805"
+  },
+  {
+    "input": "Reverse the following sequence: 34176",
+    "output": "67143"
+  },
+  {
+    "input": "Reverse the following sequence: 95453",
+    "output": "35459"
+  },
+  {
+    "input": "Reverse the following sequence: 85826",
+    "output": "62858"
+  },
+  {
+    "input": "Reverse the following sequence: 41350",
+    "output": "05314"
+  },
+  {
+    "input": "Reverse the following sequence: 03626",
+    "output": "62630"
+  },
+  {
+    "input": "Reverse the following sequence: 54179",
+    "output": "97145"
+  },
+  {
+    "input": "Reverse the following sequence: 05274",
+    "output": "47250"
+  },
+  {
+    "input": "Reverse the following sequence: 63817",
+    "output": "71836"
+  },
+  {
+    "input": "Reverse the following sequence: 35947",
+    "output": "74953"
+  },
+  {
+    "input": "Reverse the following sequence: 41606",
+    "output": "60614"
+  },
+  {
+    "input": "Reverse the following sequence: 96899",
+    "output": "99869"
+  },
+  {
+    "input": "Reverse the following sequence: 33771",
+    "output": "17733"
+  },
+  {
+    "input": "Reverse the following sequence: 66444",
+    "output": "44466"
+  },
+  {
+    "input": "Reverse the following sequence: 76569",
+    "output": "96567"
+  },
+  {
+    "input": "Reverse the following sequence: 32237",
+    "output": "73223"
+  },
+  {
+    "input": "Reverse the following sequence: 27952",
+    "output": "25972"
+  },
+  {
+    "input": "Reverse the following sequence: 42241",
+    "output": "14224"
+  },
+  {
+    "input": "Reverse the following sequence: 76921",
+    "output": "12967"
+  },
+  {
+    "input": "Reverse the following sequence: 84635",
+    "output": "53648"
+  },
+  {
+    "input": "Reverse the following sequence: 00515",
+    "output": "51500"
+  },
+  {
+    "input": "Reverse the following sequence: 94988",
+    "output": "88949"
+  },
+  {
+    "input": "Reverse the following sequence: 25172",
+    "output": "27152"
+  },
+  {
+    "input": "Reverse the following sequence: 13405",
+    "output": "50431"
+  },
+  {
+    "input": "Reverse the following sequence: 75247",
+    "output": "74257"
+  },
+  {
+    "input": "Reverse the following sequence: 84410",
+    "output": "01448"
+  },
+  {
+    "input": "Reverse the following sequence: 14058",
+    "output": "85041"
+  },
+  {
+    "input": "Reverse the following sequence: 85326",
+    "output": "62358"
+  },
+  {
+    "input": "Reverse the following sequence: 10516",
+    "output": "61501"
+  },
+  {
+    "input": "Reverse the following sequence: 18849",
+    "output": "94881"
+  },
+  {
+    "input": "Reverse the following sequence: 98893",
+    "output": "39889"
+  },
+  {
+    "input": "Reverse the following sequence: 94926",
+    "output": "62949"
+  },
+  {
+    "input": "Reverse the following sequence: 88122",
+    "output": "22188"
+  },
+  {
+    "input": "Reverse the following sequence: 03047",
+    "output": "74030"
+  },
+  {
+    "input": "Reverse the following sequence: 41009",
+    "output": "90014"
+  },
+  {
+    "input": "Reverse the following sequence: 35030",
+    "output": "03053"
+  },
+  {
+    "input": "Reverse the following sequence: 32195",
+    "output": "59123"
+  },
+  {
+    "input": "Reverse the following sequence: 95148",
+    "output": "84159"
+  },
+  {
+    "input": "Reverse the following sequence: 74769",
+    "output": "96747"
+  },
+  {
+    "input": "Reverse the following sequence: 81831",
+    "output": "13818"
+  },
+  {
+    "input": "Reverse the following sequence: 63830",
+    "output": "03836"
+  },
+  {
+    "input": "Reverse the following sequence: 95711",
+    "output": "11759"
+  },
+  {
+    "input": "Reverse the following sequence: 22571",
+    "output": "17522"
+  },
+  {
+    "input": "Reverse the following sequence: 66931",
+    "output": "13966"
+  },
+  {
+    "input": "Reverse the following sequence: 17101",
+    "output": "10171"
+  },
+  {
+    "input": "Reverse the following sequence: 58171",
+    "output": "17185"
+  },
+  {
+    "input": "Reverse the following sequence: 23330",
+    "output": "03332"
+  },
+  {
+    "input": "Reverse the following sequence: 91950",
+    "output": "05919"
+  },
+  {
+    "input": "Reverse the following sequence: 06516",
+    "output": "61560"
+  },
+  {
+    "input": "Reverse the following sequence: 11730",
+    "output": "03711"
+  },
+  {
+    "input": "Reverse the following sequence: 29030",
+    "output": "03092"
+  },
+  {
+    "input": "Reverse the following sequence: 28040",
+    "output": "04082"
+  },
+  {
+    "input": "Reverse the following sequence: 83460",
+    "output": "06438"
+  },
+  {
+    "input": "Reverse the following sequence: 13603",
+    "output": "30631"
+  },
+  {
+    "input": "Reverse the following sequence: 89643",
+    "output": "34698"
+  },
+  {
+    "input": "Reverse the following sequence: 05183",
+    "output": "38150"
+  },
+  {
+    "input": "Reverse the following sequence: 17401",
+    "output": "10471"
+  },
+  {
+    "input": "Reverse the following sequence: 84452",
+    "output": "25448"
+  },
+  {
+    "input": "Reverse the following sequence: 18521",
+    "output": "12581"
+  },
+  {
+    "input": "Reverse the following sequence: 89338",
+    "output": "83398"
+  },
+  {
+    "input": "Reverse the following sequence: 72179",
+    "output": "97127"
+  },
+  {
+    "input": "Reverse the following sequence: 77056",
+    "output": "65077"
+  },
+  {
+    "input": "Reverse the following sequence: 77896",
+    "output": "69877"
+  },
+  {
+    "input": "Reverse the following sequence: 55636",
+    "output": "63655"
+  },
+  {
+    "input": "Reverse the following sequence: 67326",
+    "output": "62376"
+  },
+  {
+    "input": "Reverse the following sequence: 92861",
+    "output": "16829"
+  },
+  {
+    "input": "Reverse the following sequence: 61635",
+    "output": "53616"
+  },
+  {
+    "input": "Reverse the following sequence: 35751",
+    "output": "15753"
+  },
+  {
+    "input": "Reverse the following sequence: 86689",
+    "output": "98668"
+  },
+  {
+    "input": "Reverse the following sequence: 61051",
+    "output": "15016"
+  },
+  {
+    "input": "Reverse the following sequence: 58921",
+    "output": "12985"
+  },
+  {
+    "input": "Reverse the following sequence: 15834",
+    "output": "43851"
+  },
+  {
+    "input": "Reverse the following sequence: 36357",
+    "output": "75363"
+  },
+  {
+    "input": "Reverse the following sequence: 28097",
+    "output": "79082"
+  },
+  {
+    "input": "Reverse the following sequence: 01926",
+    "output": "62910"
+  },
+  {
+    "input": "Reverse the following sequence: 39591",
+    "output": "19593"
+  },
+  {
+    "input": "Reverse the following sequence: 37791",
+    "output": "19773"
+  },
+  {
+    "input": "Reverse the following sequence: 45669",
+    "output": "96654"
+  },
+  {
+    "input": "Reverse the following sequence: 00066",
+    "output": "66000"
+  },
+  {
+    "input": "Reverse the following sequence: 16925",
+    "output": "52961"
+  },
+  {
+    "input": "Reverse the following sequence: 66472",
+    "output": "27466"
+  },
+  {
+    "input": "Reverse the following sequence: 81674",
+    "output": "47618"
+  },
+  {
+    "input": "Reverse the following sequence: 80916",
+    "output": "61908"
+  },
+  {
+    "input": "Reverse the following sequence: 85128",
+    "output": "82158"
+  },
+  {
+    "input": "Reverse the following sequence: 68304",
+    "output": "40386"
+  },
+  {
+    "input": "Reverse the following sequence: 20958",
+    "output": "85902"
+  },
+  {
+    "input": "Reverse the following sequence: 72702",
+    "output": "20727"
+  },
+  {
+    "input": "Reverse the following sequence: 93972",
+    "output": "27939"
+  },
+  {
+    "input": "Reverse the following sequence: 91327",
+    "output": "72319"
+  },
+  {
+    "input": "Reverse the following sequence: 38316",
+    "output": "61383"
+  },
+  {
+    "input": "Reverse the following sequence: 87878",
+    "output": "87878"
+  },
+  {
+    "input": "Reverse the following sequence: 35077",
+    "output": "77053"
+  },
+  {
+    "input": "Reverse the following sequence: 32025",
+    "output": "52023"
+  },
+  {
+    "input": "Reverse the following sequence: 20824",
+    "output": "42802"
+  },
+  {
+    "input": "Reverse the following sequence: 49442",
+    "output": "24494"
+  },
+  {
+    "input": "Reverse the following sequence: 87420",
+    "output": "02478"
+  },
+  {
+    "input": "Reverse the following sequence: 55818",
+    "output": "81855"
+  },
+  {
+    "input": "Reverse the following sequence: 96073",
+    "output": "37069"
+  },
+  {
+    "input": "Reverse the following sequence: 77997",
+    "output": "79977"
+  },
+  {
+    "input": "Reverse the following sequence: 87416",
+    "output": "61478"
+  },
+  {
+    "input": "Reverse the following sequence: 96131",
+    "output": "13169"
+  },
+  {
+    "input": "Reverse the following sequence: 77789",
+    "output": "98777"
+  },
+  {
+    "input": "Reverse the following sequence: 24041",
+    "output": "14042"
+  },
+  {
+    "input": "Reverse the following sequence: 00009",
+    "output": "90000"
+  },
+  {
+    "input": "Reverse the following sequence: 40943",
+    "output": "34904"
+  },
+  {
+    "input": "Reverse the following sequence: 75268",
+    "output": "86257"
+  },
+  {
+    "input": "Reverse the following sequence: 71226",
+    "output": "62217"
+  },
+  {
+    "input": "Reverse the following sequence: 89663",
+    "output": "36698"
+  },
+  {
+    "input": "Reverse the following sequence: 40097",
+    "output": "79004"
+  },
+  {
+    "input": "Reverse the following sequence: 73308",
+    "output": "80337"
+  },
+  {
+    "input": "Reverse the following sequence: 18294",
+    "output": "49281"
+  },
+  {
+    "input": "Reverse the following sequence: 46639",
+    "output": "93664"
+  },
+  {
+    "input": "Reverse the following sequence: 66716",
+    "output": "61766"
+  },
+  {
+    "input": "Reverse the following sequence: 37551",
+    "output": "15573"
+  },
+  {
+    "input": "Reverse the following sequence: 70237",
+    "output": "73207"
+  },
+  {
+    "input": "Reverse the following sequence: 49999",
+    "output": "99994"
+  },
+  {
+    "input": "Reverse the following sequence: 21414",
+    "output": "41412"
+  },
+  {
+    "input": "Reverse the following sequence: 70041",
+    "output": "14007"
+  },
+  {
+    "input": "Reverse the following sequence: 72552",
+    "output": "25527"
+  },
+  {
+    "input": "Reverse the following sequence: 55725",
+    "output": "52755"
+  },
+  {
+    "input": "Reverse the following sequence: 13393",
+    "output": "39331"
+  },
+  {
+    "input": "Reverse the following sequence: 55519",
+    "output": "91555"
+  },
+  {
+    "input": "Reverse the following sequence: 89599",
+    "output": "99598"
+  },
+  {
+    "input": "Reverse the following sequence: 74477",
+    "output": "77447"
+  },
+  {
+    "input": "Reverse the following sequence: 65519",
+    "output": "91556"
+  },
+  {
+    "input": "Reverse the following sequence: 38026",
+    "output": "62083"
+  },
+  {
+    "input": "Reverse the following sequence: 08785",
+    "output": "58780"
+  },
+  {
+    "input": "Reverse the following sequence: 67914",
+    "output": "41976"
+  },
+  {
+    "input": "Reverse the following sequence: 23253",
+    "output": "35232"
+  },
+  {
+    "input": "Reverse the following sequence: 08449",
+    "output": "94480"
+  },
+  {
+    "input": "Reverse the following sequence: 96259",
+    "output": "95269"
+  },
+  {
+    "input": "Reverse the following sequence: 73827",
+    "output": "72837"
+  },
+  {
+    "input": "Reverse the following sequence: 44500",
+    "output": "00544"
+  },
+  {
+    "input": "Reverse the following sequence: 46650",
+    "output": "05664"
+  },
+  {
+    "input": "Reverse the following sequence: 50693",
+    "output": "39605"
+  },
+  {
+    "input": "Reverse the following sequence: 31288",
+    "output": "88213"
+  },
+  {
+    "input": "Reverse the following sequence: 40479",
+    "output": "97404"
+  },
+  {
+    "input": "Reverse the following sequence: 30129",
+    "output": "92103"
+  },
+  {
+    "input": "Reverse the following sequence: 11854",
+    "output": "45811"
+  },
+  {
+    "input": "Reverse the following sequence: 42969",
+    "output": "96924"
+  },
+  {
+    "input": "Reverse the following sequence: 55607",
+    "output": "70655"
+  },
+  {
+    "input": "Reverse the following sequence: 42230",
+    "output": "03224"
+  },
+  {
+    "input": "Reverse the following sequence: 93819",
+    "output": "91839"
+  },
+  {
+    "input": "Reverse the following sequence: 84779",
+    "output": "97748"
+  },
+  {
+    "input": "Reverse the following sequence: 29624",
+    "output": "42692"
+  },
+  {
+    "input": "Reverse the following sequence: 62458",
+    "output": "85426"
+  },
+  {
+    "input": "Reverse the following sequence: 50545",
+    "output": "54505"
+  },
+  {
+    "input": "Reverse the following sequence: 54997",
+    "output": "79945"
+  },
+  {
+    "input": "Reverse the following sequence: 38068",
+    "output": "86083"
+  },
+  {
+    "input": "Reverse the following sequence: 67888",
+    "output": "88876"
+  },
+  {
+    "input": "Reverse the following sequence: 86258",
+    "output": "85268"
+  },
+  {
+    "input": "Reverse the following sequence: 59817",
+    "output": "71895"
+  },
+  {
+    "input": "Reverse the following sequence: 96697",
+    "output": "79669"
+  },
+  {
+    "input": "Reverse the following sequence: 66901",
+    "output": "10966"
+  },
+  {
+    "input": "Reverse the following sequence: 82072",
+    "output": "27028"
+  },
+  {
+    "input": "Reverse the following sequence: 28109",
+    "output": "90182"
+  },
+  {
+    "input": "Reverse the following sequence: 40423",
+    "output": "32404"
+  },
+  {
+    "input": "Reverse the following sequence: 61251",
+    "output": "15216"
+  },
+  {
+    "input": "Reverse the following sequence: 34277",
+    "output": "77243"
+  },
+  {
+    "input": "Reverse the following sequence: 15741",
+    "output": "14751"
+  },
+  {
+    "input": "Reverse the following sequence: 00744",
+    "output": "44700"
+  },
+  {
+    "input": "Reverse the following sequence: 98897",
+    "output": "79889"
+  },
+  {
+    "input": "Reverse the following sequence: 29745",
+    "output": "54792"
+  },
+  {
+    "input": "Reverse the following sequence: 24013",
+    "output": "31042"
+  },
+  {
+    "input": "Reverse the following sequence: 93257",
+    "output": "75239"
+  },
+  {
+    "input": "Reverse the following sequence: 23371",
+    "output": "17332"
+  },
+  {
+    "input": "Reverse the following sequence: 41461",
+    "output": "16414"
+  },
+  {
+    "input": "Reverse the following sequence: 77459",
+    "output": "95477"
+  },
+  {
+    "input": "Reverse the following sequence: 91771",
+    "output": "17719"
+  },
+  {
+    "input": "Reverse the following sequence: 05484",
+    "output": "48450"
+  },
+  {
+    "input": "Reverse the following sequence: 88786",
+    "output": "68788"
+  },
+  {
+    "input": "Reverse the following sequence: 78008",
+    "output": "80087"
+  },
+  {
+    "input": "Reverse the following sequence: 80933",
+    "output": "33908"
+  },
+  {
+    "input": "Reverse the following sequence: 48571",
+    "output": "17584"
+  },
+  {
+    "input": "Reverse the following sequence: 84588",
+    "output": "88548"
+  },
+  {
+    "input": "Reverse the following sequence: 58404",
+    "output": "40485"
+  },
+  {
+    "input": "Reverse the following sequence: 66991",
+    "output": "19966"
+  },
+  {
+    "input": "Reverse the following sequence: 17702",
+    "output": "20771"
+  },
+  {
+    "input": "Reverse the following sequence: 12048",
+    "output": "84021"
+  },
+  {
+    "input": "Reverse the following sequence: 20955",
+    "output": "55902"
+  },
+  {
+    "input": "Reverse the following sequence: 49891",
+    "output": "19894"
+  },
+  {
+    "input": "Reverse the following sequence: 25689",
+    "output": "98652"
+  },
+  {
+    "input": "Reverse the following sequence: 56116",
+    "output": "61165"
+  },
+  {
+    "input": "Reverse the following sequence: 89313",
+    "output": "31398"
+  },
+  {
+    "input": "Reverse the following sequence: 68408",
+    "output": "80486"
+  },
+  {
+    "input": "Reverse the following sequence: 05106",
+    "output": "60150"
+  },
+  {
+    "input": "Reverse the following sequence: 57092",
+    "output": "29075"
+  },
+  {
+    "input": "Reverse the following sequence: 62640",
+    "output": "04626"
+  },
+  {
+    "input": "Reverse the following sequence: 07215",
+    "output": "51270"
+  },
+  {
+    "input": "Reverse the following sequence: 30780",
+    "output": "08703"
+  },
+  {
+    "input": "Reverse the following sequence: 76177",
+    "output": "77167"
+  },
+  {
+    "input": "Reverse the following sequence: 18426",
+    "output": "62481"
+  },
+  {
+    "input": "Reverse the following sequence: 06361",
+    "output": "16360"
+  },
+  {
+    "input": "Reverse the following sequence: 48886",
+    "output": "68884"
+  },
+  {
+    "input": "Reverse the following sequence: 00674",
+    "output": "47600"
+  },
+  {
+    "input": "Reverse the following sequence: 14263",
+    "output": "36241"
+  },
+  {
+    "input": "Reverse the following sequence: 36793",
+    "output": "39763"
+  },
+  {
+    "input": "Reverse the following sequence: 35610",
+    "output": "01653"
+  },
+  {
+    "input": "Reverse the following sequence: 27791",
+    "output": "19772"
+  },
+  {
+    "input": "Reverse the following sequence: 42206",
+    "output": "60224"
+  },
+  {
+    "input": "Reverse the following sequence: 14557",
+    "output": "75541"
+  },
+  {
+    "input": "Reverse the following sequence: 38846",
+    "output": "64883"
+  },
+  {
+    "input": "Reverse the following sequence: 10173",
+    "output": "37101"
+  },
+  {
+    "input": "Reverse the following sequence: 82994",
+    "output": "49928"
+  },
+  {
+    "input": "Reverse the following sequence: 25697",
+    "output": "79652"
+  },
+  {
+    "input": "Reverse the following sequence: 80898",
+    "output": "89808"
+  },
+  {
+    "input": "Reverse the following sequence: 54481",
+    "output": "18445"
+  },
+  {
+    "input": "Reverse the following sequence: 29544",
+    "output": "44592"
+  },
+  {
+    "input": "Reverse the following sequence: 84847",
+    "output": "74848"
+  },
+  {
+    "input": "Reverse the following sequence: 17003",
+    "output": "30071"
+  },
+  {
+    "input": "Reverse the following sequence: 26172",
+    "output": "27162"
+  },
+  {
+    "input": "Reverse the following sequence: 97396",
+    "output": "69379"
+  },
+  {
+    "input": "Reverse the following sequence: 13948",
+    "output": "84931"
+  },
+  {
+    "input": "Reverse the following sequence: 30770",
+    "output": "07703"
+  },
+  {
+    "input": "Reverse the following sequence: 21190",
+    "output": "09112"
+  },
+  {
+    "input": "Reverse the following sequence: 07716",
+    "output": "61770"
+  },
+  {
+    "input": "Reverse the following sequence: 91193",
+    "output": "39119"
+  },
+  {
+    "input": "Reverse the following sequence: 07681",
+    "output": "18670"
+  },
+  {
+    "input": "Reverse the following sequence: 57191",
+    "output": "19175"
+  },
+  {
+    "input": "Reverse the following sequence: 24983",
+    "output": "38942"
+  },
+  {
+    "input": "Reverse the following sequence: 77423",
+    "output": "32477"
+  },
+  {
+    "input": "Reverse the following sequence: 74924",
+    "output": "42947"
+  },
+  {
+    "input": "Reverse the following sequence: 72378",
+    "output": "87327"
+  },
+  {
+    "input": "Reverse the following sequence: 93205",
+    "output": "50239"
+  },
+  {
+    "input": "Reverse the following sequence: 68521",
+    "output": "12586"
+  },
+  {
+    "input": "Reverse the following sequence: 88238",
+    "output": "83288"
+  },
+  {
+    "input": "Reverse the following sequence: 90519",
+    "output": "91509"
+  },
+  {
+    "input": "Reverse the following sequence: 49288",
+    "output": "88294"
+  },
+  {
+    "input": "Reverse the following sequence: 85175",
+    "output": "57158"
+  },
+  {
+    "input": "Reverse the following sequence: 82940",
+    "output": "04928"
+  },
+  {
+    "input": "Reverse the following sequence: 64801",
+    "output": "10846"
+  },
+  {
+    "input": "Reverse the following sequence: 73713",
+    "output": "31737"
+  },
+  {
+    "input": "Reverse the following sequence: 57675",
+    "output": "57675"
+  },
+  {
+    "input": "Reverse the following sequence: 16056",
+    "output": "65061"
+  },
+  {
+    "input": "Reverse the following sequence: 05255",
+    "output": "55250"
+  },
+  {
+    "input": "Reverse the following sequence: 63155",
+    "output": "55136"
+  },
+  {
+    "input": "Reverse the following sequence: 32547",
+    "output": "74523"
+  },
+  {
+    "input": "Reverse the following sequence: 81848",
+    "output": "84818"
+  },
+  {
+    "input": "Reverse the following sequence: 76016",
+    "output": "61067"
+  },
+  {
+    "input": "Reverse the following sequence: 50853",
+    "output": "35805"
+  },
+  {
+    "input": "Reverse the following sequence: 03659",
+    "output": "95630"
+  },
+  {
+    "input": "Reverse the following sequence: 46418",
+    "output": "81464"
+  },
+  {
+    "input": "Reverse the following sequence: 29172",
+    "output": "27192"
+  },
+  {
+    "input": "Reverse the following sequence: 16496",
+    "output": "69461"
+  },
+  {
+    "input": "Reverse the following sequence: 96824",
+    "output": "42869"
+  },
+  {
+    "input": "Reverse the following sequence: 98517",
+    "output": "71589"
+  },
+  {
+    "input": "Reverse the following sequence: 65355",
+    "output": "55356"
+  },
+  {
+    "input": "Reverse the following sequence: 33556",
+    "output": "65533"
+  },
+  {
+    "input": "Reverse the following sequence: 00160",
+    "output": "06100"
+  },
+  {
+    "input": "Reverse the following sequence: 56372",
+    "output": "27365"
+  },
+  {
+    "input": "Reverse the following sequence: 39664",
+    "output": "46693"
+  },
+  {
+    "input": "Reverse the following sequence: 91209",
+    "output": "90219"
+  },
+  {
+    "input": "Reverse the following sequence: 81891",
+    "output": "19818"
+  },
+  {
+    "input": "Reverse the following sequence: 70451",
+    "output": "15407"
+  },
+  {
+    "input": "Reverse the following sequence: 88683",
+    "output": "38688"
+  },
+  {
+    "input": "Reverse the following sequence: 77402",
+    "output": "20477"
+  },
+  {
+    "input": "Reverse the following sequence: 18435",
+    "output": "53481"
+  },
+  {
+    "input": "Reverse the following sequence: 27627",
+    "output": "72672"
+  },
+  {
+    "input": "Reverse the following sequence: 51070",
+    "output": "07015"
+  },
+  {
+    "input": "Reverse the following sequence: 01558",
+    "output": "85510"
+  },
+  {
+    "input": "Reverse the following sequence: 94183",
+    "output": "38149"
+  },
+  {
+    "input": "Reverse the following sequence: 75001",
+    "output": "10057"
+  },
+  {
+    "input": "Reverse the following sequence: 29813",
+    "output": "31892"
+  },
+  {
+    "input": "Reverse the following sequence: 17124",
+    "output": "42171"
+  },
+  {
+    "input": "Reverse the following sequence: 32539",
+    "output": "93523"
+  },
+  {
+    "input": "Reverse the following sequence: 69053",
+    "output": "35096"
+  },
+  {
+    "input": "Reverse the following sequence: 46488",
+    "output": "88464"
+  },
+  {
+    "input": "Reverse the following sequence: 88675",
+    "output": "57688"
+  },
+  {
+    "input": "Reverse the following sequence: 25512",
+    "output": "21552"
+  },
+  {
+    "input": "Reverse the following sequence: 16223",
+    "output": "32261"
+  },
+  {
+    "input": "Reverse the following sequence: 75215",
+    "output": "51257"
+  },
+  {
+    "input": "Reverse the following sequence: 79491",
+    "output": "19497"
+  },
+  {
+    "input": "Reverse the following sequence: 44878",
+    "output": "87844"
+  },
+  {
+    "input": "Reverse the following sequence: 60079",
+    "output": "97006"
+  },
+  {
+    "input": "Reverse the following sequence: 95588",
+    "output": "88559"
+  },
+  {
+    "input": "Reverse the following sequence: 66481",
+    "output": "18466"
+  },
+  {
+    "input": "Reverse the following sequence: 20036",
+    "output": "63002"
+  },
+  {
+    "input": "Reverse the following sequence: 39466",
+    "output": "66493"
+  },
+  {
+    "input": "Reverse the following sequence: 25199",
+    "output": "99152"
+  },
+  {
+    "input": "Reverse the following sequence: 39110",
+    "output": "01193"
+  },
+  {
+    "input": "Reverse the following sequence: 70319",
+    "output": "91307"
+  },
+  {
+    "input": "Reverse the following sequence: 59189",
+    "output": "98195"
+  },
+  {
+    "input": "Reverse the following sequence: 28340",
+    "output": "04382"
+  },
+  {
+    "input": "Reverse the following sequence: 23101",
+    "output": "10132"
+  },
+  {
+    "input": "Reverse the following sequence: 04282",
+    "output": "28240"
+  },
+  {
+    "input": "Reverse the following sequence: 59342",
+    "output": "24395"
+  },
+  {
+    "input": "Reverse the following sequence: 21127",
+    "output": "72112"
+  },
+  {
+    "input": "Reverse the following sequence: 21324",
+    "output": "42312"
+  },
+  {
+    "input": "Reverse the following sequence: 64673",
+    "output": "37646"
+  },
+  {
+    "input": "Reverse the following sequence: 67270",
+    "output": "07276"
+  },
+  {
+    "input": "Reverse the following sequence: 22884",
+    "output": "48822"
+  },
+  {
+    "input": "Reverse the following sequence: 91070",
+    "output": "07019"
+  },
+  {
+    "input": "Reverse the following sequence: 92008",
+    "output": "80029"
+  },
+  {
+    "input": "Reverse the following sequence: 97545",
+    "output": "54579"
+  },
+  {
+    "input": "Reverse the following sequence: 60052",
+    "output": "25006"
+  },
+  {
+    "input": "Reverse the following sequence: 93429",
+    "output": "92439"
+  },
+  {
+    "input": "Reverse the following sequence: 07706",
+    "output": "60770"
+  },
+  {
+    "input": "Reverse the following sequence: 22762",
+    "output": "26722"
+  },
+  {
+    "input": "Reverse the following sequence: 87445",
+    "output": "54478"
+  },
+  {
+    "input": "Reverse the following sequence: 87068",
+    "output": "86078"
+  },
+  {
+    "input": "Reverse the following sequence: 38099",
+    "output": "99083"
+  },
+  {
+    "input": "Reverse the following sequence: 64777",
+    "output": "77746"
+  },
+  {
+    "input": "Reverse the following sequence: 36876",
+    "output": "67863"
+  },
+  {
+    "input": "Reverse the following sequence: 02264",
+    "output": "46220"
+  },
+  {
+    "input": "Reverse the following sequence: 55952",
+    "output": "25955"
+  },
+  {
+    "input": "Reverse the following sequence: 17244",
+    "output": "44271"
+  },
+  {
+    "input": "Reverse the following sequence: 81689",
+    "output": "98618"
+  },
+  {
+    "input": "Reverse the following sequence: 85527",
+    "output": "72558"
+  },
+  {
+    "input": "Reverse the following sequence: 28325",
+    "output": "52382"
+  },
+  {
+    "input": "Reverse the following sequence: 78063",
+    "output": "36087"
+  },
+  {
+    "input": "Reverse the following sequence: 09039",
+    "output": "93090"
+  },
+  {
+    "input": "Reverse the following sequence: 85382",
+    "output": "28358"
+  },
+  {
+    "input": "Reverse the following sequence: 04460",
+    "output": "06440"
+  },
+  {
+    "input": "Reverse the following sequence: 59760",
+    "output": "06795"
+  },
+  {
+    "input": "Reverse the following sequence: 29042",
+    "output": "24092"
+  },
+  {
+    "input": "Reverse the following sequence: 67470",
+    "output": "07476"
+  },
+  {
+    "input": "Reverse the following sequence: 16516",
+    "output": "61561"
+  },
+  {
+    "input": "Reverse the following sequence: 05741",
+    "output": "14750"
+  },
+  {
+    "input": "Reverse the following sequence: 81882",
+    "output": "28818"
+  },
+  {
+    "input": "Reverse the following sequence: 70249",
+    "output": "94207"
+  },
+  {
+    "input": "Reverse the following sequence: 64428",
+    "output": "82446"
+  },
+  {
+    "input": "Reverse the following sequence: 48446",
+    "output": "64484"
+  },
+  {
+    "input": "Reverse the following sequence: 15511",
+    "output": "11551"
+  },
+  {
+    "input": "Reverse the following sequence: 81186",
+    "output": "68118"
+  },
+  {
+    "input": "Reverse the following sequence: 71403",
+    "output": "30417"
+  },
+  {
+    "input": "Reverse the following sequence: 12585",
+    "output": "58521"
+  },
+  {
+    "input": "Reverse the following sequence: 42315",
+    "output": "51324"
+  },
+  {
+    "input": "Reverse the following sequence: 75569",
+    "output": "96557"
+  },
+  {
+    "input": "Reverse the following sequence: 00108",
+    "output": "80100"
+  },
+  {
+    "input": "Reverse the following sequence: 90331",
+    "output": "13309"
+  },
+  {
+    "input": "Reverse the following sequence: 33671",
+    "output": "17633"
+  },
+  {
+    "input": "Reverse the following sequence: 40488",
+    "output": "88404"
+  },
+  {
+    "input": "Reverse the following sequence: 88517",
+    "output": "71588"
+  },
+  {
+    "input": "Reverse the following sequence: 66104",
+    "output": "40166"
+  },
+  {
+    "input": "Reverse the following sequence: 23148",
+    "output": "84132"
+  },
+  {
+    "input": "Reverse the following sequence: 48483",
+    "output": "38484"
+  },
+  {
+    "input": "Reverse the following sequence: 28011",
+    "output": "11082"
+  },
+  {
+    "input": "Reverse the following sequence: 02329",
+    "output": "92320"
+  },
+  {
+    "input": "Reverse the following sequence: 70649",
+    "output": "94607"
+  },
+  {
+    "input": "Reverse the following sequence: 55125",
+    "output": "52155"
+  },
+  {
+    "input": "Reverse the following sequence: 78141",
+    "output": "14187"
+  },
+  {
+    "input": "Reverse the following sequence: 80120",
+    "output": "02108"
+  },
+  {
+    "input": "Reverse the following sequence: 89580",
+    "output": "08598"
+  },
+  {
+    "input": "Reverse the following sequence: 84175",
+    "output": "57148"
+  },
+  {
+    "input": "Reverse the following sequence: 68435",
+    "output": "53486"
+  },
+  {
+    "input": "Reverse the following sequence: 72281",
+    "output": "18227"
+  },
+  {
+    "input": "Reverse the following sequence: 88494",
+    "output": "49488"
+  },
+  {
+    "input": "Reverse the following sequence: 42404",
+    "output": "40424"
+  },
+  {
+    "input": "Reverse the following sequence: 46665",
+    "output": "56664"
+  },
+  {
+    "input": "Reverse the following sequence: 29525",
+    "output": "52592"
+  },
+  {
+    "input": "Reverse the following sequence: 76925",
+    "output": "52967"
+  },
+  {
+    "input": "Reverse the following sequence: 44054",
+    "output": "45044"
+  },
+  {
+    "input": "Reverse the following sequence: 05063",
+    "output": "36050"
+  },
+  {
+    "input": "Reverse the following sequence: 43655",
+    "output": "55634"
+  },
+  {
+    "input": "Reverse the following sequence: 10437",
+    "output": "73401"
+  },
+  {
+    "input": "Reverse the following sequence: 12473",
+    "output": "37421"
+  },
+  {
+    "input": "Reverse the following sequence: 33271",
+    "output": "17233"
+  },
+  {
+    "input": "Reverse the following sequence: 55813",
+    "output": "31855"
+  },
+  {
+    "input": "Reverse the following sequence: 09982",
+    "output": "28990"
+  },
+  {
+    "input": "Reverse the following sequence: 49583",
+    "output": "38594"
+  },
+  {
+    "input": "Reverse the following sequence: 00551",
+    "output": "15500"
+  },
+  {
+    "input": "Reverse the following sequence: 25683",
+    "output": "38652"
+  },
+  {
+    "input": "Reverse the following sequence: 99460",
+    "output": "06499"
+  },
+  {
+    "input": "Reverse the following sequence: 69768",
+    "output": "86796"
+  },
+  {
+    "input": "Reverse the following sequence: 83985",
+    "output": "58938"
+  },
+  {
+    "input": "Reverse the following sequence: 15308",
+    "output": "80351"
+  },
+  {
+    "input": "Reverse the following sequence: 58588",
+    "output": "88585"
+  },
+  {
+    "input": "Reverse the following sequence: 72980",
+    "output": "08927"
+  },
+  {
+    "input": "Reverse the following sequence: 94104",
+    "output": "40149"
+  },
+  {
+    "input": "Reverse the following sequence: 76062",
+    "output": "26067"
+  },
+  {
+    "input": "Reverse the following sequence: 89508",
+    "output": "80598"
+  },
+  {
+    "input": "Reverse the following sequence: 10007",
+    "output": "70001"
+  },
+  {
+    "input": "Reverse the following sequence: 30560",
+    "output": "06503"
+  },
+  {
+    "input": "Reverse the following sequence: 34740",
+    "output": "04743"
+  },
+  {
+    "input": "Reverse the following sequence: 91163",
+    "output": "36119"
+  },
+  {
+    "input": "Reverse the following sequence: 48607",
+    "output": "70684"
+  },
+  {
+    "input": "Reverse the following sequence: 89509",
+    "output": "90598"
+  },
+  {
+    "input": "Reverse the following sequence: 36105",
+    "output": "50163"
+  },
+  {
+    "input": "Reverse the following sequence: 77161",
+    "output": "16177"
+  },
+  {
+    "input": "Reverse the following sequence: 72787",
+    "output": "78727"
+  },
+  {
+    "input": "Reverse the following sequence: 35993",
+    "output": "39953"
+  },
+  {
+    "input": "Reverse the following sequence: 85012",
+    "output": "21058"
+  },
+  {
+    "input": "Reverse the following sequence: 47986",
+    "output": "68974"
+  },
+  {
+    "input": "Reverse the following sequence: 89678",
+    "output": "87698"
+  },
+  {
+    "input": "Reverse the following sequence: 03373",
+    "output": "37330"
+  },
+  {
+    "input": "Reverse the following sequence: 46197",
+    "output": "79164"
+  },
+  {
+    "input": "Reverse the following sequence: 86719",
+    "output": "91768"
+  },
+  {
+    "input": "Reverse the following sequence: 40358",
+    "output": "85304"
+  },
+  {
+    "input": "Reverse the following sequence: 82233",
+    "output": "33228"
+  },
+  {
+    "input": "Reverse the following sequence: 87370",
+    "output": "07378"
+  },
+  {
+    "input": "Reverse the following sequence: 13529",
+    "output": "92531"
+  },
+  {
+    "input": "Reverse the following sequence: 12588",
+    "output": "88521"
+  },
+  {
+    "input": "Reverse the following sequence: 86415",
+    "output": "51468"
+  },
+  {
+    "input": "Reverse the following sequence: 21732",
+    "output": "23712"
+  },
+  {
+    "input": "Reverse the following sequence: 15155",
+    "output": "55151"
+  },
+  {
+    "input": "Reverse the following sequence: 10319",
+    "output": "91301"
+  },
+  {
+    "input": "Reverse the following sequence: 39296",
+    "output": "69293"
+  },
+  {
+    "input": "Reverse the following sequence: 27688",
+    "output": "88672"
+  },
+  {
+    "input": "Reverse the following sequence: 99997",
+    "output": "79999"
+  },
+  {
+    "input": "Reverse the following sequence: 35728",
+    "output": "82753"
+  },
+  {
+    "input": "Reverse the following sequence: 60853",
+    "output": "35806"
+  },
+  {
+    "input": "Reverse the following sequence: 50751",
+    "output": "15705"
+  },
+  {
+    "input": "Reverse the following sequence: 52012",
+    "output": "21025"
+  },
+  {
+    "input": "Reverse the following sequence: 74377",
+    "output": "77347"
+  },
+  {
+    "input": "Reverse the following sequence: 04441",
+    "output": "14440"
+  },
+  {
+    "input": "Reverse the following sequence: 04859",
+    "output": "95840"
+  },
+  {
+    "input": "Reverse the following sequence: 51771",
+    "output": "17715"
+  },
+  {
+    "input": "Reverse the following sequence: 58328",
+    "output": "82385"
+  },
+  {
+    "input": "Reverse the following sequence: 11391",
+    "output": "19311"
+  },
+  {
+    "input": "Reverse the following sequence: 73124",
+    "output": "42137"
+  },
+  {
+    "input": "Reverse the following sequence: 29680",
+    "output": "08692"
+  },
+  {
+    "input": "Reverse the following sequence: 83804",
+    "output": "40838"
+  },
+  {
+    "input": "Reverse the following sequence: 44140",
+    "output": "04144"
+  },
+  {
+    "input": "Reverse the following sequence: 53934",
+    "output": "43935"
+  },
+  {
+    "input": "Reverse the following sequence: 13144",
+    "output": "44131"
+  },
+  {
+    "input": "Reverse the following sequence: 92086",
+    "output": "68029"
+  },
+  {
+    "input": "Reverse the following sequence: 15918",
+    "output": "81951"
+  },
+  {
+    "input": "Reverse the following sequence: 47749",
+    "output": "94774"
+  },
+  {
+    "input": "Reverse the following sequence: 58300",
+    "output": "00385"
+  },
+  {
+    "input": "Reverse the following sequence: 55665",
+    "output": "56655"
+  },
+  {
+    "input": "Reverse the following sequence: 47334",
+    "output": "43374"
+  },
+  {
+    "input": "Reverse the following sequence: 75405",
+    "output": "50457"
+  },
+  {
+    "input": "Reverse the following sequence: 22985",
+    "output": "58922"
+  },
+  {
+    "input": "Reverse the following sequence: 84247",
+    "output": "74248"
+  },
+  {
+    "input": "Reverse the following sequence: 10309",
+    "output": "90301"
+  },
+  {
+    "input": "Reverse the following sequence: 39431",
+    "output": "13493"
+  },
+  {
+    "input": "Reverse the following sequence: 79309",
+    "output": "90397"
+  },
+  {
+    "input": "Reverse the following sequence: 42683",
+    "output": "38624"
+  },
+  {
+    "input": "Reverse the following sequence: 35733",
+    "output": "33753"
+  },
+  {
+    "input": "Reverse the following sequence: 68907",
+    "output": "70986"
+  },
+  {
+    "input": "Reverse the following sequence: 44846",
+    "output": "64844"
+  },
+  {
+    "input": "Reverse the following sequence: 26552",
+    "output": "25562"
+  },
+  {
+    "input": "Reverse the following sequence: 06422",
+    "output": "22460"
+  },
+  {
+    "input": "Reverse the following sequence: 48648",
+    "output": "84684"
+  },
+  {
+    "input": "Reverse the following sequence: 98873",
+    "output": "37889"
+  },
+  {
+    "input": "Reverse the following sequence: 86064",
+    "output": "46068"
+  },
+  {
+    "input": "Reverse the following sequence: 41353",
+    "output": "35314"
+  },
+  {
+    "input": "Reverse the following sequence: 15215",
+    "output": "51251"
+  },
+  {
+    "input": "Reverse the following sequence: 42030",
+    "output": "03024"
+  },
+  {
+    "input": "Reverse the following sequence: 55204",
+    "output": "40255"
+  },
+  {
+    "input": "Reverse the following sequence: 70804",
+    "output": "40807"
+  },
+  {
+    "input": "Reverse the following sequence: 10940",
+    "output": "04901"
+  },
+  {
+    "input": "Reverse the following sequence: 53968",
+    "output": "86935"
+  },
+  {
+    "input": "Reverse the following sequence: 52298",
+    "output": "89225"
+  },
+  {
+    "input": "Reverse the following sequence: 34652",
+    "output": "25643"
+  },
+  {
+    "input": "Reverse the following sequence: 12083",
+    "output": "38021"
+  },
+  {
+    "input": "Reverse the following sequence: 32691",
+    "output": "19623"
+  },
+  {
+    "input": "Reverse the following sequence: 51220",
+    "output": "02215"
+  },
+  {
+    "input": "Reverse the following sequence: 49697",
+    "output": "79694"
+  },
+  {
+    "input": "Reverse the following sequence: 74102",
+    "output": "20147"
+  },
+  {
+    "input": "Reverse the following sequence: 54268",
+    "output": "86245"
+  },
+  {
+    "input": "Reverse the following sequence: 42760",
+    "output": "06724"
+  },
+  {
+    "input": "Reverse the following sequence: 16410",
+    "output": "01461"
+  },
+  {
+    "input": "Reverse the following sequence: 22365",
+    "output": "56322"
+  },
+  {
+    "input": "Reverse the following sequence: 73153",
+    "output": "35137"
+  },
+  {
+    "input": "Reverse the following sequence: 70605",
+    "output": "50607"
+  },
+  {
+    "input": "Reverse the following sequence: 17298",
+    "output": "89271"
+  },
+  {
+    "input": "Reverse the following sequence: 61285",
+    "output": "58216"
+  },
+  {
+    "input": "Reverse the following sequence: 36931",
+    "output": "13963"
+  },
+  {
+    "input": "Reverse the following sequence: 73465",
+    "output": "56437"
+  },
+  {
+    "input": "Reverse the following sequence: 24942",
+    "output": "24942"
+  },
+  {
+    "input": "Reverse the following sequence: 25712",
+    "output": "21752"
+  },
+  {
+    "input": "Reverse the following sequence: 25517",
+    "output": "71552"
+  },
+  {
+    "input": "Reverse the following sequence: 01747",
+    "output": "74710"
+  },
+  {
+    "input": "Reverse the following sequence: 76163",
+    "output": "36167"
+  },
+  {
+    "input": "Reverse the following sequence: 07508",
+    "output": "80570"
+  },
+  {
+    "input": "Reverse the following sequence: 59656",
+    "output": "65695"
+  },
+  {
+    "input": "Reverse the following sequence: 93031",
+    "output": "13039"
+  },
+  {
+    "input": "Reverse the following sequence: 53643",
+    "output": "34635"
+  },
+  {
+    "input": "Reverse the following sequence: 57308",
+    "output": "80375"
+  },
+  {
+    "input": "Reverse the following sequence: 02864",
+    "output": "46820"
+  },
+  {
+    "input": "Reverse the following sequence: 89238",
+    "output": "83298"
+  },
+  {
+    "input": "Reverse the following sequence: 79687",
+    "output": "78697"
+  },
+  {
+    "input": "Reverse the following sequence: 45991",
+    "output": "19954"
+  },
+  {
+    "input": "Reverse the following sequence: 46224",
+    "output": "42264"
+  },
+  {
+    "input": "Reverse the following sequence: 69310",
+    "output": "01396"
+  },
+  {
+    "input": "Reverse the following sequence: 03654",
+    "output": "45630"
+  },
+  {
+    "input": "Reverse the following sequence: 29275",
+    "output": "57292"
+  },
+  {
+    "input": "Reverse the following sequence: 25153",
+    "output": "35152"
+  },
+  {
+    "input": "Reverse the following sequence: 86037",
+    "output": "73068"
+  },
+  {
+    "input": "Reverse the following sequence: 96239",
+    "output": "93269"
+  },
+  {
+    "input": "Reverse the following sequence: 67571",
+    "output": "17576"
+  },
+  {
+    "input": "Reverse the following sequence: 73385",
+    "output": "58337"
+  },
+  {
+    "input": "Reverse the following sequence: 37782",
+    "output": "28773"
+  },
+  {
+    "input": "Reverse the following sequence: 89856",
+    "output": "65898"
+  },
+  {
+    "input": "Reverse the following sequence: 37314",
+    "output": "41373"
+  },
+  {
+    "input": "Reverse the following sequence: 84615",
+    "output": "51648"
+  },
+  {
+    "input": "Reverse the following sequence: 02588",
+    "output": "88520"
+  },
+  {
+    "input": "Reverse the following sequence: 73638",
+    "output": "83637"
+  },
+  {
+    "input": "Reverse the following sequence: 11945",
+    "output": "54911"
+  },
+  {
+    "input": "Reverse the following sequence: 83374",
+    "output": "47338"
+  },
+  {
+    "input": "Reverse the following sequence: 71437",
+    "output": "73417"
+  },
+  {
+    "input": "Reverse the following sequence: 65453",
+    "output": "35456"
+  },
+  {
+    "input": "Reverse the following sequence: 70088",
+    "output": "88007"
+  },
+  {
+    "input": "Reverse the following sequence: 21662",
+    "output": "26612"
+  },
+  {
+    "input": "Reverse the following sequence: 50659",
+    "output": "95605"
+  },
+  {
+    "input": "Reverse the following sequence: 38158",
+    "output": "85183"
+  },
+  {
+    "input": "Reverse the following sequence: 16240",
+    "output": "04261"
+  },
+  {
+    "input": "Reverse the following sequence: 63424",
+    "output": "42436"
+  },
+  {
+    "input": "Reverse the following sequence: 76459",
+    "output": "95467"
+  },
+  {
+    "input": "Reverse the following sequence: 57674",
+    "output": "47675"
+  },
+  {
+    "input": "Reverse the following sequence: 16958",
+    "output": "85961"
+  },
+  {
+    "input": "Reverse the following sequence: 93698",
+    "output": "89639"
+  },
+  {
+    "input": "Reverse the following sequence: 16023",
+    "output": "32061"
+  },
+  {
+    "input": "Reverse the following sequence: 86883",
+    "output": "38868"
+  },
+  {
+    "input": "Reverse the following sequence: 39756",
+    "output": "65793"
+  },
+  {
+    "input": "Reverse the following sequence: 51386",
+    "output": "68315"
+  },
+  {
+    "input": "Reverse the following sequence: 87680",
+    "output": "08678"
+  },
+  {
+    "input": "Reverse the following sequence: 31512",
+    "output": "21513"
+  },
+  {
+    "input": "Reverse the following sequence: 02880",
+    "output": "08820"
+  },
+  {
+    "input": "Reverse the following sequence: 34825",
+    "output": "52843"
+  },
+  {
+    "input": "Reverse the following sequence: 04321",
+    "output": "12340"
+  },
+  {
+    "input": "Reverse the following sequence: 40444",
+    "output": "44404"
+  },
+  {
+    "input": "Reverse the following sequence: 22309",
+    "output": "90322"
+  },
+  {
+    "input": "Reverse the following sequence: 88054",
+    "output": "45088"
+  },
+  {
+    "input": "Reverse the following sequence: 56789",
+    "output": "98765"
+  },
+  {
+    "input": "Reverse the following sequence: 50661",
+    "output": "16605"
+  },
+  {
+    "input": "Reverse the following sequence: 04979",
+    "output": "97940"
+  },
+  {
+    "input": "Reverse the following sequence: 32880",
+    "output": "08823"
+  },
+  {
+    "input": "Reverse the following sequence: 76747",
+    "output": "74767"
+  },
+  {
+    "input": "Reverse the following sequence: 60268",
+    "output": "86206"
+  },
+  {
+    "input": "Reverse the following sequence: 99539",
+    "output": "93599"
+  },
+  {
+    "input": "Reverse the following sequence: 74636",
+    "output": "63647"
+  },
+  {
+    "input": "Reverse the following sequence: 62714",
+    "output": "41726"
+  },
+  {
+    "input": "Reverse the following sequence: 82241",
+    "output": "14228"
+  },
+  {
+    "input": "Reverse the following sequence: 51659",
+    "output": "95615"
+  },
+  {
+    "input": "Reverse the following sequence: 14186",
+    "output": "68141"
+  },
+  {
+    "input": "Reverse the following sequence: 17407",
+    "output": "70471"
+  },
+  {
+    "input": "Reverse the following sequence: 33525",
+    "output": "52533"
+  },
+  {
+    "input": "Reverse the following sequence: 44375",
+    "output": "57344"
+  },
+  {
+    "input": "Reverse the following sequence: 43427",
+    "output": "72434"
+  },
+  {
+    "input": "Reverse the following sequence: 23807",
+    "output": "70832"
+  },
+  {
+    "input": "Reverse the following sequence: 71696",
+    "output": "69617"
+  },
+  {
+    "input": "Reverse the following sequence: 98658",
+    "output": "85689"
+  },
+  {
+    "input": "Reverse the following sequence: 13538",
+    "output": "83531"
+  },
+  {
+    "input": "Reverse the following sequence: 87874",
+    "output": "47878"
+  },
+  {
+    "input": "Reverse the following sequence: 36233",
+    "output": "33263"
+  },
+  {
+    "input": "Reverse the following sequence: 15352",
+    "output": "25351"
+  },
+  {
+    "input": "Reverse the following sequence: 51654",
+    "output": "45615"
+  },
+  {
+    "input": "Reverse the following sequence: 96782",
+    "output": "28769"
+  },
+  {
+    "input": "Reverse the following sequence: 76390",
+    "output": "09367"
+  },
+  {
+    "input": "Reverse the following sequence: 61396",
+    "output": "69316"
+  },
+  {
+    "input": "Reverse the following sequence: 16164",
+    "output": "46161"
+  },
+  {
+    "input": "Reverse the following sequence: 00430",
+    "output": "03400"
+  },
+  {
+    "input": "Reverse the following sequence: 58257",
+    "output": "75285"
+  },
+  {
+    "input": "Reverse the following sequence: 43449",
+    "output": "94434"
+  },
+  {
+    "input": "Reverse the following sequence: 90492",
+    "output": "29409"
+  },
+  {
+    "input": "Reverse the following sequence: 52606",
+    "output": "60625"
+  },
+  {
+    "input": "Reverse the following sequence: 81328",
+    "output": "82318"
+  },
+  {
+    "input": "Reverse the following sequence: 09095",
+    "output": "59090"
+  },
+  {
+    "input": "Reverse the following sequence: 32139",
+    "output": "93123"
+  },
+  {
+    "input": "Reverse the following sequence: 35147",
+    "output": "74153"
+  },
+  {
+    "input": "Reverse the following sequence: 12593",
+    "output": "39521"
+  },
+  {
+    "input": "Reverse the following sequence: 72428",
+    "output": "82427"
+  },
+  {
+    "input": "Reverse the following sequence: 77763",
+    "output": "36777"
+  },
+  {
+    "input": "Reverse the following sequence: 03123",
+    "output": "32130"
+  },
+  {
+    "input": "Reverse the following sequence: 54924",
+    "output": "42945"
+  },
+  {
+    "input": "Reverse the following sequence: 31358",
+    "output": "85313"
+  },
+  {
+    "input": "Reverse the following sequence: 45937",
+    "output": "73954"
+  },
+  {
+    "input": "Reverse the following sequence: 60138",
+    "output": "83106"
+  },
+  {
+    "input": "Reverse the following sequence: 75202",
+    "output": "20257"
+  },
+  {
+    "input": "Reverse the following sequence: 32652",
+    "output": "25623"
+  },
+  {
+    "input": "Reverse the following sequence: 63668",
+    "output": "86636"
+  },
+  {
+    "input": "Reverse the following sequence: 25362",
+    "output": "26352"
+  },
+  {
+    "input": "Reverse the following sequence: 90257",
+    "output": "75209"
+  },
+  {
+    "input": "Reverse the following sequence: 40284",
+    "output": "48204"
+  },
+  {
+    "input": "Reverse the following sequence: 83658",
+    "output": "85638"
+  },
+  {
+    "input": "Reverse the following sequence: 76720",
+    "output": "02767"
+  },
+  {
+    "input": "Reverse the following sequence: 03471",
+    "output": "17430"
+  },
+  {
+    "input": "Reverse the following sequence: 83546",
+    "output": "64538"
+  },
+  {
+    "input": "Reverse the following sequence: 90603",
+    "output": "30609"
+  },
+  {
+    "input": "Reverse the following sequence: 99787",
+    "output": "78799"
+  },
+  {
+    "input": "Reverse the following sequence: 88887",
+    "output": "78888"
+  },
+  {
+    "input": "Reverse the following sequence: 05421",
+    "output": "12450"
+  },
+  {
+    "input": "Reverse the following sequence: 70744",
+    "output": "44707"
+  },
+  {
+    "input": "Reverse the following sequence: 60989",
+    "output": "98906"
+  },
+  {
+    "input": "Reverse the following sequence: 87417",
+    "output": "71478"
+  },
+  {
+    "input": "Reverse the following sequence: 49273",
+    "output": "37294"
+  },
+  {
+    "input": "Reverse the following sequence: 74055",
+    "output": "55047"
+  },
+  {
+    "input": "Reverse the following sequence: 03806",
+    "output": "60830"
+  },
+  {
+    "input": "Reverse the following sequence: 09635",
+    "output": "53690"
+  },
+  {
+    "input": "Reverse the following sequence: 27073",
+    "output": "37072"
+  },
+  {
+    "input": "Reverse the following sequence: 73916",
+    "output": "61937"
+  },
+  {
+    "input": "Reverse the following sequence: 83323",
+    "output": "32338"
+  },
+  {
+    "input": "Reverse the following sequence: 14219",
+    "output": "91241"
+  },
+  {
+    "input": "Reverse the following sequence: 49242",
+    "output": "24294"
+  },
+  {
+    "input": "Reverse the following sequence: 31509",
+    "output": "90513"
+  },
+  {
+    "input": "Reverse the following sequence: 80474",
+    "output": "47408"
+  },
+  {
+    "input": "Reverse the following sequence: 88256",
+    "output": "65288"
+  },
+  {
+    "input": "Reverse the following sequence: 28768",
+    "output": "86782"
+  },
+  {
+    "input": "Reverse the following sequence: 11085",
+    "output": "58011"
+  },
+  {
+    "input": "Reverse the following sequence: 26482",
+    "output": "28462"
+  },
+  {
+    "input": "Reverse the following sequence: 32862",
+    "output": "26823"
+  },
+  {
+    "input": "Reverse the following sequence: 68866",
+    "output": "66886"
+  },
+  {
+    "input": "Reverse the following sequence: 74556",
+    "output": "65547"
+  },
+  {
+    "input": "Reverse the following sequence: 56589",
+    "output": "98565"
+  },
+  {
+    "input": "Reverse the following sequence: 30847",
+    "output": "74803"
+  },
+  {
+    "input": "Reverse the following sequence: 57304",
+    "output": "40375"
+  },
+  {
+    "input": "Reverse the following sequence: 60708",
+    "output": "80706"
+  },
+  {
+    "input": "Reverse the following sequence: 83261",
+    "output": "16238"
+  },
+  {
+    "input": "Reverse the following sequence: 78177",
+    "output": "77187"
+  },
+  {
+    "input": "Reverse the following sequence: 17344",
+    "output": "44371"
+  },
+  {
+    "input": "Reverse the following sequence: 58427",
+    "output": "72485"
+  },
+  {
+    "input": "Reverse the following sequence: 76060",
+    "output": "06067"
+  },
+  {
+    "input": "Reverse the following sequence: 79795",
+    "output": "59797"
+  },
+  {
+    "input": "Reverse the following sequence: 90841",
+    "output": "14809"
+  },
+  {
+    "input": "Reverse the following sequence: 66565",
+    "output": "56566"
+  },
+  {
+    "input": "Reverse the following sequence: 71561",
+    "output": "16517"
+  },
+  {
+    "input": "Reverse the following sequence: 80450",
+    "output": "05408"
+  },
+  {
+    "input": "Reverse the following sequence: 92606",
+    "output": "60629"
+  },
+  {
+    "input": "Reverse the following sequence: 27063",
+    "output": "36072"
+  },
+  {
+    "input": "Reverse the following sequence: 51461",
+    "output": "16415"
+  },
+  {
+    "input": "Reverse the following sequence: 96587",
+    "output": "78569"
+  },
+  {
+    "input": "Reverse the following sequence: 53146",
+    "output": "64135"
+  },
+  {
+    "input": "Reverse the following sequence: 02356",
+    "output": "65320"
+  },
+  {
+    "input": "Reverse the following sequence: 99865",
+    "output": "56899"
+  },
+  {
+    "input": "Reverse the following sequence: 27736",
+    "output": "63772"
+  },
+  {
+    "input": "Reverse the following sequence: 48457",
+    "output": "75484"
+  },
+  {
+    "input": "Reverse the following sequence: 17980",
+    "output": "08971"
+  },
+  {
+    "input": "Reverse the following sequence: 77420",
+    "output": "02477"
+  },
+  {
+    "input": "Reverse the following sequence: 53850",
+    "output": "05835"
+  },
+  {
+    "input": "Reverse the following sequence: 95080",
+    "output": "08059"
+  },
+  {
+    "input": "Reverse the following sequence: 60851",
+    "output": "15806"
+  },
+  {
+    "input": "Reverse the following sequence: 42370",
+    "output": "07324"
+  },
+  {
+    "input": "Reverse the following sequence: 85298",
+    "output": "89258"
+  },
+  {
+    "input": "Reverse the following sequence: 52418",
+    "output": "81425"
+  },
+  {
+    "input": "Reverse the following sequence: 96844",
+    "output": "44869"
+  },
+  {
+    "input": "Reverse the following sequence: 79912",
+    "output": "21997"
+  },
+  {
+    "input": "Reverse the following sequence: 76629",
+    "output": "92667"
+  },
+  {
+    "input": "Reverse the following sequence: 82869",
+    "output": "96828"
+  },
+  {
+    "input": "Reverse the following sequence: 88810",
+    "output": "01888"
+  },
+  {
+    "input": "Reverse the following sequence: 69551",
+    "output": "15596"
+  },
+  {
+    "input": "Reverse the following sequence: 54172",
+    "output": "27145"
+  },
+  {
+    "input": "Reverse the following sequence: 90672",
+    "output": "27609"
+  },
+  {
+    "input": "Reverse the following sequence: 26682",
+    "output": "28662"
+  },
+  {
+    "input": "Reverse the following sequence: 03536",
+    "output": "63530"
+  },
+  {
+    "input": "Reverse the following sequence: 04357",
+    "output": "75340"
+  },
+  {
+    "input": "Reverse the following sequence: 54011",
+    "output": "11045"
+  },
+  {
+    "input": "Reverse the following sequence: 89474",
+    "output": "47498"
+  },
+  {
+    "input": "Reverse the following sequence: 92615",
+    "output": "51629"
+  },
+  {
+    "input": "Reverse the following sequence: 70806",
+    "output": "60807"
+  },
+  {
+    "input": "Reverse the following sequence: 35995",
+    "output": "59953"
+  },
+  {
+    "input": "Reverse the following sequence: 79224",
+    "output": "42297"
+  },
+  {
+    "input": "Reverse the following sequence: 95009",
+    "output": "90059"
+  },
+  {
+    "input": "Reverse the following sequence: 81254",
+    "output": "45218"
+  },
+  {
+    "input": "Reverse the following sequence: 19341",
+    "output": "14391"
+  },
+  {
+    "input": "Reverse the following sequence: 54626",
+    "output": "62645"
+  },
+  {
+    "input": "Reverse the following sequence: 64724",
+    "output": "42746"
+  },
+  {
+    "input": "Reverse the following sequence: 73112",
+    "output": "21137"
+  },
+  {
+    "input": "Reverse the following sequence: 22581",
+    "output": "18522"
+  },
+  {
+    "input": "Reverse the following sequence: 50657",
+    "output": "75605"
+  },
+  {
+    "input": "Reverse the following sequence: 30332",
+    "output": "23303"
+  },
+  {
+    "input": "Reverse the following sequence: 08913",
+    "output": "31980"
+  },
+  {
+    "input": "Reverse the following sequence: 87322",
+    "output": "22378"
+  },
+  {
+    "input": "Reverse the following sequence: 54009",
+    "output": "90045"
+  },
+  {
+    "input": "Reverse the following sequence: 59063",
+    "output": "36095"
+  },
+  {
+    "input": "Reverse the following sequence: 10648",
+    "output": "84601"
+  },
+  {
+    "input": "Reverse the following sequence: 10483",
+    "output": "38401"
+  },
+  {
+    "input": "Reverse the following sequence: 73783",
+    "output": "38737"
+  },
+  {
+    "input": "Reverse the following sequence: 97203",
+    "output": "30279"
+  },
+  {
+    "input": "Reverse the following sequence: 83145",
+    "output": "54138"
+  },
+  {
+    "input": "Reverse the following sequence: 25024",
+    "output": "42052"
+  },
+  {
+    "input": "Reverse the following sequence: 48674",
+    "output": "47684"
+  },
+  {
+    "input": "Reverse the following sequence: 51738",
+    "output": "83715"
+  },
+  {
+    "input": "Reverse the following sequence: 49091",
+    "output": "19094"
+  },
+  {
+    "input": "Reverse the following sequence: 55542",
+    "output": "24555"
+  },
+  {
+    "input": "Reverse the following sequence: 25571",
+    "output": "17552"
+  },
+  {
+    "input": "Reverse the following sequence: 64055",
+    "output": "55046"
+  },
+  {
+    "input": "Reverse the following sequence: 10789",
+    "output": "98701"
+  },
+  {
+    "input": "Reverse the following sequence: 84801",
+    "output": "10848"
+  },
+  {
+    "input": "Reverse the following sequence: 59501",
+    "output": "10595"
+  },
+  {
+    "input": "Reverse the following sequence: 61944",
+    "output": "44916"
+  },
+  {
+    "input": "Reverse the following sequence: 65069",
+    "output": "96056"
+  },
+  {
+    "input": "Reverse the following sequence: 25102",
+    "output": "20152"
+  },
+  {
+    "input": "Reverse the following sequence: 06266",
+    "output": "66260"
+  },
+  {
+    "input": "Reverse the following sequence: 98822",
+    "output": "22889"
+  },
+  {
+    "input": "Reverse the following sequence: 50298",
+    "output": "89205"
+  },
+  {
+    "input": "Reverse the following sequence: 58155",
+    "output": "55185"
+  },
+  {
+    "input": "Reverse the following sequence: 56325",
+    "output": "52365"
+  },
+  {
+    "input": "Reverse the following sequence: 98861",
+    "output": "16889"
+  },
+  {
+    "input": "Reverse the following sequence: 25451",
+    "output": "15452"
+  },
+  {
+    "input": "Reverse the following sequence: 15079",
+    "output": "97051"
+  },
+  {
+    "input": "Reverse the following sequence: 45932",
+    "output": "23954"
+  },
+  {
+    "input": "Reverse the following sequence: 84520",
+    "output": "02548"
+  },
+  {
+    "input": "Reverse the following sequence: 78088",
+    "output": "88087"
+  },
+  {
+    "input": "Reverse the following sequence: 48023",
+    "output": "32084"
+  },
+  {
+    "input": "Reverse the following sequence: 70306",
+    "output": "60307"
+  },
+  {
+    "input": "Reverse the following sequence: 72316",
+    "output": "61327"
+  },
+  {
+    "input": "Reverse the following sequence: 42333",
+    "output": "33324"
+  },
+  {
+    "input": "Reverse the following sequence: 33776",
+    "output": "67733"
+  },
+  {
+    "input": "Reverse the following sequence: 77517",
+    "output": "71577"
+  },
+  {
+    "input": "Reverse the following sequence: 88444",
+    "output": "44488"
+  },
+  {
+    "input": "Reverse the following sequence: 46441",
+    "output": "14464"
+  },
+  {
+    "input": "Reverse the following sequence: 29789",
+    "output": "98792"
+  },
+  {
+    "input": "Reverse the following sequence: 97006",
+    "output": "60079"
+  },
+  {
+    "input": "Reverse the following sequence: 46689",
+    "output": "98664"
+  },
+  {
+    "input": "Reverse the following sequence: 91234",
+    "output": "43219"
+  },
+  {
+    "input": "Reverse the following sequence: 89613",
+    "output": "31698"
+  },
+  {
+    "input": "Reverse the following sequence: 89391",
+    "output": "19398"
+  },
+  {
+    "input": "Reverse the following sequence: 45814",
+    "output": "41854"
+  },
+  {
+    "input": "Reverse the following sequence: 99401",
+    "output": "10499"
+  },
+  {
+    "input": "Reverse the following sequence: 61853",
+    "output": "35816"
+  },
+  {
+    "input": "Reverse the following sequence: 67867",
+    "output": "76876"
+  },
+  {
+    "input": "Reverse the following sequence: 06675",
+    "output": "57660"
+  },
+  {
+    "input": "Reverse the following sequence: 61390",
+    "output": "09316"
+  },
+  {
+    "input": "Reverse the following sequence: 96383",
+    "output": "38369"
+  },
+  {
+    "input": "Reverse the following sequence: 04971",
+    "output": "17940"
+  },
+  {
+    "input": "Reverse the following sequence: 00577",
+    "output": "77500"
+  },
+  {
+    "input": "Reverse the following sequence: 37852",
+    "output": "25873"
+  },
+  {
+    "input": "Reverse the following sequence: 27186",
+    "output": "68172"
+  },
+  {
+    "input": "Reverse the following sequence: 55326",
+    "output": "62355"
+  },
+  {
+    "input": "Reverse the following sequence: 12955",
+    "output": "55921"
+  },
+  {
+    "input": "Reverse the following sequence: 11101",
+    "output": "10111"
+  },
+  {
+    "input": "Reverse the following sequence: 92706",
+    "output": "60729"
+  },
+  {
+    "input": "Reverse the following sequence: 83141",
+    "output": "14138"
+  },
+  {
+    "input": "Reverse the following sequence: 67536",
+    "output": "63576"
+  },
+  {
+    "input": "Reverse the following sequence: 72033",
+    "output": "33027"
+  },
+  {
+    "input": "Reverse the following sequence: 42061",
+    "output": "16024"
+  },
+  {
+    "input": "Reverse the following sequence: 79969",
+    "output": "96997"
+  },
+  {
+    "input": "Reverse the following sequence: 72057",
+    "output": "75027"
+  },
+  {
+    "input": "Reverse the following sequence: 38190",
+    "output": "09183"
+  },
+  {
+    "input": "Reverse the following sequence: 37076",
+    "output": "67073"
+  },
+  {
+    "input": "Reverse the following sequence: 94761",
+    "output": "16749"
+  },
+  {
+    "input": "Reverse the following sequence: 81103",
+    "output": "30118"
+  },
+  {
+    "input": "Reverse the following sequence: 72152",
+    "output": "25127"
+  },
+  {
+    "input": "Reverse the following sequence: 19818",
+    "output": "81891"
+  },
+  {
+    "input": "Reverse the following sequence: 99716",
+    "output": "61799"
+  },
+  {
+    "input": "Reverse the following sequence: 63025",
+    "output": "52036"
+  },
+  {
+    "input": "Reverse the following sequence: 84723",
+    "output": "32748"
+  },
+  {
+    "input": "Reverse the following sequence: 79569",
+    "output": "96597"
+  },
+  {
+    "input": "Reverse the following sequence: 12251",
+    "output": "15221"
+  },
+  {
+    "input": "Reverse the following sequence: 32459",
+    "output": "95423"
+  },
+  {
+    "input": "Reverse the following sequence: 02069",
+    "output": "96020"
+  },
+  {
+    "input": "Reverse the following sequence: 20135",
+    "output": "53102"
+  },
+  {
+    "input": "Reverse the following sequence: 51684",
+    "output": "48615"
+  },
+  {
+    "input": "Reverse the following sequence: 15220",
+    "output": "02251"
+  },
+  {
+    "input": "Reverse the following sequence: 06773",
+    "output": "37760"
+  },
+  {
+    "input": "Reverse the following sequence: 61981",
+    "output": "18916"
+  },
+  {
+    "input": "Reverse the following sequence: 36655",
+    "output": "55663"
+  },
+  {
+    "input": "Reverse the following sequence: 38852",
+    "output": "25883"
+  },
+  {
+    "input": "Reverse the following sequence: 84963",
+    "output": "36948"
+  },
+  {
+    "input": "Reverse the following sequence: 02187",
+    "output": "78120"
+  },
+  {
+    "input": "Reverse the following sequence: 57532",
+    "output": "23575"
+  },
+  {
+    "input": "Reverse the following sequence: 68104",
+    "output": "40186"
+  },
+  {
+    "input": "Reverse the following sequence: 26105",
+    "output": "50162"
+  },
+  {
+    "input": "Reverse the following sequence: 72445",
+    "output": "54427"
+  },
+  {
+    "input": "Reverse the following sequence: 35396",
+    "output": "69353"
+  },
+  {
+    "input": "Reverse the following sequence: 32242",
+    "output": "24223"
+  },
+  {
+    "input": "Reverse the following sequence: 56893",
+    "output": "39865"
+  },
+  {
+    "input": "Reverse the following sequence: 72579",
+    "output": "97527"
+  },
+  {
+    "input": "Reverse the following sequence: 11568",
+    "output": "86511"
+  },
+  {
+    "input": "Reverse the following sequence: 55703",
+    "output": "30755"
+  },
+  {
+    "input": "Reverse the following sequence: 22253",
+    "output": "35222"
+  },
+  {
+    "input": "Reverse the following sequence: 06861",
+    "output": "16860"
+  },
+  {
+    "input": "Reverse the following sequence: 23470",
+    "output": "07432"
+  },
+  {
+    "input": "Reverse the following sequence: 96209",
+    "output": "90269"
+  },
+  {
+    "input": "Reverse the following sequence: 23136",
+    "output": "63132"
+  },
+  {
+    "input": "Reverse the following sequence: 95108",
+    "output": "80159"
+  },
+  {
+    "input": "Reverse the following sequence: 51562",
+    "output": "26515"
+  },
+  {
+    "input": "Reverse the following sequence: 08152",
+    "output": "25180"
+  },
+  {
+    "input": "Reverse the following sequence: 34935",
+    "output": "53943"
+  },
+  {
+    "input": "Reverse the following sequence: 55613",
+    "output": "31655"
+  },
+  {
+    "input": "Reverse the following sequence: 54007",
+    "output": "70045"
+  },
+  {
+    "input": "Reverse the following sequence: 45201",
+    "output": "10254"
+  },
+  {
+    "input": "Reverse the following sequence: 53484",
+    "output": "48435"
+  },
+  {
+    "input": "Reverse the following sequence: 61717",
+    "output": "71716"
+  },
+  {
+    "input": "Reverse the following sequence: 08865",
+    "output": "56880"
+  },
+  {
+    "input": "Reverse the following sequence: 27702",
+    "output": "20772"
+  },
+  {
+    "input": "Reverse the following sequence: 72085",
+    "output": "58027"
+  },
+  {
+    "input": "Reverse the following sequence: 52175",
+    "output": "57125"
+  },
+  {
+    "input": "Reverse the following sequence: 15883",
+    "output": "38851"
+  },
+  {
+    "input": "Reverse the following sequence: 02528",
+    "output": "82520"
+  },
+  {
+    "input": "Reverse the following sequence: 74238",
+    "output": "83247"
+  },
+  {
+    "input": "Reverse the following sequence: 46033",
+    "output": "33064"
+  },
+  {
+    "input": "Reverse the following sequence: 19629",
+    "output": "92691"
+  },
+  {
+    "input": "Reverse the following sequence: 72159",
+    "output": "95127"
+  },
+  {
+    "input": "Reverse the following sequence: 47299",
+    "output": "99274"
+  },
+  {
+    "input": "Reverse the following sequence: 27368",
+    "output": "86372"
+  },
+  {
+    "input": "Reverse the following sequence: 55450",
+    "output": "05455"
+  },
+  {
+    "input": "Reverse the following sequence: 81665",
+    "output": "56618"
+  },
+  {
+    "input": "Reverse the following sequence: 18917",
+    "output": "71981"
+  },
+  {
+    "input": "Reverse the following sequence: 87704",
+    "output": "40778"
+  },
+  {
+    "input": "Reverse the following sequence: 00643",
+    "output": "34600"
+  },
+  {
+    "input": "Reverse the following sequence: 07499",
+    "output": "99470"
+  },
+  {
+    "input": "Reverse the following sequence: 95850",
+    "output": "05859"
+  },
+  {
+    "input": "Reverse the following sequence: 94455",
+    "output": "55449"
+  },
+  {
+    "input": "Reverse the following sequence: 27557",
+    "output": "75572"
+  },
+  {
+    "input": "Reverse the following sequence: 56857",
+    "output": "75865"
+  },
+  {
+    "input": "Reverse the following sequence: 16639",
+    "output": "93661"
+  },
+  {
+    "input": "Reverse the following sequence: 05723",
+    "output": "32750"
+  },
+  {
+    "input": "Reverse the following sequence: 79164",
+    "output": "46197"
+  },
+  {
+    "input": "Reverse the following sequence: 54661",
+    "output": "16645"
+  },
+  {
+    "input": "Reverse the following sequence: 84504",
+    "output": "40548"
+  },
+  {
+    "input": "Reverse the following sequence: 96941",
+    "output": "14969"
+  },
+  {
+    "input": "Reverse the following sequence: 34735",
+    "output": "53743"
+  },
+  {
+    "input": "Reverse the following sequence: 62353",
+    "output": "35326"
+  },
+  {
+    "input": "Reverse the following sequence: 95037",
+    "output": "73059"
+  },
+  {
+    "input": "Reverse the following sequence: 83418",
+    "output": "81438"
+  },
+  {
+    "input": "Reverse the following sequence: 62132",
+    "output": "23126"
+  },
+  {
+    "input": "Reverse the following sequence: 85883",
+    "output": "38858"
+  },
+  {
+    "input": "Reverse the following sequence: 74337",
+    "output": "73347"
+  },
+  {
+    "input": "Reverse the following sequence: 85264",
+    "output": "46258"
+  },
+  {
+    "input": "Reverse the following sequence: 81775",
+    "output": "57718"
+  },
+  {
+    "input": "Reverse the following sequence: 54357",
+    "output": "75345"
+  },
+  {
+    "input": "Reverse the following sequence: 00437",
+    "output": "73400"
+  },
+  {
+    "input": "Reverse the following sequence: 73856",
+    "output": "65837"
+  },
+  {
+    "input": "Reverse the following sequence: 44182",
+    "output": "28144"
+  },
+  {
+    "input": "Reverse the following sequence: 10214",
+    "output": "41201"
+  },
+  {
+    "input": "Reverse the following sequence: 15723",
+    "output": "32751"
+  },
+  {
+    "input": "Reverse the following sequence: 56833",
+    "output": "33865"
+  },
+  {
+    "input": "Reverse the following sequence: 95272",
+    "output": "27259"
+  },
+  {
+    "input": "Reverse the following sequence: 51766",
+    "output": "66715"
+  },
+  {
+    "input": "Reverse the following sequence: 18652",
+    "output": "25681"
+  },
+  {
+    "input": "Reverse the following sequence: 08726",
+    "output": "62780"
+  },
+  {
+    "input": "Reverse the following sequence: 17172",
+    "output": "27171"
+  },
+  {
+    "input": "Reverse the following sequence: 16074",
+    "output": "47061"
+  },
+  {
+    "input": "Reverse the following sequence: 60585",
+    "output": "58506"
+  },
+  {
+    "input": "Reverse the following sequence: 82215",
+    "output": "51228"
+  },
+  {
+    "input": "Reverse the following sequence: 38072",
+    "output": "27083"
+  },
+  {
+    "input": "Reverse the following sequence: 51226",
+    "output": "62215"
+  },
+  {
+    "input": "Reverse the following sequence: 34680",
+    "output": "08643"
+  },
+  {
+    "input": "Reverse the following sequence: 33638",
+    "output": "83633"
+  },
+  {
+    "input": "Reverse the following sequence: 85654",
+    "output": "45658"
+  },
+  {
+    "input": "Reverse the following sequence: 00619",
+    "output": "91600"
+  },
+  {
+    "input": "Reverse the following sequence: 68679",
+    "output": "97686"
+  },
+  {
+    "input": "Reverse the following sequence: 61392",
+    "output": "29316"
+  },
+  {
+    "input": "Reverse the following sequence: 20423",
+    "output": "32402"
+  }
+]

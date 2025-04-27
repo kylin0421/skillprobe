@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "What is 189 + 178?",
+    "output": "367"
+  },
+  {
+    "input": "What is 117 + 116?",
+    "output": "233"
+  },
+  {
+    "input": "What is 183 + 119?",
+    "output": "302"
+  },
+  {
+    "input": "What is 140 + 29?",
+    "output": "169"
+  },
+  {
+    "input": "What is 134 + 188?",
+    "output": "322"
+  },
+  {
+    "input": "What is 35 + 143?",
+    "output": "178"
+  },
+  {
+    "input": "What is 28 + 40?",
+    "output": "68"
+  },
+  {
+    "input": "What is 58 + 189?",
+    "output": "247"
+  },
+  {
+    "input": "What is 34 + 26?",
+    "output": "60"
+  },
+  {
+    "input": "What is 175 + 188?",
+    "output": "363"
+  },
+  {
+    "input": "What is 197 + 119?",
+    "output": "316"
+  },
+  {
+    "input": "What is 160 + 164?",
+    "output": "324"
+  },
+  {
+    "input": "What is 31 + 70?",
+    "output": "101"
+  },
+  {
+    "input": "What is 48 + 76?",
+    "output": "124"
+  },
+  {
+    "input": "What is 3 + 5?",
+    "output": "8"
+  },
+  {
+    "input": "What is 27 + 191?",
+    "output": "218"
+  },
+  {
+    "input": "What is 157 + 91?",
+    "output": "248"
+  },
+  {
+    "input": "What is 117 + 67?",
+    "output": "184"
+  },
+  {
+    "input": "What is 56 + 145?",
+    "output": "201"
+  },
+  {
+    "input": "What is 79 + 197?",
+    "output": "276"
+  },
+  {
+    "input": "What is 108 + 43?",
+    "output": "151"
+  },
+  {
+    "input": "What is 148 + 170?",
+    "output": "318"
+  },
+  {
+    "input": "What is 173 + 166?",
+    "output": "339"
+  },
+  {
+    "input": "What is 69 + 102?",
+    "output": "171"
+  },
+  {
+    "input": "What is 15 + 80?",
+    "output": "95"
+  },
+  {
+    "input": "What is 32 + 26?",
+    "output": "58"
+  },
+  {
+    "input": "What is 26 + 97?",
+    "output": "123"
+  },
+  {
+    "input": "What is 28 + 101?",
+    "output": "129"
+  },
+  {
+    "input": "What is 28 + 200?",
+    "output": "228"
+  },
+  {
+    "input": "What is 17 + 98?",
+    "output": "115"
+  },
+  {
+    "input": "What is 77 + 42?",
+    "output": "119"
+  },
+  {
+    "input": "What is 196 + 113?",
+    "output": "309"
+  },
+  {
+    "input": "What is 99 + 197?",
+    "output": "296"
+  },
+  {
+    "input": "What is 181 + 49?",
+    "output": "230"
+  },
+  {
+    "input": "What is 184 + 126?",
+    "output": "310"
+  },
+  {
+    "input": "What is 112 + 98?",
+    "output": "210"
+  },
+  {
+    "input": "What is 91 + 35?",
+    "output": "126"
+  },
+  {
+    "input": "What is 39 + 120?",
+    "output": "159"
+  },
+  {
+    "input": "What is 68 + 196?",
+    "output": "264"
+  },
+  {
+    "input": "What is 11 + 107?",
+    "output": "118"
+  },
+  {
+    "input": "What is 102 + 24?",
+    "output": "126"
+  },
+  {
+    "input": "What is 77 + 153?",
+    "output": "230"
+  },
+  {
+    "input": "What is 14 + 187?",
+    "output": "201"
+  },
+  {
+    "input": "What is 171 + 6?",
+    "output": "177"
+  },
+  {
+    "input": "What is 51 + 71?",
+    "output": "122"
+  },
+  {
+    "input": "What is 63 + 154?",
+    "output": "217"
+  },
+  {
+    "input": "What is 8 + 91?",
+    "output": "99"
+  },
+  {
+    "input": "What is 2 + 121?",
+    "output": "123"
+  },
+  {
+    "input": "What is 120 + 62?",
+    "output": "182"
+  },
+  {
+    "input": "What is 80 + 81?",
+    "output": "161"
+  },
+  {
+    "input": "What is 1 + 26?",
+    "output": "27"
+  },
+  {
+    "input": "What is 73 + 23?",
+    "output": "96"
+  },
+  {
+    "input": "What is 35 + 54?",
+    "output": "89"
+  },
+  {
+    "input": "What is 120 + 92?",
+    "output": "212"
+  },
+  {
+    "input": "What is 98 + 157?",
+    "output": "255"
+  },
+  {
+    "input": "What is 13 + 27?",
+    "output": "40"
+  },
+  {
+    "input": "What is 125 + 29?",
+    "output": "154"
+  },
+  {
+    "input": "What is 153 + 105?",
+    "output": "258"
+  },
+  {
+    "input": "What is 62 + 94?",
+    "output": "156"
+  },
+  {
+    "input": "What is 65 + 65?",
+    "output": "130"
+  },
+  {
+    "input": "What is 35 + 162?",
+    "output": "197"
+  },
+  {
+    "input": "What is 127 + 63?",
+    "output": "190"
+  },
+  {
+    "input": "What is 80 + 107?",
+    "output": "187"
+  },
+  {
+    "input": "What is 200 + 10?",
+    "output": "210"
+  },
+  {
+    "input": "What is 77 + 57?",
+    "output": "134"
+  },
+  {
+    "input": "What is 188 + 104?",
+    "output": "292"
+  },
+  {
+    "input": "What is 145 + 128?",
+    "output": "273"
+  },
+  {
+    "input": "What is 195 + 21?",
+    "output": "216"
+  },
+  {
+    "input": "What is 147 + 44?",
+    "output": "191"
+  },
+  {
+    "input": "What is 125 + 15?",
+    "output": "140"
+  },
+  {
+    "input": "What is 46 + 111?",
+    "output": "157"
+  },
+  {
+    "input": "What is 135 + 10?",
+    "output": "145"
+  },
+  {
+    "input": "What is 161 + 75?",
+    "output": "236"
+  },
+  {
+    "input": "What is 168 + 19?",
+    "output": "187"
+  },
+  {
+    "input": "What is 12 + 80?",
+    "output": "92"
+  },
+  {
+    "input": "What is 84 + 170?",
+    "output": "254"
+  },
+  {
+    "input": "What is 129 + 33?",
+    "output": "162"
+  },
+  {
+    "input": "What is 143 + 13?",
+    "output": "156"
+  },
+  {
+    "input": "What is 152 + 45?",
+    "output": "197"
+  },
+  {
+    "input": "What is 15 + 182?",
+    "output": "197"
+  },
+  {
+    "input": "What is 181 + 39?",
+    "output": "220"
+  },
+  {
+    "input": "What is 135 + 196?",
+    "output": "331"
+  },
+  {
+    "input": "What is 144 + 84?",
+    "output": "228"
+  },
+  {
+    "input": "What is 177 + 59?",
+    "output": "236"
+  },
+  {
+    "input": "What is 112 + 169?",
+    "output": "281"
+  },
+  {
+    "input": "What is 108 + 148?",
+    "output": "256"
+  },
+  {
+    "input": "What is 95 + 135?",
+    "output": "230"
+  },
+  {
+    "input": "What is 35 + 158?",
+    "output": "193"
+  },
+  {
+    "input": "What is 22 + 32?",
+    "output": "54"
+  },
+  {
+    "input": "What is 142 + 181?",
+    "output": "323"
+  },
+  {
+    "input": "What is 177 + 159?",
+    "output": "336"
+  },
+  {
+    "input": "What is 48 + 148?",
+    "output": "196"
+  },
+  {
+    "input": "What is 66 + 63?",
+    "output": "129"
+  },
+  {
+    "input": "What is 13 + 178?",
+    "output": "191"
+  },
+  {
+    "input": "What is 127 + 138?",
+    "output": "265"
+  },
+  {
+    "input": "What is 116 + 83?",
+    "output": "199"
+  },
+  {
+    "input": "What is 81 + 180?",
+    "output": "261"
+  },
+  {
+    "input": "What is 22 + 163?",
+    "output": "185"
+  },
+  {
+    "input": "What is 149 + 162?",
+    "output": "311"
+  },
+  {
+    "input": "What is 79 + 182?",
+    "output": "261"
+  },
+  {
+    "input": "What is 170 + 78?",
+    "output": "248"
+  },
+  {
+    "input": "What is 113 + 196?",
+    "output": "309"
+  },
+  {
+    "input": "What is 194 + 126?",
+    "output": "320"
+  },
+  {
+    "input": "What is 155 + 6?",
+    "output": "161"
+  },
+  {
+    "input": "What is 96 + 41?",
+    "output": "137"
+  },
+  {
+    "input": "What is 77 + 191?",
+    "output": "268"
+  },
+  {
+    "input": "What is 164 + 155?",
+    "output": "319"
+  },
+  {
+    "input": "What is 94 + 154?",
+    "output": "248"
+  },
+  {
+    "input": "What is 101 + 21?",
+    "output": "122"
+  },
+  {
+    "input": "What is 44 + 87?",
+    "output": "131"
+  },
+  {
+    "input": "What is 112 + 166?",
+    "output": "278"
+  },
+  {
+    "input": "What is 96 + 101?",
+    "output": "197"
+  },
+  {
+    "input": "What is 134 + 143?",
+    "output": "277"
+  },
+  {
+    "input": "What is 40 + 185?",
+    "output": "225"
+  },
+  {
+    "input": "What is 141 + 118?",
+    "output": "259"
+  },
+  {
+    "input": "What is 55 + 101?",
+    "output": "156"
+  },
+  {
+    "input": "What is 95 + 27?",
+    "output": "122"
+  },
+  {
+    "input": "What is 194 + 163?",
+    "output": "357"
+  },
+  {
+    "input": "What is 41 + 179?",
+    "output": "220"
+  },
+  {
+    "input": "What is 184 + 53?",
+    "output": "237"
+  },
+  {
+    "input": "What is 80 + 188?",
+    "output": "268"
+  },
+  {
+    "input": "What is 26 + 150?",
+    "output": "176"
+  },
+  {
+    "input": "What is 172 + 98?",
+    "output": "270"
+  },
+  {
+    "input": "What is 85 + 179?",
+    "output": "264"
+  },
+  {
+    "input": "What is 122 + 115?",
+    "output": "237"
+  },
+  {
+    "input": "What is 174 + 194?",
+    "output": "368"
+  },
+  {
+    "input": "What is 117 + 197?",
+    "output": "314"
+  },
+  {
+    "input": "What is 116 + 87?",
+    "output": "203"
+  },
+  {
+    "input": "What is 103 + 38?",
+    "output": "141"
+  },
+  {
+    "input": "What is 139 + 168?",
+    "output": "307"
+  },
+  {
+    "input": "What is 165 + 144?",
+    "output": "309"
+  },
+  {
+    "input": "What is 42 + 76?",
+    "output": "118"
+  },
+  {
+    "input": "What is 144 + 11?",
+    "output": "155"
+  },
+  {
+    "input": "What is 124 + 116?",
+    "output": "240"
+  },
+  {
+    "input": "What is 20 + 187?",
+    "output": "207"
+  },
+  {
+    "input": "What is 76 + 27?",
+    "output": "103"
+  },
+  {
+    "input": "What is 67 + 54?",
+    "output": "121"
+  },
+  {
+    "input": "What is 36 + 85?",
+    "output": "121"
+  },
+  {
+    "input": "What is 101 + 195?",
+    "output": "296"
+  },
+  {
+    "input": "What is 91 + 155?",
+    "output": "246"
+  },
+  {
+    "input": "What is 60 + 188?",
+    "output": "248"
+  },
+  {
+    "input": "What is 28 + 162?",
+    "output": "190"
+  },
+  {
+    "input": "What is 62 + 84?",
+    "output": "146"
+  },
+  {
+    "input": "What is 56 + 57?",
+    "output": "113"
+  },
+  {
+    "input": "What is 112 + 123?",
+    "output": "235"
+  },
+  {
+    "input": "What is 61 + 175?",
+    "output": "236"
+  },
+  {
+    "input": "What is 94 + 183?",
+    "output": "277"
+  },
+  {
+    "input": "What is 88 + 112?",
+    "output": "200"
+  },
+  {
+    "input": "What is 75 + 90?",
+    "output": "165"
+  },
+  {
+    "input": "What is 135 + 101?",
+    "output": "236"
+  },
+  {
+    "input": "What is 8 + 51?",
+    "output": "59"
+  },
+  {
+    "input": "What is 89 + 157?",
+    "output": "246"
+  },
+  {
+    "input": "What is 167 + 199?",
+    "output": "366"
+  },
+  {
+    "input": "What is 36 + 33?",
+    "output": "69"
+  },
+  {
+    "input": "What is 22 + 39?",
+    "output": "61"
+  },
+  {
+    "input": "What is 91 + 129?",
+    "output": "220"
+  },
+  {
+    "input": "What is 38 + 67?",
+    "output": "105"
+  },
+  {
+    "input": "What is 155 + 168?",
+    "output": "323"
+  },
+  {
+    "input": "What is 49 + 190?",
+    "output": "239"
+  },
+  {
+    "input": "What is 178 + 45?",
+    "output": "223"
+  },
+  {
+    "input": "What is 192 + 81?",
+    "output": "273"
+  },
+  {
+    "input": "What is 156 + 134?",
+    "output": "290"
+  },
+  {
+    "input": "What is 30 + 147?",
+    "output": "177"
+  },
+  {
+    "input": "What is 17 + 87?",
+    "output": "104"
+  },
+  {
+    "input": "What is 77 + 111?",
+    "output": "188"
+  },
+  {
+    "input": "What is 126 + 124?",
+    "output": "250"
+  },
+  {
+    "input": "What is 87 + 41?",
+    "output": "128"
+  },
+  {
+    "input": "What is 87 + 110?",
+    "output": "197"
+  },
+  {
+    "input": "What is 187 + 178?",
+    "output": "365"
+  },
+  {
+    "input": "What is 199 + 29?",
+    "output": "228"
+  },
+  {
+    "input": "What is 18 + 174?",
+    "output": "192"
+  },
+  {
+    "input": "What is 123 + 84?",
+    "output": "207"
+  },
+  {
+    "input": "What is 75 + 15?",
+    "output": "90"
+  },
+  {
+    "input": "What is 178 + 164?",
+    "output": "342"
+  },
+  {
+    "input": "What is 120 + 117?",
+    "output": "237"
+  },
+  {
+    "input": "What is 130 + 157?",
+    "output": "287"
+  },
+  {
+    "input": "What is 137 + 11?",
+    "output": "148"
+  },
+  {
+    "input": "What is 172 + 14?",
+    "output": "186"
+  },
+  {
+    "input": "What is 114 + 116?",
+    "output": "230"
+  },
+  {
+    "input": "What is 193 + 72?",
+    "output": "265"
+  },
+  {
+    "input": "What is 57 + 113?",
+    "output": "170"
+  },
+  {
+    "input": "What is 163 + 157?",
+    "output": "320"
+  },
+  {
+    "input": "What is 168 + 51?",
+    "output": "219"
+  },
+  {
+    "input": "What is 19 + 78?",
+    "output": "97"
+  },
+  {
+    "input": "What is 148 + 129?",
+    "output": "277"
+  },
+  {
+    "input": "What is 41 + 156?",
+    "output": "197"
+  },
+  {
+    "input": "What is 28 + 1?",
+    "output": "29"
+  },
+  {
+    "input": "What is 44 + 141?",
+    "output": "185"
+  },
+  {
+    "input": "What is 187 + 85?",
+    "output": "272"
+  },
+  {
+    "input": "What is 93 + 158?",
+    "output": "251"
+  },
+  {
+    "input": "What is 182 + 11?",
+    "output": "193"
+  },
+  {
+    "input": "What is 23 + 83?",
+    "output": "106"
+  },
+  {
+    "input": "What is 104 + 103?",
+    "output": "207"
+  },
+  {
+    "input": "What is 199 + 137?",
+    "output": "336"
+  },
+  {
+    "input": "What is 172 + 151?",
+    "output": "323"
+  },
+  {
+    "input": "What is 127 + 125?",
+    "output": "252"
+  },
+  {
+    "input": "What is 62 + 109?",
+    "output": "171"
+  },
+  {
+    "input": "What is 82 + 72?",
+    "output": "154"
+  },
+  {
+    "input": "What is 145 + 142?",
+    "output": "287"
+  },
+  {
+    "input": "What is 11 + 77?",
+    "output": "88"
+  },
+  {
+    "input": "What is 145 + 19?",
+    "output": "164"
+  },
+  {
+    "input": "What is 122 + 67?",
+    "output": "189"
+  },
+  {
+    "input": "What is 73 + 189?",
+    "output": "262"
+  },
+  {
+    "input": "What is 21 + 49?",
+    "output": "70"
+  },
+  {
+    "input": "What is 146 + 41?",
+    "output": "187"
+  },
+  {
+    "input": "What is 25 + 81?",
+    "output": "106"
+  },
+  {
+    "input": "What is 102 + 198?",
+    "output": "300"
+  },
+  {
+    "input": "What is 44 + 106?",
+    "output": "150"
+  },
+  {
+    "input": "What is 11 + 110?",
+    "output": "121"
+  },
+  {
+    "input": "What is 64 + 18?",
+    "output": "82"
+  },
+  {
+    "input": "What is 165 + 28?",
+    "output": "193"
+  },
+  {
+    "input": "What is 148 + 41?",
+    "output": "189"
+  },
+  {
+    "input": "What is 39 + 189?",
+    "output": "228"
+  },
+  {
+    "input": "What is 155 + 195?",
+    "output": "350"
+  },
+  {
+    "input": "What is 117 + 100?",
+    "output": "217"
+  },
+  {
+    "input": "What is 185 + 93?",
+    "output": "278"
+  },
+  {
+    "input": "What is 156 + 19?",
+    "output": "175"
+  },
+  {
+    "input": "What is 187 + 83?",
+    "output": "270"
+  },
+  {
+    "input": "What is 27 + 59?",
+    "output": "86"
+  },
+  {
+    "input": "What is 152 + 83?",
+    "output": "235"
+  },
+  {
+    "input": "What is 72 + 42?",
+    "output": "114"
+  },
+  {
+    "input": "What is 178 + 179?",
+    "output": "357"
+  },
+  {
+    "input": "What is 50 + 57?",
+    "output": "107"
+  },
+  {
+    "input": "What is 101 + 188?",
+    "output": "289"
+  },
+  {
+    "input": "What is 188 + 179?",
+    "output": "367"
+  },
+  {
+    "input": "What is 17 + 135?",
+    "output": "152"
+  },
+  {
+    "input": "What is 146 + 166?",
+    "output": "312"
+  },
+  {
+    "input": "What is 37 + 35?",
+    "output": "72"
+  },
+  {
+    "input": "What is 14 + 163?",
+    "output": "177"
+  },
+  {
+    "input": "What is 115 + 64?",
+    "output": "179"
+  },
+  {
+    "input": "What is 129 + 88?",
+    "output": "217"
+  },
+  {
+    "input": "What is 187 + 170?",
+    "output": "357"
+  },
+  {
+    "input": "What is 24 + 195?",
+    "output": "219"
+  },
+  {
+    "input": "What is 72 + 82?",
+    "output": "154"
+  },
+  {
+    "input": "What is 143 + 195?",
+    "output": "338"
+  },
+  {
+    "input": "What is 182 + 163?",
+    "output": "345"
+  },
+  {
+    "input": "What is 108 + 62?",
+    "output": "170"
+  },
+  {
+    "input": "What is 21 + 199?",
+    "output": "220"
+  },
+  {
+    "input": "What is 9 + 146?",
+    "output": "155"
+  },
+  {
+    "input": "What is 177 + 144?",
+    "output": "321"
+  },
+  {
+    "input": "What is 38 + 8?",
+    "output": "46"
+  },
+  {
+    "input": "What is 173 + 161?",
+    "output": "334"
+  },
+  {
+    "input": "What is 92 + 129?",
+    "output": "221"
+  },
+  {
+    "input": "What is 109 + 19?",
+    "output": "128"
+  },
+  {
+    "input": "What is 112 + 26?",
+    "output": "138"
+  },
+  {
+    "input": "What is 133 + 70?",
+    "output": "203"
+  },
+  {
+    "input": "What is 150 + 164?",
+    "output": "314"
+  },
+  {
+    "input": "What is 149 + 132?",
+    "output": "281"
+  },
+  {
+    "input": "What is 186 + 6?",
+    "output": "192"
+  },
+  {
+    "input": "What is 186 + 200?",
+    "output": "386"
+  },
+  {
+    "input": "What is 149 + 86?",
+    "output": "235"
+  },
+  {
+    "input": "What is 128 + 11?",
+    "output": "139"
+  },
+  {
+    "input": "What is 57 + 25?",
+    "output": "82"
+  },
+  {
+    "input": "What is 8 + 18?",
+    "output": "26"
+  },
+  {
+    "input": "What is 178 + 81?",
+    "output": "259"
+  },
+  {
+    "input": "What is 26 + 185?",
+    "output": "211"
+  },
+  {
+    "input": "What is 53 + 125?",
+    "output": "178"
+  },
+  {
+    "input": "What is 48 + 99?",
+    "output": "147"
+  },
+  {
+    "input": "What is 83 + 54?",
+    "output": "137"
+  },
+  {
+    "input": "What is 43 + 110?",
+    "output": "153"
+  },
+  {
+    "input": "What is 26 + 23?",
+    "output": "49"
+  },
+  {
+    "input": "What is 156 + 70?",
+    "output": "226"
+  },
+  {
+    "input": "What is 60 + 75?",
+    "output": "135"
+  },
+  {
+    "input": "What is 55 + 135?",
+    "output": "190"
+  },
+  {
+    "input": "What is 7 + 166?",
+    "output": "173"
+  },
+  {
+    "input": "What is 7 + 138?",
+    "output": "145"
+  },
+  {
+    "input": "What is 133 + 42?",
+    "output": "175"
+  },
+  {
+    "input": "What is 68 + 43?",
+    "output": "111"
+  },
+  {
+    "input": "What is 140 + 17?",
+    "output": "157"
+  },
+  {
+    "input": "What is 55 + 43?",
+    "output": "98"
+  },
+  {
+    "input": "What is 74 + 42?",
+    "output": "116"
+  },
+  {
+    "input": "What is 78 + 191?",
+    "output": "269"
+  },
+  {
+    "input": "What is 0 + 187?",
+    "output": "187"
+  },
+  {
+    "input": "What is 18 + 166?",
+    "output": "184"
+  },
+  {
+    "input": "What is 35 + 42?",
+    "output": "77"
+  },
+  {
+    "input": "What is 45 + 99?",
+    "output": "144"
+  },
+  {
+    "input": "What is 122 + 8?",
+    "output": "130"
+  },
+  {
+    "input": "What is 62 + 23?",
+    "output": "85"
+  },
+  {
+    "input": "What is 61 + 9?",
+    "output": "70"
+  },
+  {
+    "input": "What is 107 + 61?",
+    "output": "168"
+  },
+  {
+    "input": "What is 180 + 9?",
+    "output": "189"
+  },
+  {
+    "input": "What is 41 + 200?",
+    "output": "241"
+  },
+  {
+    "input": "What is 137 + 92?",
+    "output": "229"
+  },
+  {
+    "input": "What is 155 + 25?",
+    "output": "180"
+  },
+  {
+    "input": "What is 181 + 94?",
+    "output": "275"
+  },
+  {
+    "input": "What is 154 + 4?",
+    "output": "158"
+  },
+  {
+    "input": "What is 31 + 3?",
+    "output": "34"
+  },
+  {
+    "input": "What is 151 + 93?",
+    "output": "244"
+  },
+  {
+    "input": "What is 18 + 114?",
+    "output": "132"
+  },
+  {
+    "input": "What is 70 + 1?",
+    "output": "71"
+  },
+  {
+    "input": "What is 152 + 158?",
+    "output": "310"
+  },
+  {
+    "input": "What is 30 + 98?",
+    "output": "128"
+  },
+  {
+    "input": "What is 184 + 37?",
+    "output": "221"
+  },
+  {
+    "input": "What is 56 + 143?",
+    "output": "199"
+  },
+  {
+    "input": "What is 124 + 97?",
+    "output": "221"
+  },
+  {
+    "input": "What is 87 + 63?",
+    "output": "150"
+  },
+  {
+    "input": "What is 138 + 183?",
+    "output": "321"
+  },
+  {
+    "input": "What is 31 + 56?",
+    "output": "87"
+  },
+  {
+    "input": "What is 69 + 5?",
+    "output": "74"
+  },
+  {
+    "input": "What is 188 + 153?",
+    "output": "341"
+  },
+  {
+    "input": "What is 12 + 192?",
+    "output": "204"
+  },
+  {
+    "input": "What is 52 + 19?",
+    "output": "71"
+  },
+  {
+    "input": "What is 168 + 147?",
+    "output": "315"
+  },
+  {
+    "input": "What is 182 + 46?",
+    "output": "228"
+  },
+  {
+    "input": "What is 75 + 35?",
+    "output": "110"
+  },
+  {
+    "input": "What is 113 + 62?",
+    "output": "175"
+  },
+  {
+    "input": "What is 22 + 109?",
+    "output": "131"
+  },
+  {
+    "input": "What is 129 + 11?",
+    "output": "140"
+  },
+  {
+    "input": "What is 183 + 17?",
+    "output": "200"
+  },
+  {
+    "input": "What is 21 + 4?",
+    "output": "25"
+  },
+  {
+    "input": "What is 101 + 187?",
+    "output": "288"
+  },
+  {
+    "input": "What is 109 + 1?",
+    "output": "110"
+  },
+  {
+    "input": "What is 74 + 156?",
+    "output": "230"
+  },
+  {
+    "input": "What is 0 + 130?",
+    "output": "130"
+  },
+  {
+    "input": "What is 170 + 159?",
+    "output": "329"
+  },
+  {
+    "input": "What is 126 + 50?",
+    "output": "176"
+  },
+  {
+    "input": "What is 46 + 83?",
+    "output": "129"
+  },
+  {
+    "input": "What is 59 + 119?",
+    "output": "178"
+  },
+  {
+    "input": "What is 109 + 36?",
+    "output": "145"
+  },
+  {
+    "input": "What is 60 + 145?",
+    "output": "205"
+  },
+  {
+    "input": "What is 103 + 63?",
+    "output": "166"
+  },
+  {
+    "input": "What is 93 + 23?",
+    "output": "116"
+  },
+  {
+    "input": "What is 116 + 67?",
+    "output": "183"
+  },
+  {
+    "input": "What is 104 + 97?",
+    "output": "201"
+  },
+  {
+    "input": "What is 142 + 51?",
+    "output": "193"
+  },
+  {
+    "input": "What is 148 + 28?",
+    "output": "176"
+  },
+  {
+    "input": "What is 17 + 8?",
+    "output": "25"
+  },
+  {
+    "input": "What is 42 + 119?",
+    "output": "161"
+  },
+  {
+    "input": "What is 8 + 86?",
+    "output": "94"
+  },
+  {
+    "input": "What is 21 + 175?",
+    "output": "196"
+  },
+  {
+    "input": "What is 68 + 22?",
+    "output": "90"
+  },
+  {
+    "input": "What is 68 + 189?",
+    "output": "257"
+  },
+  {
+    "input": "What is 190 + 158?",
+    "output": "348"
+  },
+  {
+    "input": "What is 20 + 77?",
+    "output": "97"
+  },
+  {
+    "input": "What is 112 + 114?",
+    "output": "226"
+  },
+  {
+    "input": "What is 31 + 23?",
+    "output": "54"
+  },
+  {
+    "input": "What is 80 + 112?",
+    "output": "192"
+  },
+  {
+    "input": "What is 16 + 198?",
+    "output": "214"
+  },
+  {
+    "input": "What is 195 + 182?",
+    "output": "377"
+  },
+  {
+    "input": "What is 61 + 104?",
+    "output": "165"
+  },
+  {
+    "input": "What is 140 + 86?",
+    "output": "226"
+  },
+  {
+    "input": "What is 105 + 4?",
+    "output": "109"
+  },
+  {
+    "input": "What is 2 + 2?",
+    "output": "4"
+  },
+  {
+    "input": "What is 48 + 43?",
+    "output": "91"
+  },
+  {
+    "input": "What is 186 + 99?",
+    "output": "285"
+  },
+  {
+    "input": "What is 173 + 191?",
+    "output": "364"
+  },
+  {
+    "input": "What is 180 + 15?",
+    "output": "195"
+  },
+  {
+    "input": "What is 131 + 174?",
+    "output": "305"
+  },
+  {
+    "input": "What is 156 + 93?",
+    "output": "249"
+  },
+  {
+    "input": "What is 157 + 16?",
+    "output": "173"
+  },
+  {
+    "input": "What is 177 + 28?",
+    "output": "205"
+  },
+  {
+    "input": "What is 148 + 14?",
+    "output": "162"
+  },
+  {
+    "input": "What is 133 + 97?",
+    "output": "230"
+  },
+  {
+    "input": "What is 60 + 168?",
+    "output": "228"
+  },
+  {
+    "input": "What is 163 + 138?",
+    "output": "301"
+  },
+  {
+    "input": "What is 33 + 139?",
+    "output": "172"
+  },
+  {
+    "input": "What is 116 + 166?",
+    "output": "282"
+  },
+  {
+    "input": "What is 97 + 180?",
+    "output": "277"
+  },
+  {
+    "input": "What is 46 + 184?",
+    "output": "230"
+  },
+  {
+    "input": "What is 88 + 133?",
+    "output": "221"
+  },
+  {
+    "input": "What is 102 + 5?",
+    "output": "107"
+  },
+  {
+    "input": "What is 127 + 113?",
+    "output": "240"
+  },
+  {
+    "input": "What is 73 + 154?",
+    "output": "227"
+  },
+  {
+    "input": "What is 123 + 48?",
+    "output": "171"
+  },
+  {
+    "input": "What is 117 + 87?",
+    "output": "204"
+  },
+  {
+    "input": "What is 4 + 193?",
+    "output": "197"
+  },
+  {
+    "input": "What is 162 + 157?",
+    "output": "319"
+  },
+  {
+    "input": "What is 136 + 86?",
+    "output": "222"
+  },
+  {
+    "input": "What is 135 + 60?",
+    "output": "195"
+  },
+  {
+    "input": "What is 102 + 69?",
+    "output": "171"
+  },
+  {
+    "input": "What is 8 + 6?",
+    "output": "14"
+  },
+  {
+    "input": "What is 128 + 66?",
+    "output": "194"
+  },
+  {
+    "input": "What is 123 + 151?",
+    "output": "274"
+  },
+  {
+    "input": "What is 197 + 4?",
+    "output": "201"
+  },
+  {
+    "input": "What is 60 + 175?",
+    "output": "235"
+  },
+  {
+    "input": "What is 118 + 64?",
+    "output": "182"
+  },
+  {
+    "input": "What is 87 + 186?",
+    "output": "273"
+  },
+  {
+    "input": "What is 128 + 119?",
+    "output": "247"
+  },
+  {
+    "input": "What is 1 + 95?",
+    "output": "96"
+  },
+  {
+    "input": "What is 59 + 113?",
+    "output": "172"
+  },
+  {
+    "input": "What is 28 + 103?",
+    "output": "131"
+  },
+  {
+    "input": "What is 33 + 54?",
+    "output": "87"
+  },
+  {
+    "input": "What is 29 + 45?",
+    "output": "74"
+  },
+  {
+    "input": "What is 82 + 185?",
+    "output": "267"
+  },
+  {
+    "input": "What is 110 + 106?",
+    "output": "216"
+  },
+  {
+    "input": "What is 162 + 195?",
+    "output": "357"
+  },
+  {
+    "input": "What is 147 + 88?",
+    "output": "235"
+  },
+  {
+    "input": "What is 81 + 62?",
+    "output": "143"
+  },
+  {
+    "input": "What is 1 + 121?",
+    "output": "122"
+  },
+  {
+    "input": "What is 163 + 95?",
+    "output": "258"
+  },
+  {
+    "input": "What is 26 + 165?",
+    "output": "191"
+  },
+  {
+    "input": "What is 115 + 171?",
+    "output": "286"
+  },
+  {
+    "input": "What is 177 + 156?",
+    "output": "333"
+  },
+  {
+    "input": "What is 95 + 149?",
+    "output": "244"
+  },
+  {
+    "input": "What is 4 + 60?",
+    "output": "64"
+  },
+  {
+    "input": "What is 78 + 80?",
+    "output": "158"
+  },
+  {
+    "input": "What is 144 + 69?",
+    "output": "213"
+  },
+  {
+    "input": "What is 59 + 112?",
+    "output": "171"
+  },
+  {
+    "input": "What is 9 + 138?",
+    "output": "147"
+  },
+  {
+    "input": "What is 130 + 129?",
+    "output": "259"
+  },
+  {
+    "input": "What is 152 + 63?",
+    "output": "215"
+  },
+  {
+    "input": "What is 146 + 25?",
+    "output": "171"
+  },
+  {
+    "input": "What is 97 + 182?",
+    "output": "279"
+  },
+  {
+    "input": "What is 135 + 25?",
+    "output": "160"
+  },
+  {
+    "input": "What is 30 + 118?",
+    "output": "148"
+  },
+  {
+    "input": "What is 196 + 61?",
+    "output": "257"
+  },
+  {
+    "input": "What is 107 + 93?",
+    "output": "200"
+  },
+  {
+    "input": "What is 30 + 30?",
+    "output": "60"
+  },
+  {
+    "input": "What is 42 + 65?",
+    "output": "107"
+  },
+  {
+    "input": "What is 99 + 3?",
+    "output": "102"
+  },
+  {
+    "input": "What is 62 + 106?",
+    "output": "168"
+  },
+  {
+    "input": "What is 109 + 151?",
+    "output": "260"
+  },
+  {
+    "input": "What is 52 + 118?",
+    "output": "170"
+  },
+  {
+    "input": "What is 161 + 61?",
+    "output": "222"
+  },
+  {
+    "input": "What is 178 + 65?",
+    "output": "243"
+  },
+  {
+    "input": "What is 199 + 38?",
+    "output": "237"
+  },
+  {
+    "input": "What is 124 + 168?",
+    "output": "292"
+  },
+  {
+    "input": "What is 30 + 147?",
+    "output": "177"
+  },
+  {
+    "input": "What is 37 + 37?",
+    "output": "74"
+  },
+  {
+    "input": "What is 108 + 107?",
+    "output": "215"
+  },
+  {
+    "input": "What is 26 + 134?",
+    "output": "160"
+  },
+  {
+    "input": "What is 66 + 139?",
+    "output": "205"
+  },
+  {
+    "input": "What is 107 + 68?",
+    "output": "175"
+  },
+  {
+    "input": "What is 115 + 156?",
+    "output": "271"
+  },
+  {
+    "input": "What is 185 + 76?",
+    "output": "261"
+  },
+  {
+    "input": "What is 42 + 197?",
+    "output": "239"
+  },
+  {
+    "input": "What is 140 + 126?",
+    "output": "266"
+  },
+  {
+    "input": "What is 198 + 45?",
+    "output": "243"
+  },
+  {
+    "input": "What is 33 + 82?",
+    "output": "115"
+  },
+  {
+    "input": "What is 13 + 57?",
+    "output": "70"
+  },
+  {
+    "input": "What is 57 + 103?",
+    "output": "160"
+  },
+  {
+    "input": "What is 138 + 122?",
+    "output": "260"
+  },
+  {
+    "input": "What is 11 + 61?",
+    "output": "72"
+  },
+  {
+    "input": "What is 166 + 48?",
+    "output": "214"
+  },
+  {
+    "input": "What is 31 + 18?",
+    "output": "49"
+  },
+  {
+    "input": "What is 178 + 143?",
+    "output": "321"
+  },
+  {
+    "input": "What is 18 + 37?",
+    "output": "55"
+  },
+  {
+    "input": "What is 49 + 18?",
+    "output": "67"
+  },
+  {
+    "input": "What is 175 + 79?",
+    "output": "254"
+  },
+  {
+    "input": "What is 114 + 150?",
+    "output": "264"
+  },
+  {
+    "input": "What is 0 + 8?",
+    "output": "8"
+  },
+  {
+    "input": "What is 3 + 170?",
+    "output": "173"
+  },
+  {
+    "input": "What is 178 + 114?",
+    "output": "292"
+  },
+  {
+    "input": "What is 20 + 43?",
+    "output": "63"
+  },
+  {
+    "input": "What is 109 + 143?",
+    "output": "252"
+  },
+  {
+    "input": "What is 100 + 176?",
+    "output": "276"
+  },
+  {
+    "input": "What is 62 + 94?",
+    "output": "156"
+  },
+  {
+    "input": "What is 58 + 81?",
+    "output": "139"
+  },
+  {
+    "input": "What is 91 + 185?",
+    "output": "276"
+  },
+  {
+    "input": "What is 57 + 112?",
+    "output": "169"
+  },
+  {
+    "input": "What is 76 + 17?",
+    "output": "93"
+  },
+  {
+    "input": "What is 87 + 188?",
+    "output": "275"
+  },
+  {
+    "input": "What is 156 + 93?",
+    "output": "249"
+  },
+  {
+    "input": "What is 165 + 92?",
+    "output": "257"
+  },
+  {
+    "input": "What is 81 + 91?",
+    "output": "172"
+  },
+  {
+    "input": "What is 44 + 95?",
+    "output": "139"
+  },
+  {
+    "input": "What is 82 + 45?",
+    "output": "127"
+  },
+  {
+    "input": "What is 140 + 80?",
+    "output": "220"
+  },
+  {
+    "input": "What is 36 + 71?",
+    "output": "107"
+  },
+  {
+    "input": "What is 68 + 25?",
+    "output": "93"
+  },
+  {
+    "input": "What is 126 + 144?",
+    "output": "270"
+  },
+  {
+    "input": "What is 158 + 183?",
+    "output": "341"
+  },
+  {
+    "input": "What is 129 + 81?",
+    "output": "210"
+  },
+  {
+    "input": "What is 57 + 19?",
+    "output": "76"
+  },
+  {
+    "input": "What is 195 + 132?",
+    "output": "327"
+  },
+  {
+    "input": "What is 83 + 44?",
+    "output": "127"
+  },
+  {
+    "input": "What is 75 + 118?",
+    "output": "193"
+  },
+  {
+    "input": "What is 19 + 156?",
+    "output": "175"
+  },
+  {
+    "input": "What is 72 + 102?",
+    "output": "174"
+  },
+  {
+    "input": "What is 141 + 42?",
+    "output": "183"
+  },
+  {
+    "input": "What is 57 + 199?",
+    "output": "256"
+  },
+  {
+    "input": "What is 164 + 39?",
+    "output": "203"
+  },
+  {
+    "input": "What is 160 + 135?",
+    "output": "295"
+  },
+  {
+    "input": "What is 6 + 98?",
+    "output": "104"
+  },
+  {
+    "input": "What is 44 + 107?",
+    "output": "151"
+  },
+  {
+    "input": "What is 51 + 88?",
+    "output": "139"
+  },
+  {
+    "input": "What is 131 + 198?",
+    "output": "329"
+  },
+  {
+    "input": "What is 37 + 137?",
+    "output": "174"
+  },
+  {
+    "input": "What is 108 + 63?",
+    "output": "171"
+  },
+  {
+    "input": "What is 108 + 179?",
+    "output": "287"
+  },
+  {
+    "input": "What is 95 + 107?",
+    "output": "202"
+  },
+  {
+    "input": "What is 144 + 21?",
+    "output": "165"
+  },
+  {
+    "input": "What is 81 + 34?",
+    "output": "115"
+  },
+  {
+    "input": "What is 2 + 131?",
+    "output": "133"
+  },
+  {
+    "input": "What is 79 + 148?",
+    "output": "227"
+  },
+  {
+    "input": "What is 103 + 6?",
+    "output": "109"
+  },
+  {
+    "input": "What is 150 + 191?",
+    "output": "341"
+  },
+  {
+    "input": "What is 170 + 57?",
+    "output": "227"
+  },
+  {
+    "input": "What is 36 + 66?",
+    "output": "102"
+  },
+  {
+    "input": "What is 199 + 152?",
+    "output": "351"
+  },
+  {
+    "input": "What is 95 + 49?",
+    "output": "144"
+  },
+  {
+    "input": "What is 51 + 126?",
+    "output": "177"
+  },
+  {
+    "input": "What is 125 + 108?",
+    "output": "233"
+  },
+  {
+    "input": "What is 151 + 49?",
+    "output": "200"
+  },
+  {
+    "input": "What is 123 + 181?",
+    "output": "304"
+  },
+  {
+    "input": "What is 0 + 141?",
+    "output": "141"
+  },
+  {
+    "input": "What is 135 + 129?",
+    "output": "264"
+  },
+  {
+    "input": "What is 130 + 73?",
+    "output": "203"
+  },
+  {
+    "input": "What is 13 + 43?",
+    "output": "56"
+  },
+  {
+    "input": "What is 4 + 5?",
+    "output": "9"
+  },
+  {
+    "input": "What is 135 + 32?",
+    "output": "167"
+  },
+  {
+    "input": "What is 30 + 22?",
+    "output": "52"
+  },
+  {
+    "input": "What is 142 + 95?",
+    "output": "237"
+  },
+  {
+    "input": "What is 99 + 117?",
+    "output": "216"
+  },
+  {
+    "input": "What is 196 + 14?",
+    "output": "210"
+  },
+  {
+    "input": "What is 79 + 159?",
+    "output": "238"
+  },
+  {
+    "input": "What is 25 + 138?",
+    "output": "163"
+  },
+  {
+    "input": "What is 196 + 151?",
+    "output": "347"
+  },
+  {
+    "input": "What is 101 + 54?",
+    "output": "155"
+  },
+  {
+    "input": "What is 163 + 169?",
+    "output": "332"
+  },
+  {
+    "input": "What is 120 + 55?",
+    "output": "175"
+  },
+  {
+    "input": "What is 59 + 25?",
+    "output": "84"
+  },
+  {
+    "input": "What is 26 + 101?",
+    "output": "127"
+  },
+  {
+    "input": "What is 183 + 159?",
+    "output": "342"
+  },
+  {
+    "input": "What is 186 + 7?",
+    "output": "193"
+  },
+  {
+    "input": "What is 105 + 82?",
+    "output": "187"
+  },
+  {
+    "input": "What is 40 + 10?",
+    "output": "50"
+  },
+  {
+    "input": "What is 131 + 128?",
+    "output": "259"
+  },
+  {
+    "input": "What is 111 + 83?",
+    "output": "194"
+  },
+  {
+    "input": "What is 70 + 188?",
+    "output": "258"
+  },
+  {
+    "input": "What is 5 + 107?",
+    "output": "112"
+  },
+  {
+    "input": "What is 166 + 28?",
+    "output": "194"
+  },
+  {
+    "input": "What is 72 + 16?",
+    "output": "88"
+  },
+  {
+    "input": "What is 125 + 4?",
+    "output": "129"
+  },
+  {
+    "input": "What is 115 + 46?",
+    "output": "161"
+  },
+  {
+    "input": "What is 138 + 33?",
+    "output": "171"
+  },
+  {
+    "input": "What is 119 + 73?",
+    "output": "192"
+  },
+  {
+    "input": "What is 189 + 84?",
+    "output": "273"
+  },
+  {
+    "input": "What is 93 + 74?",
+    "output": "167"
+  },
+  {
+    "input": "What is 123 + 82?",
+    "output": "205"
+  },
+  {
+    "input": "What is 79 + 154?",
+    "output": "233"
+  },
+  {
+    "input": "What is 36 + 7?",
+    "output": "43"
+  },
+  {
+    "input": "What is 171 + 72?",
+    "output": "243"
+  },
+  {
+    "input": "What is 174 + 179?",
+    "output": "353"
+  },
+  {
+    "input": "What is 140 + 81?",
+    "output": "221"
+  },
+  {
+    "input": "What is 62 + 148?",
+    "output": "210"
+  },
+  {
+    "input": "What is 48 + 127?",
+    "output": "175"
+  },
+  {
+    "input": "What is 115 + 196?",
+    "output": "311"
+  },
+  {
+    "input": "What is 108 + 123?",
+    "output": "231"
+  },
+  {
+    "input": "What is 152 + 180?",
+    "output": "332"
+  },
+  {
+    "input": "What is 199 + 158?",
+    "output": "357"
+  },
+  {
+    "input": "What is 24 + 129?",
+    "output": "153"
+  },
+  {
+    "input": "What is 137 + 189?",
+    "output": "326"
+  },
+  {
+    "input": "What is 180 + 3?",
+    "output": "183"
+  },
+  {
+    "input": "What is 79 + 80?",
+    "output": "159"
+  },
+  {
+    "input": "What is 6 + 103?",
+    "output": "109"
+  },
+  {
+    "input": "What is 68 + 95?",
+    "output": "163"
+  },
+  {
+    "input": "What is 14 + 145?",
+    "output": "159"
+  },
+  {
+    "input": "What is 181 + 151?",
+    "output": "332"
+  },
+  {
+    "input": "What is 177 + 65?",
+    "output": "242"
+  },
+  {
+    "input": "What is 161 + 148?",
+    "output": "309"
+  },
+  {
+    "input": "What is 153 + 35?",
+    "output": "188"
+  },
+  {
+    "input": "What is 198 + 169?",
+    "output": "367"
+  },
+  {
+    "input": "What is 62 + 115?",
+    "output": "177"
+  },
+  {
+    "input": "What is 127 + 176?",
+    "output": "303"
+  },
+  {
+    "input": "What is 68 + 46?",
+    "output": "114"
+  },
+  {
+    "input": "What is 195 + 200?",
+    "output": "395"
+  },
+  {
+    "input": "What is 118 + 141?",
+    "output": "259"
+  },
+  {
+    "input": "What is 27 + 30?",
+    "output": "57"
+  },
+  {
+    "input": "What is 187 + 25?",
+    "output": "212"
+  },
+  {
+    "input": "What is 96 + 111?",
+    "output": "207"
+  },
+  {
+    "input": "What is 53 + 153?",
+    "output": "206"
+  },
+  {
+    "input": "What is 31 + 0?",
+    "output": "31"
+  },
+  {
+    "input": "What is 37 + 51?",
+    "output": "88"
+  },
+  {
+    "input": "What is 2 + 126?",
+    "output": "128"
+  },
+  {
+    "input": "What is 195 + 68?",
+    "output": "263"
+  },
+  {
+    "input": "What is 97 + 172?",
+    "output": "269"
+  },
+  {
+    "input": "What is 98 + 172?",
+    "output": "270"
+  },
+  {
+    "input": "What is 21 + 137?",
+    "output": "158"
+  },
+  {
+    "input": "What is 128 + 119?",
+    "output": "247"
+  },
+  {
+    "input": "What is 138 + 155?",
+    "output": "293"
+  },
+  {
+    "input": "What is 87 + 126?",
+    "output": "213"
+  },
+  {
+    "input": "What is 74 + 39?",
+    "output": "113"
+  },
+  {
+    "input": "What is 3 + 53?",
+    "output": "56"
+  },
+  {
+    "input": "What is 149 + 160?",
+    "output": "309"
+  },
+  {
+    "input": "What is 73 + 135?",
+    "output": "208"
+  },
+  {
+    "input": "What is 49 + 14?",
+    "output": "63"
+  },
+  {
+    "input": "What is 75 + 183?",
+    "output": "258"
+  },
+  {
+    "input": "What is 118 + 7?",
+    "output": "125"
+  },
+  {
+    "input": "What is 73 + 63?",
+    "output": "136"
+  },
+  {
+    "input": "What is 190 + 199?",
+    "output": "389"
+  },
+  {
+    "input": "What is 116 + 44?",
+    "output": "160"
+  },
+  {
+    "input": "What is 77 + 10?",
+    "output": "87"
+  },
+  {
+    "input": "What is 189 + 182?",
+    "output": "371"
+  },
+  {
+    "input": "What is 58 + 138?",
+    "output": "196"
+  },
+  {
+    "input": "What is 141 + 138?",
+    "output": "279"
+  },
+  {
+    "input": "What is 77 + 170?",
+    "output": "247"
+  },
+  {
+    "input": "What is 73 + 81?",
+    "output": "154"
+  },
+  {
+    "input": "What is 5 + 66?",
+    "output": "71"
+  },
+  {
+    "input": "What is 70 + 4?",
+    "output": "74"
+  },
+  {
+    "input": "What is 23 + 101?",
+    "output": "124"
+  },
+  {
+    "input": "What is 83 + 125?",
+    "output": "208"
+  },
+  {
+    "input": "What is 159 + 58?",
+    "output": "217"
+  },
+  {
+    "input": "What is 58 + 187?",
+    "output": "245"
+  },
+  {
+    "input": "What is 146 + 113?",
+    "output": "259"
+  },
+  {
+    "input": "What is 148 + 120?",
+    "output": "268"
+  },
+  {
+    "input": "What is 186 + 186?",
+    "output": "372"
+  },
+  {
+    "input": "What is 37 + 120?",
+    "output": "157"
+  },
+  {
+    "input": "What is 169 + 10?",
+    "output": "179"
+  },
+  {
+    "input": "What is 134 + 92?",
+    "output": "226"
+  },
+  {
+    "input": "What is 39 + 138?",
+    "output": "177"
+  },
+  {
+    "input": "What is 45 + 136?",
+    "output": "181"
+  },
+  {
+    "input": "What is 101 + 90?",
+    "output": "191"
+  },
+  {
+    "input": "What is 116 + 7?",
+    "output": "123"
+  },
+  {
+    "input": "What is 199 + 46?",
+    "output": "245"
+  },
+  {
+    "input": "What is 133 + 75?",
+    "output": "208"
+  },
+  {
+    "input": "What is 171 + 157?",
+    "output": "328"
+  },
+  {
+    "input": "What is 8 + 161?",
+    "output": "169"
+  },
+  {
+    "input": "What is 147 + 135?",
+    "output": "282"
+  },
+  {
+    "input": "What is 123 + 33?",
+    "output": "156"
+  },
+  {
+    "input": "What is 187 + 149?",
+    "output": "336"
+  },
+  {
+    "input": "What is 120 + 138?",
+    "output": "258"
+  },
+  {
+    "input": "What is 186 + 29?",
+    "output": "215"
+  },
+  {
+    "input": "What is 65 + 81?",
+    "output": "146"
+  },
+  {
+    "input": "What is 122 + 155?",
+    "output": "277"
+  },
+  {
+    "input": "What is 200 + 112?",
+    "output": "312"
+  },
+  {
+    "input": "What is 166 + 150?",
+    "output": "316"
+  },
+  {
+    "input": "What is 1 + 42?",
+    "output": "43"
+  },
+  {
+    "input": "What is 2 + 197?",
+    "output": "199"
+  },
+  {
+    "input": "What is 184 + 194?",
+    "output": "378"
+  },
+  {
+    "input": "What is 48 + 91?",
+    "output": "139"
+  },
+  {
+    "input": "What is 90 + 149?",
+    "output": "239"
+  },
+  {
+    "input": "What is 73 + 35?",
+    "output": "108"
+  },
+  {
+    "input": "What is 157 + 13?",
+    "output": "170"
+  },
+  {
+    "input": "What is 176 + 116?",
+    "output": "292"
+  },
+  {
+    "input": "What is 56 + 128?",
+    "output": "184"
+  },
+  {
+    "input": "What is 135 + 173?",
+    "output": "308"
+  },
+  {
+    "input": "What is 123 + 86?",
+    "output": "209"
+  },
+  {
+    "input": "What is 5 + 6?",
+    "output": "11"
+  },
+  {
+    "input": "What is 196 + 41?",
+    "output": "237"
+  },
+  {
+    "input": "What is 46 + 178?",
+    "output": "224"
+  },
+  {
+    "input": "What is 84 + 87?",
+    "output": "171"
+  },
+  {
+    "input": "What is 1 + 55?",
+    "output": "56"
+  },
+  {
+    "input": "What is 197 + 159?",
+    "output": "356"
+  },
+  {
+    "input": "What is 7 + 96?",
+    "output": "103"
+  },
+  {
+    "input": "What is 83 + 65?",
+    "output": "148"
+  },
+  {
+    "input": "What is 69 + 104?",
+    "output": "173"
+  },
+  {
+    "input": "What is 44 + 90?",
+    "output": "134"
+  },
+  {
+    "input": "What is 75 + 91?",
+    "output": "166"
+  },
+  {
+    "input": "What is 91 + 116?",
+    "output": "207"
+  },
+  {
+    "input": "What is 36 + 132?",
+    "output": "168"
+  },
+  {
+    "input": "What is 123 + 31?",
+    "output": "154"
+  },
+  {
+    "input": "What is 96 + 92?",
+    "output": "188"
+  },
+  {
+    "input": "What is 71 + 148?",
+    "output": "219"
+  },
+  {
+    "input": "What is 74 + 196?",
+    "output": "270"
+  },
+  {
+    "input": "What is 89 + 174?",
+    "output": "263"
+  },
+  {
+    "input": "What is 5 + 57?",
+    "output": "62"
+  },
+  {
+    "input": "What is 29 + 32?",
+    "output": "61"
+  },
+  {
+    "input": "What is 20 + 171?",
+    "output": "191"
+  },
+  {
+    "input": "What is 6 + 117?",
+    "output": "123"
+  },
+  {
+    "input": "What is 75 + 12?",
+    "output": "87"
+  },
+  {
+    "input": "What is 143 + 54?",
+    "output": "197"
+  },
+  {
+    "input": "What is 3 + 133?",
+    "output": "136"
+  },
+  {
+    "input": "What is 27 + 50?",
+    "output": "77"
+  },
+  {
+    "input": "What is 156 + 101?",
+    "output": "257"
+  },
+  {
+    "input": "What is 158 + 168?",
+    "output": "326"
+  },
+  {
+    "input": "What is 154 + 36?",
+    "output": "190"
+  },
+  {
+    "input": "What is 2 + 173?",
+    "output": "175"
+  },
+  {
+    "input": "What is 152 + 100?",
+    "output": "252"
+  },
+  {
+    "input": "What is 134 + 34?",
+    "output": "168"
+  },
+  {
+    "input": "What is 36 + 129?",
+    "output": "165"
+  },
+  {
+    "input": "What is 67 + 49?",
+    "output": "116"
+  },
+  {
+    "input": "What is 46 + 135?",
+    "output": "181"
+  },
+  {
+    "input": "What is 117 + 130?",
+    "output": "247"
+  },
+  {
+    "input": "What is 96 + 42?",
+    "output": "138"
+  },
+  {
+    "input": "What is 129 + 110?",
+    "output": "239"
+  },
+  {
+    "input": "What is 103 + 15?",
+    "output": "118"
+  },
+  {
+    "input": "What is 32 + 192?",
+    "output": "224"
+  },
+  {
+    "input": "What is 55 + 188?",
+    "output": "243"
+  },
+  {
+    "input": "What is 32 + 80?",
+    "output": "112"
+  },
+  {
+    "input": "What is 82 + 143?",
+    "output": "225"
+  },
+  {
+    "input": "What is 37 + 123?",
+    "output": "160"
+  },
+  {
+    "input": "What is 75 + 6?",
+    "output": "81"
+  },
+  {
+    "input": "What is 91 + 148?",
+    "output": "239"
+  },
+  {
+    "input": "What is 113 + 13?",
+    "output": "126"
+  },
+  {
+    "input": "What is 155 + 170?",
+    "output": "325"
+  },
+  {
+    "input": "What is 129 + 135?",
+    "output": "264"
+  },
+  {
+    "input": "What is 177 + 7?",
+    "output": "184"
+  },
+  {
+    "input": "What is 115 + 87?",
+    "output": "202"
+  },
+  {
+    "input": "What is 195 + 159?",
+    "output": "354"
+  },
+  {
+    "input": "What is 31 + 76?",
+    "output": "107"
+  },
+  {
+    "input": "What is 2 + 70?",
+    "output": "72"
+  },
+  {
+    "input": "What is 148 + 175?",
+    "output": "323"
+  },
+  {
+    "input": "What is 107 + 163?",
+    "output": "270"
+  },
+  {
+    "input": "What is 140 + 17?",
+    "output": "157"
+  },
+  {
+    "input": "What is 176 + 8?",
+    "output": "184"
+  },
+  {
+    "input": "What is 57 + 196?",
+    "output": "253"
+  },
+  {
+    "input": "What is 193 + 11?",
+    "output": "204"
+  },
+  {
+    "input": "What is 109 + 133?",
+    "output": "242"
+  },
+  {
+    "input": "What is 35 + 124?",
+    "output": "159"
+  },
+  {
+    "input": "What is 33 + 31?",
+    "output": "64"
+  },
+  {
+    "input": "What is 32 + 193?",
+    "output": "225"
+  },
+  {
+    "input": "What is 153 + 114?",
+    "output": "267"
+  },
+  {
+    "input": "What is 110 + 48?",
+    "output": "158"
+  },
+  {
+    "input": "What is 195 + 165?",
+    "output": "360"
+  },
+  {
+    "input": "What is 104 + 76?",
+    "output": "180"
+  },
+  {
+    "input": "What is 163 + 151?",
+    "output": "314"
+  },
+  {
+    "input": "What is 72 + 91?",
+    "output": "163"
+  },
+  {
+    "input": "What is 62 + 185?",
+    "output": "247"
+  },
+  {
+    "input": "What is 163 + 175?",
+    "output": "338"
+  },
+  {
+    "input": "What is 33 + 38?",
+    "output": "71"
+  },
+  {
+    "input": "What is 115 + 171?",
+    "output": "286"
+  },
+  {
+    "input": "What is 172 + 20?",
+    "output": "192"
+  },
+  {
+    "input": "What is 4 + 3?",
+    "output": "7"
+  },
+  {
+    "input": "What is 11 + 68?",
+    "output": "79"
+  },
+  {
+    "input": "What is 124 + 10?",
+    "output": "134"
+  },
+  {
+    "input": "What is 167 + 176?",
+    "output": "343"
+  },
+  {
+    "input": "What is 28 + 142?",
+    "output": "170"
+  },
+  {
+    "input": "What is 69 + 53?",
+    "output": "122"
+  },
+  {
+    "input": "What is 21 + 185?",
+    "output": "206"
+  },
+  {
+    "input": "What is 94 + 136?",
+    "output": "230"
+  },
+  {
+    "input": "What is 90 + 37?",
+    "output": "127"
+  },
+  {
+    "input": "What is 28 + 39?",
+    "output": "67"
+  },
+  {
+    "input": "What is 197 + 20?",
+    "output": "217"
+  },
+  {
+    "input": "What is 175 + 170?",
+    "output": "345"
+  },
+  {
+    "input": "What is 162 + 173?",
+    "output": "335"
+  },
+  {
+    "input": "What is 183 + 185?",
+    "output": "368"
+  },
+  {
+    "input": "What is 76 + 7?",
+    "output": "83"
+  },
+  {
+    "input": "What is 84 + 134?",
+    "output": "218"
+  },
+  {
+    "input": "What is 159 + 147?",
+    "output": "306"
+  },
+  {
+    "input": "What is 94 + 44?",
+    "output": "138"
+  },
+  {
+    "input": "What is 14 + 130?",
+    "output": "144"
+  },
+  {
+    "input": "What is 131 + 106?",
+    "output": "237"
+  },
+  {
+    "input": "What is 66 + 50?",
+    "output": "116"
+  },
+  {
+    "input": "What is 76 + 0?",
+    "output": "76"
+  },
+  {
+    "input": "What is 142 + 78?",
+    "output": "220"
+  },
+  {
+    "input": "What is 178 + 132?",
+    "output": "310"
+  },
+  {
+    "input": "What is 130 + 135?",
+    "output": "265"
+  },
+  {
+    "input": "What is 111 + 174?",
+    "output": "285"
+  },
+  {
+    "input": "What is 5 + 0?",
+    "output": "5"
+  },
+  {
+    "input": "What is 172 + 94?",
+    "output": "266"
+  },
+  {
+    "input": "What is 97 + 35?",
+    "output": "132"
+  },
+  {
+    "input": "What is 59 + 99?",
+    "output": "158"
+  },
+  {
+    "input": "What is 183 + 73?",
+    "output": "256"
+  },
+  {
+    "input": "What is 86 + 127?",
+    "output": "213"
+  },
+  {
+    "input": "What is 74 + 29?",
+    "output": "103"
+  },
+  {
+    "input": "What is 170 + 42?",
+    "output": "212"
+  },
+  {
+    "input": "What is 142 + 81?",
+    "output": "223"
+  },
+  {
+    "input": "What is 157 + 118?",
+    "output": "275"
+  },
+  {
+    "input": "What is 180 + 13?",
+    "output": "193"
+  },
+  {
+    "input": "What is 122 + 109?",
+    "output": "231"
+  },
+  {
+    "input": "What is 3 + 127?",
+    "output": "130"
+  },
+  {
+    "input": "What is 44 + 163?",
+    "output": "207"
+  },
+  {
+    "input": "What is 79 + 23?",
+    "output": "102"
+  },
+  {
+    "input": "What is 131 + 80?",
+    "output": "211"
+  },
+  {
+    "input": "What is 199 + 123?",
+    "output": "322"
+  },
+  {
+    "input": "What is 144 + 26?",
+    "output": "170"
+  },
+  {
+    "input": "What is 33 + 78?",
+    "output": "111"
+  },
+  {
+    "input": "What is 119 + 15?",
+    "output": "134"
+  },
+  {
+    "input": "What is 199 + 78?",
+    "output": "277"
+  },
+  {
+    "input": "What is 197 + 167?",
+    "output": "364"
+  },
+  {
+    "input": "What is 89 + 97?",
+    "output": "186"
+  },
+  {
+    "input": "What is 184 + 175?",
+    "output": "359"
+  },
+  {
+    "input": "What is 156 + 155?",
+    "output": "311"
+  },
+  {
+    "input": "What is 162 + 142?",
+    "output": "304"
+  },
+  {
+    "input": "What is 82 + 136?",
+    "output": "218"
+  },
+  {
+    "input": "What is 37 + 37?",
+    "output": "74"
+  },
+  {
+    "input": "What is 196 + 51?",
+    "output": "247"
+  },
+  {
+    "input": "What is 30 + 86?",
+    "output": "116"
+  },
+  {
+    "input": "What is 20 + 10?",
+    "output": "30"
+  },
+  {
+    "input": "What is 152 + 123?",
+    "output": "275"
+  },
+  {
+    "input": "What is 148 + 159?",
+    "output": "307"
+  },
+  {
+    "input": "What is 15 + 89?",
+    "output": "104"
+  },
+  {
+    "input": "What is 103 + 74?",
+    "output": "177"
+  },
+  {
+    "input": "What is 80 + 11?",
+    "output": "91"
+  },
+  {
+    "input": "What is 99 + 200?",
+    "output": "299"
+  },
+  {
+    "input": "What is 135 + 111?",
+    "output": "246"
+  },
+  {
+    "input": "What is 129 + 167?",
+    "output": "296"
+  },
+  {
+    "input": "What is 151 + 192?",
+    "output": "343"
+  },
+  {
+    "input": "What is 110 + 46?",
+    "output": "156"
+  },
+  {
+    "input": "What is 5 + 121?",
+    "output": "126"
+  },
+  {
+    "input": "What is 190 + 114?",
+    "output": "304"
+  },
+  {
+    "input": "What is 100 + 172?",
+    "output": "272"
+  },
+  {
+    "input": "What is 54 + 181?",
+    "output": "235"
+  },
+  {
+    "input": "What is 31 + 181?",
+    "output": "212"
+  },
+  {
+    "input": "What is 165 + 80?",
+    "output": "245"
+  },
+  {
+    "input": "What is 107 + 22?",
+    "output": "129"
+  },
+  {
+    "input": "What is 198 + 149?",
+    "output": "347"
+  },
+  {
+    "input": "What is 19 + 7?",
+    "output": "26"
+  },
+  {
+    "input": "What is 144 + 102?",
+    "output": "246"
+  },
+  {
+    "input": "What is 56 + 98?",
+    "output": "154"
+  },
+  {
+    "input": "What is 142 + 139?",
+    "output": "281"
+  },
+  {
+    "input": "What is 4 + 179?",
+    "output": "183"
+  },
+  {
+    "input": "What is 15 + 83?",
+    "output": "98"
+  },
+  {
+    "input": "What is 89 + 169?",
+    "output": "258"
+  },
+  {
+    "input": "What is 117 + 11?",
+    "output": "128"
+  },
+  {
+    "input": "What is 51 + 128?",
+    "output": "179"
+  },
+  {
+    "input": "What is 199 + 158?",
+    "output": "357"
+  },
+  {
+    "input": "What is 119 + 45?",
+    "output": "164"
+  },
+  {
+    "input": "What is 9 + 68?",
+    "output": "77"
+  },
+  {
+    "input": "What is 183 + 34?",
+    "output": "217"
+  },
+  {
+    "input": "What is 111 + 105?",
+    "output": "216"
+  },
+  {
+    "input": "What is 18 + 160?",
+    "output": "178"
+  },
+  {
+    "input": "What is 3 + 35?",
+    "output": "38"
+  },
+  {
+    "input": "What is 118 + 65?",
+    "output": "183"
+  },
+  {
+    "input": "What is 13 + 97?",
+    "output": "110"
+  },
+  {
+    "input": "What is 196 + 72?",
+    "output": "268"
+  },
+  {
+    "input": "What is 72 + 173?",
+    "output": "245"
+  },
+  {
+    "input": "What is 188 + 50?",
+    "output": "238"
+  },
+  {
+    "input": "What is 102 + 84?",
+    "output": "186"
+  },
+  {
+    "input": "What is 78 + 169?",
+    "output": "247"
+  },
+  {
+    "input": "What is 23 + 151?",
+    "output": "174"
+  },
+  {
+    "input": "What is 31 + 101?",
+    "output": "132"
+  },
+  {
+    "input": "What is 153 + 22?",
+    "output": "175"
+  },
+  {
+    "input": "What is 33 + 189?",
+    "output": "222"
+  },
+  {
+    "input": "What is 126 + 137?",
+    "output": "263"
+  },
+  {
+    "input": "What is 102 + 16?",
+    "output": "118"
+  },
+  {
+    "input": "What is 135 + 176?",
+    "output": "311"
+  },
+  {
+    "input": "What is 77 + 74?",
+    "output": "151"
+  },
+  {
+    "input": "What is 67 + 17?",
+    "output": "84"
+  },
+  {
+    "input": "What is 88 + 150?",
+    "output": "238"
+  },
+  {
+    "input": "What is 156 + 42?",
+    "output": "198"
+  },
+  {
+    "input": "What is 23 + 87?",
+    "output": "110"
+  },
+  {
+    "input": "What is 118 + 37?",
+    "output": "155"
+  },
+  {
+    "input": "What is 79 + 136?",
+    "output": "215"
+  },
+  {
+    "input": "What is 147 + 48?",
+    "output": "195"
+  },
+  {
+    "input": "What is 150 + 2?",
+    "output": "152"
+  },
+  {
+    "input": "What is 69 + 179?",
+    "output": "248"
+  },
+  {
+    "input": "What is 167 + 107?",
+    "output": "274"
+  },
+  {
+    "input": "What is 102 + 119?",
+    "output": "221"
+  },
+  {
+    "input": "What is 170 + 170?",
+    "output": "340"
+  },
+  {
+    "input": "What is 162 + 63?",
+    "output": "225"
+  },
+  {
+    "input": "What is 78 + 122?",
+    "output": "200"
+  },
+  {
+    "input": "What is 55 + 172?",
+    "output": "227"
+  },
+  {
+    "input": "What is 137 + 143?",
+    "output": "280"
+  },
+  {
+    "input": "What is 15 + 147?",
+    "output": "162"
+  },
+  {
+    "input": "What is 165 + 21?",
+    "output": "186"
+  },
+  {
+    "input": "What is 42 + 108?",
+    "output": "150"
+  },
+  {
+    "input": "What is 7 + 70?",
+    "output": "77"
+  },
+  {
+    "input": "What is 73 + 49?",
+    "output": "122"
+  },
+  {
+    "input": "What is 26 + 162?",
+    "output": "188"
+  },
+  {
+    "input": "What is 17 + 120?",
+    "output": "137"
+  },
+  {
+    "input": "What is 87 + 63?",
+    "output": "150"
+  },
+  {
+    "input": "What is 162 + 23?",
+    "output": "185"
+  },
+  {
+    "input": "What is 141 + 92?",
+    "output": "233"
+  },
+  {
+    "input": "What is 171 + 11?",
+    "output": "182"
+  },
+  {
+    "input": "What is 82 + 124?",
+    "output": "206"
+  },
+  {
+    "input": "What is 86 + 44?",
+    "output": "130"
+  },
+  {
+    "input": "What is 174 + 121?",
+    "output": "295"
+  },
+  {
+    "input": "What is 174 + 68?",
+    "output": "242"
+  },
+  {
+    "input": "What is 124 + 100?",
+    "output": "224"
+  },
+  {
+    "input": "What is 161 + 111?",
+    "output": "272"
+  },
+  {
+    "input": "What is 130 + 115?",
+    "output": "245"
+  },
+  {
+    "input": "What is 19 + 173?",
+    "output": "192"
+  },
+  {
+    "input": "What is 183 + 14?",
+    "output": "197"
+  },
+  {
+    "input": "What is 186 + 24?",
+    "output": "210"
+  },
+  {
+    "input": "What is 128 + 36?",
+    "output": "164"
+  },
+  {
+    "input": "What is 189 + 45?",
+    "output": "234"
+  },
+  {
+    "input": "What is 153 + 47?",
+    "output": "200"
+  },
+  {
+    "input": "What is 148 + 179?",
+    "output": "327"
+  },
+  {
+    "input": "What is 31 + 48?",
+    "output": "79"
+  },
+  {
+    "input": "What is 107 + 172?",
+    "output": "279"
+  },
+  {
+    "input": "What is 123 + 82?",
+    "output": "205"
+  },
+  {
+    "input": "What is 100 + 53?",
+    "output": "153"
+  },
+  {
+    "input": "What is 60 + 121?",
+    "output": "181"
+  },
+  {
+    "input": "What is 50 + 101?",
+    "output": "151"
+  },
+  {
+    "input": "What is 143 + 143?",
+    "output": "286"
+  },
+  {
+    "input": "What is 76 + 147?",
+    "output": "223"
+  },
+  {
+    "input": "What is 114 + 134?",
+    "output": "248"
+  },
+  {
+    "input": "What is 8 + 138?",
+    "output": "146"
+  },
+  {
+    "input": "What is 125 + 87?",
+    "output": "212"
+  },
+  {
+    "input": "What is 118 + 68?",
+    "output": "186"
+  },
+  {
+    "input": "What is 39 + 189?",
+    "output": "228"
+  },
+  {
+    "input": "What is 192 + 74?",
+    "output": "266"
+  },
+  {
+    "input": "What is 116 + 196?",
+    "output": "312"
+  },
+  {
+    "input": "What is 151 + 97?",
+    "output": "248"
+  },
+  {
+    "input": "What is 116 + 16?",
+    "output": "132"
+  },
+  {
+    "input": "What is 24 + 156?",
+    "output": "180"
+  },
+  {
+    "input": "What is 105 + 66?",
+    "output": "171"
+  },
+  {
+    "input": "What is 48 + 17?",
+    "output": "65"
+  },
+  {
+    "input": "What is 181 + 121?",
+    "output": "302"
+  },
+  {
+    "input": "What is 33 + 93?",
+    "output": "126"
+  },
+  {
+    "input": "What is 102 + 49?",
+    "output": "151"
+  },
+  {
+    "input": "What is 200 + 22?",
+    "output": "222"
+  },
+  {
+    "input": "What is 98 + 180?",
+    "output": "278"
+  },
+  {
+    "input": "What is 115 + 31?",
+    "output": "146"
+  },
+  {
+    "input": "What is 39 + 11?",
+    "output": "50"
+  },
+  {
+    "input": "What is 98 + 21?",
+    "output": "119"
+  },
+  {
+    "input": "What is 162 + 13?",
+    "output": "175"
+  },
+  {
+    "input": "What is 140 + 128?",
+    "output": "268"
+  },
+  {
+    "input": "What is 145 + 182?",
+    "output": "327"
+  },
+  {
+    "input": "What is 107 + 139?",
+    "output": "246"
+  },
+  {
+    "input": "What is 198 + 199?",
+    "output": "397"
+  },
+  {
+    "input": "What is 155 + 66?",
+    "output": "221"
+  },
+  {
+    "input": "What is 10 + 72?",
+    "output": "82"
+  },
+  {
+    "input": "What is 40 + 118?",
+    "output": "158"
+  },
+  {
+    "input": "What is 38 + 127?",
+    "output": "165"
+  },
+  {
+    "input": "What is 11 + 187?",
+    "output": "198"
+  },
+  {
+    "input": "What is 128 + 77?",
+    "output": "205"
+  },
+  {
+    "input": "What is 184 + 160?",
+    "output": "344"
+  },
+  {
+    "input": "What is 110 + 32?",
+    "output": "142"
+  },
+  {
+    "input": "What is 182 + 132?",
+    "output": "314"
+  },
+  {
+    "input": "What is 121 + 99?",
+    "output": "220"
+  },
+  {
+    "input": "What is 116 + 21?",
+    "output": "137"
+  },
+  {
+    "input": "What is 129 + 165?",
+    "output": "294"
+  },
+  {
+    "input": "What is 150 + 26?",
+    "output": "176"
+  },
+  {
+    "input": "What is 108 + 146?",
+    "output": "254"
+  },
+  {
+    "input": "What is 134 + 62?",
+    "output": "196"
+  },
+  {
+    "input": "What is 86 + 129?",
+    "output": "215"
+  },
+  {
+    "input": "What is 32 + 122?",
+    "output": "154"
+  },
+  {
+    "input": "What is 173 + 123?",
+    "output": "296"
+  },
+  {
+    "input": "What is 147 + 85?",
+    "output": "232"
+  },
+  {
+    "input": "What is 195 + 115?",
+    "output": "310"
+  },
+  {
+    "input": "What is 188 + 8?",
+    "output": "196"
+  },
+  {
+    "input": "What is 32 + 157?",
+    "output": "189"
+  },
+  {
+    "input": "What is 182 + 5?",
+    "output": "187"
+  },
+  {
+    "input": "What is 1 + 165?",
+    "output": "166"
+  },
+  {
+    "input": "What is 36 + 190?",
+    "output": "226"
+  },
+  {
+    "input": "What is 67 + 115?",
+    "output": "182"
+  },
+  {
+    "input": "What is 115 + 27?",
+    "output": "142"
+  },
+  {
+    "input": "What is 105 + 0?",
+    "output": "105"
+  },
+  {
+    "input": "What is 57 + 87?",
+    "output": "144"
+  },
+  {
+    "input": "What is 90 + 2?",
+    "output": "92"
+  },
+  {
+    "input": "What is 59 + 45?",
+    "output": "104"
+  },
+  {
+    "input": "What is 68 + 192?",
+    "output": "260"
+  },
+  {
+    "input": "What is 110 + 186?",
+    "output": "296"
+  },
+  {
+    "input": "What is 165 + 65?",
+    "output": "230"
+  },
+  {
+    "input": "What is 194 + 112?",
+    "output": "306"
+  },
+  {
+    "input": "What is 21 + 19?",
+    "output": "40"
+  },
+  {
+    "input": "What is 36 + 119?",
+    "output": "155"
+  },
+  {
+    "input": "What is 27 + 143?",
+    "output": "170"
+  },
+  {
+    "input": "What is 104 + 111?",
+    "output": "215"
+  },
+  {
+    "input": "What is 134 + 6?",
+    "output": "140"
+  },
+  {
+    "input": "What is 18 + 182?",
+    "output": "200"
+  },
+  {
+    "input": "What is 181 + 30?",
+    "output": "211"
+  },
+  {
+    "input": "What is 24 + 83?",
+    "output": "107"
+  },
+  {
+    "input": "What is 190 + 57?",
+    "output": "247"
+  },
+  {
+    "input": "What is 24 + 59?",
+    "output": "83"
+  },
+  {
+    "input": "What is 56 + 64?",
+    "output": "120"
+  },
+  {
+    "input": "What is 77 + 17?",
+    "output": "94"
+  },
+  {
+    "input": "What is 76 + 0?",
+    "output": "76"
+  },
+  {
+    "input": "What is 179 + 10?",
+    "output": "189"
+  },
+  {
+    "input": "What is 90 + 125?",
+    "output": "215"
+  },
+  {
+    "input": "What is 178 + 92?",
+    "output": "270"
+  },
+  {
+    "input": "What is 170 + 26?",
+    "output": "196"
+  },
+  {
+    "input": "What is 4 + 182?",
+    "output": "186"
+  },
+  {
+    "input": "What is 65 + 58?",
+    "output": "123"
+  },
+  {
+    "input": "What is 197 + 91?",
+    "output": "288"
+  },
+  {
+    "input": "What is 195 + 105?",
+    "output": "300"
+  },
+  {
+    "input": "What is 27 + 92?",
+    "output": "119"
+  },
+  {
+    "input": "What is 118 + 110?",
+    "output": "228"
+  },
+  {
+    "input": "What is 132 + 19?",
+    "output": "151"
+  },
+  {
+    "input": "What is 112 + 67?",
+    "output": "179"
+  },
+  {
+    "input": "What is 94 + 57?",
+    "output": "151"
+  },
+  {
+    "input": "What is 83 + 111?",
+    "output": "194"
+  },
+  {
+    "input": "What is 40 + 87?",
+    "output": "127"
+  },
+  {
+    "input": "What is 112 + 160?",
+    "output": "272"
+  },
+  {
+    "input": "What is 76 + 108?",
+    "output": "184"
+  },
+  {
+    "input": "What is 56 + 114?",
+    "output": "170"
+  },
+  {
+    "input": "What is 114 + 12?",
+    "output": "126"
+  },
+  {
+    "input": "What is 49 + 100?",
+    "output": "149"
+  },
+  {
+    "input": "What is 0 + 124?",
+    "output": "124"
+  },
+  {
+    "input": "What is 46 + 153?",
+    "output": "199"
+  },
+  {
+    "input": "What is 87 + 118?",
+    "output": "205"
+  },
+  {
+    "input": "What is 34 + 73?",
+    "output": "107"
+  },
+  {
+    "input": "What is 116 + 93?",
+    "output": "209"
+  },
+  {
+    "input": "What is 85 + 186?",
+    "output": "271"
+  },
+  {
+    "input": "What is 83 + 6?",
+    "output": "89"
+  },
+  {
+    "input": "What is 69 + 114?",
+    "output": "183"
+  },
+  {
+    "input": "What is 30 + 150?",
+    "output": "180"
+  },
+  {
+    "input": "What is 70 + 44?",
+    "output": "114"
+  },
+  {
+    "input": "What is 21 + 62?",
+    "output": "83"
+  },
+  {
+    "input": "What is 103 + 59?",
+    "output": "162"
+  },
+  {
+    "input": "What is 75 + 144?",
+    "output": "219"
+  },
+  {
+    "input": "What is 131 + 160?",
+    "output": "291"
+  },
+  {
+    "input": "What is 150 + 96?",
+    "output": "246"
+  },
+  {
+    "input": "What is 71 + 33?",
+    "output": "104"
+  },
+  {
+    "input": "What is 104 + 189?",
+    "output": "293"
+  },
+  {
+    "input": "What is 117 + 121?",
+    "output": "238"
+  },
+  {
+    "input": "What is 197 + 76?",
+    "output": "273"
+  },
+  {
+    "input": "What is 99 + 140?",
+    "output": "239"
+  },
+  {
+    "input": "What is 160 + 186?",
+    "output": "346"
+  },
+  {
+    "input": "What is 175 + 193?",
+    "output": "368"
+  },
+  {
+    "input": "What is 54 + 101?",
+    "output": "155"
+  },
+  {
+    "input": "What is 18 + 13?",
+    "output": "31"
+  },
+  {
+    "input": "What is 53 + 0?",
+    "output": "53"
+  },
+  {
+    "input": "What is 13 + 19?",
+    "output": "32"
+  },
+  {
+    "input": "What is 190 + 159?",
+    "output": "349"
+  },
+  {
+    "input": "What is 171 + 125?",
+    "output": "296"
+  },
+  {
+    "input": "What is 159 + 19?",
+    "output": "178"
+  },
+  {
+    "input": "What is 64 + 97?",
+    "output": "161"
+  },
+  {
+    "input": "What is 80 + 38?",
+    "output": "118"
+  },
+  {
+    "input": "What is 189 + 64?",
+    "output": "253"
+  },
+  {
+    "input": "What is 8 + 166?",
+    "output": "174"
+  },
+  {
+    "input": "What is 175 + 154?",
+    "output": "329"
+  },
+  {
+    "input": "What is 175 + 54?",
+    "output": "229"
+  },
+  {
+    "input": "What is 140 + 23?",
+    "output": "163"
+  },
+  {
+    "input": "What is 11 + 62?",
+    "output": "73"
+  },
+  {
+    "input": "What is 96 + 194?",
+    "output": "290"
+  },
+  {
+    "input": "What is 67 + 95?",
+    "output": "162"
+  },
+  {
+    "input": "What is 117 + 73?",
+    "output": "190"
+  },
+  {
+    "input": "What is 180 + 104?",
+    "output": "284"
+  },
+  {
+    "input": "What is 11 + 108?",
+    "output": "119"
+  },
+  {
+    "input": "What is 109 + 138?",
+    "output": "247"
+  },
+  {
+    "input": "What is 18 + 153?",
+    "output": "171"
+  },
+  {
+    "input": "What is 28 + 103?",
+    "output": "131"
+  },
+  {
+    "input": "What is 135 + 23?",
+    "output": "158"
+  },
+  {
+    "input": "What is 45 + 167?",
+    "output": "212"
+  },
+  {
+    "input": "What is 97 + 59?",
+    "output": "156"
+  },
+  {
+    "input": "What is 120 + 38?",
+    "output": "158"
+  }
+]

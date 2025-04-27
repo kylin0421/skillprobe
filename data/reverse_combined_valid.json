@@ -1,0 +1,4002 @@
+[
+  {
+    "input": "Reverse the following sequence: duav3",
+    "output": "3vaud"
+  },
+  {
+    "input": "Reverse the following sequence: e6xm8",
+    "output": "8mx6e"
+  },
+  {
+    "input": "Reverse the following sequence: v65oa",
+    "output": "ao56v"
+  },
+  {
+    "input": "Reverse the following sequence: 8lcl9",
+    "output": "9lcl8"
+  },
+  {
+    "input": "Reverse the following sequence: b1w0z",
+    "output": "z0w1b"
+  },
+  {
+    "input": "Reverse the following sequence: djjs5",
+    "output": "5sjjd"
+  },
+  {
+    "input": "Reverse the following sequence: 2kevz",
+    "output": "zvek2"
+  },
+  {
+    "input": "Reverse the following sequence: u9705",
+    "output": "5079u"
+  },
+  {
+    "input": "Reverse the following sequence: b8zfj",
+    "output": "jfz8b"
+  },
+  {
+    "input": "Reverse the following sequence: xz6cc",
+    "output": "cc6zx"
+  },
+  {
+    "input": "Reverse the following sequence: m2q7f",
+    "output": "f7q2m"
+  },
+  {
+    "input": "Reverse the following sequence: u732o",
+    "output": "o237u"
+  },
+  {
+    "input": "Reverse the following sequence: fp9wx",
+    "output": "xw9pf"
+  },
+  {
+    "input": "Reverse the following sequence: 9b0ph",
+    "output": "hp0b9"
+  },
+  {
+    "input": "Reverse the following sequence: 4jmxa",
+    "output": "axmj4"
+  },
+  {
+    "input": "Reverse the following sequence: b7r97",
+    "output": "79r7b"
+  },
+  {
+    "input": "Reverse the following sequence: ldk1f",
+    "output": "f1kdl"
+  },
+  {
+    "input": "Reverse the following sequence: hikuw",
+    "output": "wukih"
+  },
+  {
+    "input": "Reverse the following sequence: ceg3j",
+    "output": "j3gec"
+  },
+  {
+    "input": "Reverse the following sequence: j3pko",
+    "output": "okp3j"
+  },
+  {
+    "input": "Reverse the following sequence: i83yt",
+    "output": "ty38i"
+  },
+  {
+    "input": "Reverse the following sequence: 6t9ef",
+    "output": "fe9t6"
+  },
+  {
+    "input": "Reverse the following sequence: 96ejp",
+    "output": "pje69"
+  },
+  {
+    "input": "Reverse the following sequence: 77jns",
+    "output": "snj77"
+  },
+  {
+    "input": "Reverse the following sequence: i8c7b",
+    "output": "b7c8i"
+  },
+  {
+    "input": "Reverse the following sequence: yu5l9",
+    "output": "9l5uy"
+  },
+  {
+    "input": "Reverse the following sequence: nvnt2",
+    "output": "2tnvn"
+  },
+  {
+    "input": "Reverse the following sequence: 5srb5",
+    "output": "5brs5"
+  },
+  {
+    "input": "Reverse the following sequence: 5jr5r",
+    "output": "r5rj5"
+  },
+  {
+    "input": "Reverse the following sequence: 4ql2p",
+    "output": "p2lq4"
+  },
+  {
+    "input": "Reverse the following sequence: izndu",
+    "output": "udnzi"
+  },
+  {
+    "input": "Reverse the following sequence: 614yu",
+    "output": "uy416"
+  },
+  {
+    "input": "Reverse the following sequence: 0yl0t",
+    "output": "t0ly0"
+  },
+  {
+    "input": "Reverse the following sequence: dbc8h",
+    "output": "h8cbd"
+  },
+  {
+    "input": "Reverse the following sequence: hpb84",
+    "output": "48bph"
+  },
+  {
+    "input": "Reverse the following sequence: xrsew",
+    "output": "wesrx"
+  },
+  {
+    "input": "Reverse the following sequence: jblok",
+    "output": "kolbj"
+  },
+  {
+    "input": "Reverse the following sequence: e6zoy",
+    "output": "yoz6e"
+  },
+  {
+    "input": "Reverse the following sequence: 7liop",
+    "output": "poil7"
+  },
+  {
+    "input": "Reverse the following sequence: xhee3",
+    "output": "3eehx"
+  },
+  {
+    "input": "Reverse the following sequence: fa20d",
+    "output": "d02af"
+  },
+  {
+    "input": "Reverse the following sequence: n3ebf",
+    "output": "fbe3n"
+  },
+  {
+    "input": "Reverse the following sequence: wa6mw",
+    "output": "wm6aw"
+  },
+  {
+    "input": "Reverse the following sequence: m7c42",
+    "output": "24c7m"
+  },
+  {
+    "input": "Reverse the following sequence: qt9ex",
+    "output": "xe9tq"
+  },
+  {
+    "input": "Reverse the following sequence: r4295",
+    "output": "5924r"
+  },
+  {
+    "input": "Reverse the following sequence: d90uv",
+    "output": "vu09d"
+  },
+  {
+    "input": "Reverse the following sequence: vgdqn",
+    "output": "nqdgv"
+  },
+  {
+    "input": "Reverse the following sequence: k5qk7",
+    "output": "7kq5k"
+  },
+  {
+    "input": "Reverse the following sequence: laid4",
+    "output": "4dial"
+  },
+  {
+    "input": "Reverse the following sequence: v8e6v",
+    "output": "v6e8v"
+  },
+  {
+    "input": "Reverse the following sequence: tgdef",
+    "output": "fedgt"
+  },
+  {
+    "input": "Reverse the following sequence: ahpra",
+    "output": "arpha"
+  },
+  {
+    "input": "Reverse the following sequence: u7lqs",
+    "output": "sql7u"
+  },
+  {
+    "input": "Reverse the following sequence: qi7mw",
+    "output": "wm7iq"
+  },
+  {
+    "input": "Reverse the following sequence: a3ta6",
+    "output": "6at3a"
+  },
+  {
+    "input": "Reverse the following sequence: atauq",
+    "output": "quata"
+  },
+  {
+    "input": "Reverse the following sequence: yril4",
+    "output": "4liry"
+  },
+  {
+    "input": "Reverse the following sequence: eaml4",
+    "output": "4lmae"
+  },
+  {
+    "input": "Reverse the following sequence: 00dcr",
+    "output": "rcd00"
+  },
+  {
+    "input": "Reverse the following sequence: fzghj",
+    "output": "jhgzf"
+  },
+  {
+    "input": "Reverse the following sequence: t8wfn",
+    "output": "nfw8t"
+  },
+  {
+    "input": "Reverse the following sequence: iqrdk",
+    "output": "kdrqi"
+  },
+  {
+    "input": "Reverse the following sequence: s60dn",
+    "output": "nd06s"
+  },
+  {
+    "input": "Reverse the following sequence: fvuga",
+    "output": "aguvf"
+  },
+  {
+    "input": "Reverse the following sequence: i3xfn",
+    "output": "nfx3i"
+  },
+  {
+    "input": "Reverse the following sequence: qjw6g",
+    "output": "g6wjq"
+  },
+  {
+    "input": "Reverse the following sequence: f6r0l",
+    "output": "l0r6f"
+  },
+  {
+    "input": "Reverse the following sequence: vi2jm",
+    "output": "mj2iv"
+  },
+  {
+    "input": "Reverse the following sequence: t3pbz",
+    "output": "zbp3t"
+  },
+  {
+    "input": "Reverse the following sequence: dug88",
+    "output": "88gud"
+  },
+  {
+    "input": "Reverse the following sequence: h8g3j",
+    "output": "j3g8h"
+  },
+  {
+    "input": "Reverse the following sequence: zdtco",
+    "output": "octdz"
+  },
+  {
+    "input": "Reverse the following sequence: 2y685",
+    "output": "586y2"
+  },
+  {
+    "input": "Reverse the following sequence: domf5",
+    "output": "5fmod"
+  },
+  {
+    "input": "Reverse the following sequence: 7cu51",
+    "output": "15uc7"
+  },
+  {
+    "input": "Reverse the following sequence: pp9bi",
+    "output": "ib9pp"
+  },
+  {
+    "input": "Reverse the following sequence: kdln2",
+    "output": "2nldk"
+  },
+  {
+    "input": "Reverse the following sequence: y6r22",
+    "output": "22r6y"
+  },
+  {
+    "input": "Reverse the following sequence: zwo5s",
+    "output": "s5owz"
+  },
+  {
+    "input": "Reverse the following sequence: a3880",
+    "output": "0883a"
+  },
+  {
+    "input": "Reverse the following sequence: hxzwt",
+    "output": "twzxh"
+  },
+  {
+    "input": "Reverse the following sequence: shnt4",
+    "output": "4tnhs"
+  },
+  {
+    "input": "Reverse the following sequence: bpkxw",
+    "output": "wxkpb"
+  },
+  {
+    "input": "Reverse the following sequence: 1wrd6",
+    "output": "6drw1"
+  },
+  {
+    "input": "Reverse the following sequence: cv01o",
+    "output": "o10vc"
+  },
+  {
+    "input": "Reverse the following sequence: hb8xb",
+    "output": "bx8bh"
+  },
+  {
+    "input": "Reverse the following sequence: 7ee39",
+    "output": "93ee7"
+  },
+  {
+    "input": "Reverse the following sequence: nftvk",
+    "output": "kvtfn"
+  },
+  {
+    "input": "Reverse the following sequence: vjg96",
+    "output": "69gjv"
+  },
+  {
+    "input": "Reverse the following sequence: i0a4u",
+    "output": "u4a0i"
+  },
+  {
+    "input": "Reverse the following sequence: 31tp6",
+    "output": "6pt13"
+  },
+  {
+    "input": "Reverse the following sequence: i6bs7",
+    "output": "7sb6i"
+  },
+  {
+    "input": "Reverse the following sequence: 9h33z",
+    "output": "z33h9"
+  },
+  {
+    "input": "Reverse the following sequence: n7f3w",
+    "output": "w3f7n"
+  },
+  {
+    "input": "Reverse the following sequence: yq5wg",
+    "output": "gw5qy"
+  },
+  {
+    "input": "Reverse the following sequence: tlo75",
+    "output": "57olt"
+  },
+  {
+    "input": "Reverse the following sequence: n89mx",
+    "output": "xm98n"
+  },
+  {
+    "input": "Reverse the following sequence: 5tshf",
+    "output": "fhst5"
+  },
+  {
+    "input": "Reverse the following sequence: fnsaz",
+    "output": "zasnf"
+  },
+  {
+    "input": "Reverse the following sequence: 0hsyt",
+    "output": "tysh0"
+  },
+  {
+    "input": "Reverse the following sequence: 6bqbk",
+    "output": "kbqb6"
+  },
+  {
+    "input": "Reverse the following sequence: i68l5",
+    "output": "5l86i"
+  },
+  {
+    "input": "Reverse the following sequence: g28op",
+    "output": "po82g"
+  },
+  {
+    "input": "Reverse the following sequence: tbf0r",
+    "output": "r0fbt"
+  },
+  {
+    "input": "Reverse the following sequence: jjxci",
+    "output": "icxjj"
+  },
+  {
+    "input": "Reverse the following sequence: 9zsdv",
+    "output": "vdsz9"
+  },
+  {
+    "input": "Reverse the following sequence: s2a5k",
+    "output": "k5a2s"
+  },
+  {
+    "input": "Reverse the following sequence: 8yufu",
+    "output": "ufuy8"
+  },
+  {
+    "input": "Reverse the following sequence: c0550",
+    "output": "0550c"
+  },
+  {
+    "input": "Reverse the following sequence: jum6s",
+    "output": "s6muj"
+  },
+  {
+    "input": "Reverse the following sequence: pqn73",
+    "output": "37nqp"
+  },
+  {
+    "input": "Reverse the following sequence: owq8o",
+    "output": "o8qwo"
+  },
+  {
+    "input": "Reverse the following sequence: mnsvd",
+    "output": "dvsnm"
+  },
+  {
+    "input": "Reverse the following sequence: 59k59",
+    "output": "95k95"
+  },
+  {
+    "input": "Reverse the following sequence: 87ohb",
+    "output": "bho78"
+  },
+  {
+    "input": "Reverse the following sequence: 9b752",
+    "output": "257b9"
+  },
+  {
+    "input": "Reverse the following sequence: xxdrx",
+    "output": "xrdxx"
+  },
+  {
+    "input": "Reverse the following sequence: 84q8n",
+    "output": "n8q48"
+  },
+  {
+    "input": "Reverse the following sequence: t4zix",
+    "output": "xiz4t"
+  },
+  {
+    "input": "Reverse the following sequence: jybpy",
+    "output": "ypbyj"
+  },
+  {
+    "input": "Reverse the following sequence: uput2",
+    "output": "2tupu"
+  },
+  {
+    "input": "Reverse the following sequence: ndnrz",
+    "output": "zrndn"
+  },
+  {
+    "input": "Reverse the following sequence: v3pz7",
+    "output": "7zp3v"
+  },
+  {
+    "input": "Reverse the following sequence: wjckt",
+    "output": "tkcjw"
+  },
+  {
+    "input": "Reverse the following sequence: oraxm",
+    "output": "mxaro"
+  },
+  {
+    "input": "Reverse the following sequence: e0w9l",
+    "output": "l9w0e"
+  },
+  {
+    "input": "Reverse the following sequence: j0of4",
+    "output": "4fo0j"
+  },
+  {
+    "input": "Reverse the following sequence: pte4w",
+    "output": "w4etp"
+  },
+  {
+    "input": "Reverse the following sequence: nbrzm",
+    "output": "mzrbn"
+  },
+  {
+    "input": "Reverse the following sequence: in20q",
+    "output": "q02ni"
+  },
+  {
+    "input": "Reverse the following sequence: bfb20",
+    "output": "02bfb"
+  },
+  {
+    "input": "Reverse the following sequence: e8ac4",
+    "output": "4ca8e"
+  },
+  {
+    "input": "Reverse the following sequence: 0r3st",
+    "output": "ts3r0"
+  },
+  {
+    "input": "Reverse the following sequence: 2lefl",
+    "output": "lfel2"
+  },
+  {
+    "input": "Reverse the following sequence: kmkkt",
+    "output": "tkkmk"
+  },
+  {
+    "input": "Reverse the following sequence: 3awzf",
+    "output": "fzwa3"
+  },
+  {
+    "input": "Reverse the following sequence: aaz86",
+    "output": "68zaa"
+  },
+  {
+    "input": "Reverse the following sequence: vlqk7",
+    "output": "7kqlv"
+  },
+  {
+    "input": "Reverse the following sequence: preyh",
+    "output": "hyerp"
+  },
+  {
+    "input": "Reverse the following sequence: 2fpnf",
+    "output": "fnpf2"
+  },
+  {
+    "input": "Reverse the following sequence: 61uy7",
+    "output": "7yu16"
+  },
+  {
+    "input": "Reverse the following sequence: 0w1s6",
+    "output": "6s1w0"
+  },
+  {
+    "input": "Reverse the following sequence: 8cxbs",
+    "output": "sbxc8"
+  },
+  {
+    "input": "Reverse the following sequence: ijkwb",
+    "output": "bwkji"
+  },
+  {
+    "input": "Reverse the following sequence: rng3g",
+    "output": "g3gnr"
+  },
+  {
+    "input": "Reverse the following sequence: 12cbb",
+    "output": "bbc21"
+  },
+  {
+    "input": "Reverse the following sequence: thz8c",
+    "output": "c8zht"
+  },
+  {
+    "input": "Reverse the following sequence: 2j19m",
+    "output": "m91j2"
+  },
+  {
+    "input": "Reverse the following sequence: 0uq5m",
+    "output": "m5qu0"
+  },
+  {
+    "input": "Reverse the following sequence: mhvh6",
+    "output": "6hvhm"
+  },
+  {
+    "input": "Reverse the following sequence: 8euh9",
+    "output": "9hue8"
+  },
+  {
+    "input": "Reverse the following sequence: npcmp",
+    "output": "pmcpn"
+  },
+  {
+    "input": "Reverse the following sequence: jtogp",
+    "output": "pgotj"
+  },
+  {
+    "input": "Reverse the following sequence: zu1hl",
+    "output": "lh1uz"
+  },
+  {
+    "input": "Reverse the following sequence: qmurv",
+    "output": "vrumq"
+  },
+  {
+    "input": "Reverse the following sequence: 2i2pm",
+    "output": "mp2i2"
+  },
+  {
+    "input": "Reverse the following sequence: xllaq",
+    "output": "qallx"
+  },
+  {
+    "input": "Reverse the following sequence: qhm7y",
+    "output": "y7mhq"
+  },
+  {
+    "input": "Reverse the following sequence: k9sou",
+    "output": "uos9k"
+  },
+  {
+    "input": "Reverse the following sequence: v8fa1",
+    "output": "1af8v"
+  },
+  {
+    "input": "Reverse the following sequence: bdfdb",
+    "output": "bdfdb"
+  },
+  {
+    "input": "Reverse the following sequence: eyqyh",
+    "output": "hyqye"
+  },
+  {
+    "input": "Reverse the following sequence: wffis",
+    "output": "siffw"
+  },
+  {
+    "input": "Reverse the following sequence: 2c2pd",
+    "output": "dp2c2"
+  },
+  {
+    "input": "Reverse the following sequence: fgp4g",
+    "output": "g4pgf"
+  },
+  {
+    "input": "Reverse the following sequence: 4gch5",
+    "output": "5hcg4"
+  },
+  {
+    "input": "Reverse the following sequence: ybxtj",
+    "output": "jtxby"
+  },
+  {
+    "input": "Reverse the following sequence: 4l1cf",
+    "output": "fc1l4"
+  },
+  {
+    "input": "Reverse the following sequence: 14sk8",
+    "output": "8ks41"
+  },
+  {
+    "input": "Reverse the following sequence: 6b7v5",
+    "output": "5v7b6"
+  },
+  {
+    "input": "Reverse the following sequence: ybu5a",
+    "output": "a5uby"
+  },
+  {
+    "input": "Reverse the following sequence: tg2gw",
+    "output": "wg2gt"
+  },
+  {
+    "input": "Reverse the following sequence: ob6xe",
+    "output": "ex6bo"
+  },
+  {
+    "input": "Reverse the following sequence: e14ir",
+    "output": "ri41e"
+  },
+  {
+    "input": "Reverse the following sequence: dmbgq",
+    "output": "qgbmd"
+  },
+  {
+    "input": "Reverse the following sequence: o46lb",
+    "output": "bl64o"
+  },
+  {
+    "input": "Reverse the following sequence: t6be3",
+    "output": "3eb6t"
+  },
+  {
+    "input": "Reverse the following sequence: 68ipo",
+    "output": "opi86"
+  },
+  {
+    "input": "Reverse the following sequence: ut6ss",
+    "output": "ss6tu"
+  },
+  {
+    "input": "Reverse the following sequence: 52zui",
+    "output": "iuz25"
+  },
+  {
+    "input": "Reverse the following sequence: 63fl7",
+    "output": "7lf36"
+  },
+  {
+    "input": "Reverse the following sequence: r0cmm",
+    "output": "mmc0r"
+  },
+  {
+    "input": "Reverse the following sequence: k2tj8",
+    "output": "8jt2k"
+  },
+  {
+    "input": "Reverse the following sequence: 2ic3v",
+    "output": "v3ci2"
+  },
+  {
+    "input": "Reverse the following sequence: v4sew",
+    "output": "wes4v"
+  },
+  {
+    "input": "Reverse the following sequence: brtpa",
+    "output": "aptrb"
+  },
+  {
+    "input": "Reverse the following sequence: qc82j",
+    "output": "j28cq"
+  },
+  {
+    "input": "Reverse the following sequence: 03kv0",
+    "output": "0vk30"
+  },
+  {
+    "input": "Reverse the following sequence: svgzh",
+    "output": "hzgvs"
+  },
+  {
+    "input": "Reverse the following sequence: j31dq",
+    "output": "qd13j"
+  },
+  {
+    "input": "Reverse the following sequence: su2e4",
+    "output": "4e2us"
+  },
+  {
+    "input": "Reverse the following sequence: y8ad9",
+    "output": "9da8y"
+  },
+  {
+    "input": "Reverse the following sequence: nuf8u",
+    "output": "u8fun"
+  },
+  {
+    "input": "Reverse the following sequence: rludd",
+    "output": "ddulr"
+  },
+  {
+    "input": "Reverse the following sequence: itlm5",
+    "output": "5mlti"
+  },
+  {
+    "input": "Reverse the following sequence: bz2u1",
+    "output": "1u2zb"
+  },
+  {
+    "input": "Reverse the following sequence: jx13t",
+    "output": "t31xj"
+  },
+  {
+    "input": "Reverse the following sequence: s59l5",
+    "output": "5l95s"
+  },
+  {
+    "input": "Reverse the following sequence: idrd0",
+    "output": "0drdi"
+  },
+  {
+    "input": "Reverse the following sequence: 8pola",
+    "output": "alop8"
+  },
+  {
+    "input": "Reverse the following sequence: l7rac",
+    "output": "car7l"
+  },
+  {
+    "input": "Reverse the following sequence: 3po0f",
+    "output": "f0op3"
+  },
+  {
+    "input": "Reverse the following sequence: ynft3",
+    "output": "3tfny"
+  },
+  {
+    "input": "Reverse the following sequence: ibyur",
+    "output": "ruybi"
+  },
+  {
+    "input": "Reverse the following sequence: 84nyu",
+    "output": "uyn48"
+  },
+  {
+    "input": "Reverse the following sequence: awci3",
+    "output": "3icwa"
+  },
+  {
+    "input": "Reverse the following sequence: x71ac",
+    "output": "ca17x"
+  },
+  {
+    "input": "Reverse the following sequence: 46ltk",
+    "output": "ktl64"
+  },
+  {
+    "input": "Reverse the following sequence: efjyf",
+    "output": "fyjfe"
+  },
+  {
+    "input": "Reverse the following sequence: gdcgz",
+    "output": "zgcdg"
+  },
+  {
+    "input": "Reverse the following sequence: j733h",
+    "output": "h337j"
+  },
+  {
+    "input": "Reverse the following sequence: kg3fv",
+    "output": "vf3gk"
+  },
+  {
+    "input": "Reverse the following sequence: or4hn",
+    "output": "nh4ro"
+  },
+  {
+    "input": "Reverse the following sequence: 8n5fg",
+    "output": "gf5n8"
+  },
+  {
+    "input": "Reverse the following sequence: pxcrw",
+    "output": "wrcxp"
+  },
+  {
+    "input": "Reverse the following sequence: ksojj",
+    "output": "jjosk"
+  },
+  {
+    "input": "Reverse the following sequence: cfj3b",
+    "output": "b3jfc"
+  },
+  {
+    "input": "Reverse the following sequence: o3zmy",
+    "output": "ymz3o"
+  },
+  {
+    "input": "Reverse the following sequence: qeq60",
+    "output": "06qeq"
+  },
+  {
+    "input": "Reverse the following sequence: 9sz5q",
+    "output": "q5zs9"
+  },
+  {
+    "input": "Reverse the following sequence: l4zrx",
+    "output": "xrz4l"
+  },
+  {
+    "input": "Reverse the following sequence: gc33k",
+    "output": "k33cg"
+  },
+  {
+    "input": "Reverse the following sequence: 0yj9a",
+    "output": "a9jy0"
+  },
+  {
+    "input": "Reverse the following sequence: 45dxg",
+    "output": "gxd54"
+  },
+  {
+    "input": "Reverse the following sequence: lr295",
+    "output": "592rl"
+  },
+  {
+    "input": "Reverse the following sequence: z8edr",
+    "output": "rde8z"
+  },
+  {
+    "input": "Reverse the following sequence: a0di2",
+    "output": "2id0a"
+  },
+  {
+    "input": "Reverse the following sequence: yx8b8",
+    "output": "8b8xy"
+  },
+  {
+    "input": "Reverse the following sequence: b58w0",
+    "output": "0w85b"
+  },
+  {
+    "input": "Reverse the following sequence: w0ex2",
+    "output": "2xe0w"
+  },
+  {
+    "input": "Reverse the following sequence: ecocb",
+    "output": "bcoce"
+  },
+  {
+    "input": "Reverse the following sequence: k2vlb",
+    "output": "blv2k"
+  },
+  {
+    "input": "Reverse the following sequence: tvmej",
+    "output": "jemvt"
+  },
+  {
+    "input": "Reverse the following sequence: gs6ya",
+    "output": "ay6sg"
+  },
+  {
+    "input": "Reverse the following sequence: yqga6",
+    "output": "6agqy"
+  },
+  {
+    "input": "Reverse the following sequence: p4xi5",
+    "output": "5ix4p"
+  },
+  {
+    "input": "Reverse the following sequence: t7e5h",
+    "output": "h5e7t"
+  },
+  {
+    "input": "Reverse the following sequence: dclg1",
+    "output": "1glcd"
+  },
+  {
+    "input": "Reverse the following sequence: cc2k5",
+    "output": "5k2cc"
+  },
+  {
+    "input": "Reverse the following sequence: tc7rn",
+    "output": "nr7ct"
+  },
+  {
+    "input": "Reverse the following sequence: e764q",
+    "output": "q467e"
+  },
+  {
+    "input": "Reverse the following sequence: vp2q7",
+    "output": "7q2pv"
+  },
+  {
+    "input": "Reverse the following sequence: nob7f",
+    "output": "f7bon"
+  },
+  {
+    "input": "Reverse the following sequence: uty4q",
+    "output": "q4ytu"
+  },
+  {
+    "input": "Reverse the following sequence: w242b",
+    "output": "b242w"
+  },
+  {
+    "input": "Reverse the following sequence: dancp",
+    "output": "pcnad"
+  },
+  {
+    "input": "Reverse the following sequence: xmbus",
+    "output": "submx"
+  },
+  {
+    "input": "Reverse the following sequence: pa7p3",
+    "output": "3p7ap"
+  },
+  {
+    "input": "Reverse the following sequence: 59xok",
+    "output": "kox95"
+  },
+  {
+    "input": "Reverse the following sequence: fhwc2",
+    "output": "2cwhf"
+  },
+  {
+    "input": "Reverse the following sequence: hlgwg",
+    "output": "gwglh"
+  },
+  {
+    "input": "Reverse the following sequence: spwoq",
+    "output": "qowps"
+  },
+  {
+    "input": "Reverse the following sequence: o4g27",
+    "output": "72g4o"
+  },
+  {
+    "input": "Reverse the following sequence: k5e13",
+    "output": "31e5k"
+  },
+  {
+    "input": "Reverse the following sequence: 9df4v",
+    "output": "v4fd9"
+  },
+  {
+    "input": "Reverse the following sequence: hq10o",
+    "output": "o01qh"
+  },
+  {
+    "input": "Reverse the following sequence: 4x6m8",
+    "output": "8m6x4"
+  },
+  {
+    "input": "Reverse the following sequence: bfdka",
+    "output": "akdfb"
+  },
+  {
+    "input": "Reverse the following sequence: d2gls",
+    "output": "slg2d"
+  },
+  {
+    "input": "Reverse the following sequence: 9l8kt",
+    "output": "tk8l9"
+  },
+  {
+    "input": "Reverse the following sequence: u2833",
+    "output": "3382u"
+  },
+  {
+    "input": "Reverse the following sequence: t30o7",
+    "output": "7o03t"
+  },
+  {
+    "input": "Reverse the following sequence: efh6i",
+    "output": "i6hfe"
+  },
+  {
+    "input": "Reverse the following sequence: dm5bf",
+    "output": "fb5md"
+  },
+  {
+    "input": "Reverse the following sequence: v2iy2",
+    "output": "2yi2v"
+  },
+  {
+    "input": "Reverse the following sequence: 4zlhy",
+    "output": "yhlz4"
+  },
+  {
+    "input": "Reverse the following sequence: mfhpl",
+    "output": "lphfm"
+  },
+  {
+    "input": "Reverse the following sequence: 7obdm",
+    "output": "mdbo7"
+  },
+  {
+    "input": "Reverse the following sequence: 377u8",
+    "output": "8u773"
+  },
+  {
+    "input": "Reverse the following sequence: y27ab",
+    "output": "ba72y"
+  },
+  {
+    "input": "Reverse the following sequence: ll2ib",
+    "output": "bi2ll"
+  },
+  {
+    "input": "Reverse the following sequence: 4mf2z",
+    "output": "z2fm4"
+  },
+  {
+    "input": "Reverse the following sequence: knc8x",
+    "output": "x8cnk"
+  },
+  {
+    "input": "Reverse the following sequence: kkagn",
+    "output": "ngakk"
+  },
+  {
+    "input": "Reverse the following sequence: 0sknx",
+    "output": "xnks0"
+  },
+  {
+    "input": "Reverse the following sequence: cydke",
+    "output": "ekdyc"
+  },
+  {
+    "input": "Reverse the following sequence: ra01j",
+    "output": "j10ar"
+  },
+  {
+    "input": "Reverse the following sequence: fxtsv",
+    "output": "vstxf"
+  },
+  {
+    "input": "Reverse the following sequence: 9c7zc",
+    "output": "cz7c9"
+  },
+  {
+    "input": "Reverse the following sequence: o9n5g",
+    "output": "g5n9o"
+  },
+  {
+    "input": "Reverse the following sequence: 2eter",
+    "output": "rete2"
+  },
+  {
+    "input": "Reverse the following sequence: avv4c",
+    "output": "c4vva"
+  },
+  {
+    "input": "Reverse the following sequence: ekrp9",
+    "output": "9prke"
+  },
+  {
+    "input": "Reverse the following sequence: d26tu",
+    "output": "ut62d"
+  },
+  {
+    "input": "Reverse the following sequence: luqxn",
+    "output": "nxqul"
+  },
+  {
+    "input": "Reverse the following sequence: 2g334",
+    "output": "433g2"
+  },
+  {
+    "input": "Reverse the following sequence: pqc4p",
+    "output": "p4cqp"
+  },
+  {
+    "input": "Reverse the following sequence: fsng0",
+    "output": "0gnsf"
+  },
+  {
+    "input": "Reverse the following sequence: 7k9bb",
+    "output": "bb9k7"
+  },
+  {
+    "input": "Reverse the following sequence: l3bxh",
+    "output": "hxb3l"
+  },
+  {
+    "input": "Reverse the following sequence: mmsp3",
+    "output": "3psmm"
+  },
+  {
+    "input": "Reverse the following sequence: 0om5l",
+    "output": "l5mo0"
+  },
+  {
+    "input": "Reverse the following sequence: nr6r4",
+    "output": "4r6rn"
+  },
+  {
+    "input": "Reverse the following sequence: henn3",
+    "output": "3nneh"
+  },
+  {
+    "input": "Reverse the following sequence: wqlvp",
+    "output": "pvlqw"
+  },
+  {
+    "input": "Reverse the following sequence: airgg",
+    "output": "ggria"
+  },
+  {
+    "input": "Reverse the following sequence: nwvqd",
+    "output": "dqvwn"
+  },
+  {
+    "input": "Reverse the following sequence: vhphl",
+    "output": "lhphv"
+  },
+  {
+    "input": "Reverse the following sequence: o0pb8",
+    "output": "8bp0o"
+  },
+  {
+    "input": "Reverse the following sequence: 2kc0d",
+    "output": "d0ck2"
+  },
+  {
+    "input": "Reverse the following sequence: nhwhd",
+    "output": "dhwhn"
+  },
+  {
+    "input": "Reverse the following sequence: aea36",
+    "output": "63aea"
+  },
+  {
+    "input": "Reverse the following sequence: q5ect",
+    "output": "tce5q"
+  },
+  {
+    "input": "Reverse the following sequence: r80x8",
+    "output": "8x08r"
+  },
+  {
+    "input": "Reverse the following sequence: k55ab",
+    "output": "ba55k"
+  },
+  {
+    "input": "Reverse the following sequence: oglov",
+    "output": "volgo"
+  },
+  {
+    "input": "Reverse the following sequence: hrac9",
+    "output": "9carh"
+  },
+  {
+    "input": "Reverse the following sequence: 4jnp0",
+    "output": "0pnj4"
+  },
+  {
+    "input": "Reverse the following sequence: zysng",
+    "output": "gnsyz"
+  },
+  {
+    "input": "Reverse the following sequence: 8833h",
+    "output": "h3388"
+  },
+  {
+    "input": "Reverse the following sequence: wxpjr",
+    "output": "rjpxw"
+  },
+  {
+    "input": "Reverse the following sequence: 6n6a4",
+    "output": "4a6n6"
+  },
+  {
+    "input": "Reverse the following sequence: enool",
+    "output": "loone"
+  },
+  {
+    "input": "Reverse the following sequence: ylg8g",
+    "output": "g8gly"
+  },
+  {
+    "input": "Reverse the following sequence: t6zue",
+    "output": "euz6t"
+  },
+  {
+    "input": "Reverse the following sequence: p6jnf",
+    "output": "fnj6p"
+  },
+  {
+    "input": "Reverse the following sequence: mv0c3",
+    "output": "3c0vm"
+  },
+  {
+    "input": "Reverse the following sequence: 4gmel",
+    "output": "lemg4"
+  },
+  {
+    "input": "Reverse the following sequence: 4v8mb",
+    "output": "bm8v4"
+  },
+  {
+    "input": "Reverse the following sequence: ksup6",
+    "output": "6pusk"
+  },
+  {
+    "input": "Reverse the following sequence: ud1oz",
+    "output": "zo1du"
+  },
+  {
+    "input": "Reverse the following sequence: lynj8",
+    "output": "8jnyl"
+  },
+  {
+    "input": "Reverse the following sequence: mgklc",
+    "output": "clkgm"
+  },
+  {
+    "input": "Reverse the following sequence: ejmpr",
+    "output": "rpmje"
+  },
+  {
+    "input": "Reverse the following sequence: 6835f",
+    "output": "f5386"
+  },
+  {
+    "input": "Reverse the following sequence: lnw20",
+    "output": "02wnl"
+  },
+  {
+    "input": "Reverse the following sequence: 8p8no",
+    "output": "on8p8"
+  },
+  {
+    "input": "Reverse the following sequence: 95d4r",
+    "output": "r4d59"
+  },
+  {
+    "input": "Reverse the following sequence: xsac9",
+    "output": "9casx"
+  },
+  {
+    "input": "Reverse the following sequence: 2wsqx",
+    "output": "xqsw2"
+  },
+  {
+    "input": "Reverse the following sequence: rlad1",
+    "output": "1dalr"
+  },
+  {
+    "input": "Reverse the following sequence: s8zzb",
+    "output": "bzz8s"
+  },
+  {
+    "input": "Reverse the following sequence: vt8ml",
+    "output": "lm8tv"
+  },
+  {
+    "input": "Reverse the following sequence: ltipm",
+    "output": "mpitl"
+  },
+  {
+    "input": "Reverse the following sequence: 4r8ph",
+    "output": "hp8r4"
+  },
+  {
+    "input": "Reverse the following sequence: nxyrx",
+    "output": "xryxn"
+  },
+  {
+    "input": "Reverse the following sequence: 7w0b8",
+    "output": "8b0w7"
+  },
+  {
+    "input": "Reverse the following sequence: q32a8",
+    "output": "8a23q"
+  },
+  {
+    "input": "Reverse the following sequence: ti1u1",
+    "output": "1u1it"
+  },
+  {
+    "input": "Reverse the following sequence: 83186",
+    "output": "68138"
+  },
+  {
+    "input": "Reverse the following sequence: l5c80",
+    "output": "08c5l"
+  },
+  {
+    "input": "Reverse the following sequence: w1pvx",
+    "output": "xvp1w"
+  },
+  {
+    "input": "Reverse the following sequence: 8jrot",
+    "output": "torj8"
+  },
+  {
+    "input": "Reverse the following sequence: h9z3f",
+    "output": "f3z9h"
+  },
+  {
+    "input": "Reverse the following sequence: ljms8",
+    "output": "8smjl"
+  },
+  {
+    "input": "Reverse the following sequence: nzkop",
+    "output": "pokzn"
+  },
+  {
+    "input": "Reverse the following sequence: o60b0",
+    "output": "0b06o"
+  },
+  {
+    "input": "Reverse the following sequence: 29t4d",
+    "output": "d4t92"
+  },
+  {
+    "input": "Reverse the following sequence: fatk1",
+    "output": "1ktaf"
+  },
+  {
+    "input": "Reverse the following sequence: o801v",
+    "output": "v108o"
+  },
+  {
+    "input": "Reverse the following sequence: t0eme",
+    "output": "eme0t"
+  },
+  {
+    "input": "Reverse the following sequence: cfuv3",
+    "output": "3vufc"
+  },
+  {
+    "input": "Reverse the following sequence: ligdv",
+    "output": "vdgil"
+  },
+  {
+    "input": "Reverse the following sequence: w39yz",
+    "output": "zy93w"
+  },
+  {
+    "input": "Reverse the following sequence: rjpem",
+    "output": "mepjr"
+  },
+  {
+    "input": "Reverse the following sequence: 5extc",
+    "output": "ctxe5"
+  },
+  {
+    "input": "Reverse the following sequence: 88n53",
+    "output": "35n88"
+  },
+  {
+    "input": "Reverse the following sequence: qmotd",
+    "output": "dtomq"
+  },
+  {
+    "input": "Reverse the following sequence: f67v0",
+    "output": "0v76f"
+  },
+  {
+    "input": "Reverse the following sequence: gxw31",
+    "output": "13wxg"
+  },
+  {
+    "input": "Reverse the following sequence: wuelw",
+    "output": "wleuw"
+  },
+  {
+    "input": "Reverse the following sequence: 6fd16",
+    "output": "61df6"
+  },
+  {
+    "input": "Reverse the following sequence: t0ipa",
+    "output": "api0t"
+  },
+  {
+    "input": "Reverse the following sequence: 1ulpl",
+    "output": "lplu1"
+  },
+  {
+    "input": "Reverse the following sequence: znykt",
+    "output": "tkynz"
+  },
+  {
+    "input": "Reverse the following sequence: 2rie9",
+    "output": "9eir2"
+  },
+  {
+    "input": "Reverse the following sequence: fbwbf",
+    "output": "fbwbf"
+  },
+  {
+    "input": "Reverse the following sequence: 0ofau",
+    "output": "uafo0"
+  },
+  {
+    "input": "Reverse the following sequence: 8hdva",
+    "output": "avdh8"
+  },
+  {
+    "input": "Reverse the following sequence: lsurj",
+    "output": "jrusl"
+  },
+  {
+    "input": "Reverse the following sequence: 3l5si",
+    "output": "is5l3"
+  },
+  {
+    "input": "Reverse the following sequence: rgeh5",
+    "output": "5hegr"
+  },
+  {
+    "input": "Reverse the following sequence: aehcg",
+    "output": "gchea"
+  },
+  {
+    "input": "Reverse the following sequence: g6o5i",
+    "output": "i5o6g"
+  },
+  {
+    "input": "Reverse the following sequence: jhwcs",
+    "output": "scwhj"
+  },
+  {
+    "input": "Reverse the following sequence: 0jb5a",
+    "output": "a5bj0"
+  },
+  {
+    "input": "Reverse the following sequence: ncue1",
+    "output": "1eucn"
+  },
+  {
+    "input": "Reverse the following sequence: n9bhr",
+    "output": "rhb9n"
+  },
+  {
+    "input": "Reverse the following sequence: 7hlfh",
+    "output": "hflh7"
+  },
+  {
+    "input": "Reverse the following sequence: zw4nb",
+    "output": "bn4wz"
+  },
+  {
+    "input": "Reverse the following sequence: mw8nu",
+    "output": "un8wm"
+  },
+  {
+    "input": "Reverse the following sequence: 7v2h3",
+    "output": "3h2v7"
+  },
+  {
+    "input": "Reverse the following sequence: 429iv",
+    "output": "vi924"
+  },
+  {
+    "input": "Reverse the following sequence: 9mdr2",
+    "output": "2rdm9"
+  },
+  {
+    "input": "Reverse the following sequence: vgru8",
+    "output": "8urgv"
+  },
+  {
+    "input": "Reverse the following sequence: qn6wa",
+    "output": "aw6nq"
+  },
+  {
+    "input": "Reverse the following sequence: 4d5s7",
+    "output": "7s5d4"
+  },
+  {
+    "input": "Reverse the following sequence: 1s22c",
+    "output": "c22s1"
+  },
+  {
+    "input": "Reverse the following sequence: usdpe",
+    "output": "epdsu"
+  },
+  {
+    "input": "Reverse the following sequence: oba89",
+    "output": "98abo"
+  },
+  {
+    "input": "Reverse the following sequence: p6d34",
+    "output": "43d6p"
+  },
+  {
+    "input": "Reverse the following sequence: oonvh",
+    "output": "hvnoo"
+  },
+  {
+    "input": "Reverse the following sequence: 6n0ay",
+    "output": "ya0n6"
+  },
+  {
+    "input": "Reverse the following sequence: 08ox0",
+    "output": "0xo80"
+  },
+  {
+    "input": "Reverse the following sequence: t0382",
+    "output": "2830t"
+  },
+  {
+    "input": "Reverse the following sequence: j75q0",
+    "output": "0q57j"
+  },
+  {
+    "input": "Reverse the following sequence: vljpw",
+    "output": "wpjlv"
+  },
+  {
+    "input": "Reverse the following sequence: 1p871",
+    "output": "178p1"
+  },
+  {
+    "input": "Reverse the following sequence: qz9z3",
+    "output": "3z9zq"
+  },
+  {
+    "input": "Reverse the following sequence: 7ycjz",
+    "output": "zjcy7"
+  },
+  {
+    "input": "Reverse the following sequence: 0w299",
+    "output": "992w0"
+  },
+  {
+    "input": "Reverse the following sequence: 8z8bo",
+    "output": "ob8z8"
+  },
+  {
+    "input": "Reverse the following sequence: 8jwwn",
+    "output": "nwwj8"
+  },
+  {
+    "input": "Reverse the following sequence: 1htjx",
+    "output": "xjth1"
+  },
+  {
+    "input": "Reverse the following sequence: h9i9m",
+    "output": "m9i9h"
+  },
+  {
+    "input": "Reverse the following sequence: ap4zz",
+    "output": "zz4pa"
+  },
+  {
+    "input": "Reverse the following sequence: fvbmh",
+    "output": "hmbvf"
+  },
+  {
+    "input": "Reverse the following sequence: jq1uw",
+    "output": "wu1qj"
+  },
+  {
+    "input": "Reverse the following sequence: 7iml6",
+    "output": "6lmi7"
+  },
+  {
+    "input": "Reverse the following sequence: 9tpmt",
+    "output": "tmpt9"
+  },
+  {
+    "input": "Reverse the following sequence: brmkx",
+    "output": "xkmrb"
+  },
+  {
+    "input": "Reverse the following sequence: e9e88",
+    "output": "88e9e"
+  },
+  {
+    "input": "Reverse the following sequence: 20g7l",
+    "output": "l7g02"
+  },
+  {
+    "input": "Reverse the following sequence: ldq0n",
+    "output": "n0qdl"
+  },
+  {
+    "input": "Reverse the following sequence: 1yh0h",
+    "output": "h0hy1"
+  },
+  {
+    "input": "Reverse the following sequence: o68qp",
+    "output": "pq86o"
+  },
+  {
+    "input": "Reverse the following sequence: omudu",
+    "output": "udumo"
+  },
+  {
+    "input": "Reverse the following sequence: yyd2z",
+    "output": "z2dyy"
+  },
+  {
+    "input": "Reverse the following sequence: ob9ej",
+    "output": "je9bo"
+  },
+  {
+    "input": "Reverse the following sequence: i7zfx",
+    "output": "xfz7i"
+  },
+  {
+    "input": "Reverse the following sequence: ctar0",
+    "output": "0ratc"
+  },
+  {
+    "input": "Reverse the following sequence: 168tg",
+    "output": "gt861"
+  },
+  {
+    "input": "Reverse the following sequence: sw35f",
+    "output": "f53ws"
+  },
+  {
+    "input": "Reverse the following sequence: ippge",
+    "output": "egppi"
+  },
+  {
+    "input": "Reverse the following sequence: ppjxp",
+    "output": "pxjpp"
+  },
+  {
+    "input": "Reverse the following sequence: vcula",
+    "output": "alucv"
+  },
+  {
+    "input": "Reverse the following sequence: qxe6j",
+    "output": "j6exq"
+  },
+  {
+    "input": "Reverse the following sequence: ztvpr",
+    "output": "rpvtz"
+  },
+  {
+    "input": "Reverse the following sequence: r0pmg",
+    "output": "gmp0r"
+  },
+  {
+    "input": "Reverse the following sequence: eisvf",
+    "output": "fvsie"
+  },
+  {
+    "input": "Reverse the following sequence: 9b6e8",
+    "output": "8e6b9"
+  },
+  {
+    "input": "Reverse the following sequence: zvfcj",
+    "output": "jcfvz"
+  },
+  {
+    "input": "Reverse the following sequence: d3wgv",
+    "output": "vgw3d"
+  },
+  {
+    "input": "Reverse the following sequence: 1satz",
+    "output": "ztas1"
+  },
+  {
+    "input": "Reverse the following sequence: zadby",
+    "output": "ybdaz"
+  },
+  {
+    "input": "Reverse the following sequence: 0qxer",
+    "output": "rexq0"
+  },
+  {
+    "input": "Reverse the following sequence: 9d6kc",
+    "output": "ck6d9"
+  },
+  {
+    "input": "Reverse the following sequence: wunz8",
+    "output": "8znuw"
+  },
+  {
+    "input": "Reverse the following sequence: un0jw",
+    "output": "wj0nu"
+  },
+  {
+    "input": "Reverse the following sequence: pbqq6",
+    "output": "6qqbp"
+  },
+  {
+    "input": "Reverse the following sequence: acq5x",
+    "output": "x5qca"
+  },
+  {
+    "input": "Reverse the following sequence: ebl7b",
+    "output": "b7lbe"
+  },
+  {
+    "input": "Reverse the following sequence: c7fug",
+    "output": "guf7c"
+  },
+  {
+    "input": "Reverse the following sequence: c8x6o",
+    "output": "o6x8c"
+  },
+  {
+    "input": "Reverse the following sequence: z3x41",
+    "output": "14x3z"
+  },
+  {
+    "input": "Reverse the following sequence: ht1kg",
+    "output": "gk1th"
+  },
+  {
+    "input": "Reverse the following sequence: f1h0f",
+    "output": "f0h1f"
+  },
+  {
+    "input": "Reverse the following sequence: pnbm3",
+    "output": "3mbnp"
+  },
+  {
+    "input": "Reverse the following sequence: 61b2v",
+    "output": "v2b16"
+  },
+  {
+    "input": "Reverse the following sequence: xq4jl",
+    "output": "lj4qx"
+  },
+  {
+    "input": "Reverse the following sequence: fr814",
+    "output": "418rf"
+  },
+  {
+    "input": "Reverse the following sequence: qg2d7",
+    "output": "7d2gq"
+  },
+  {
+    "input": "Reverse the following sequence: 54nat",
+    "output": "tan45"
+  },
+  {
+    "input": "Reverse the following sequence: 3hy5s",
+    "output": "s5yh3"
+  },
+  {
+    "input": "Reverse the following sequence: f5uu1",
+    "output": "1uu5f"
+  },
+  {
+    "input": "Reverse the following sequence: 4mn7f",
+    "output": "f7nm4"
+  },
+  {
+    "input": "Reverse the following sequence: nhb74",
+    "output": "47bhn"
+  },
+  {
+    "input": "Reverse the following sequence: cxpb2",
+    "output": "2bpxc"
+  },
+  {
+    "input": "Reverse the following sequence: e4v61",
+    "output": "16v4e"
+  },
+  {
+    "input": "Reverse the following sequence: a7l7m",
+    "output": "m7l7a"
+  },
+  {
+    "input": "Reverse the following sequence: m9rlz",
+    "output": "zlr9m"
+  },
+  {
+    "input": "Reverse the following sequence: 4wdg6",
+    "output": "6gdw4"
+  },
+  {
+    "input": "Reverse the following sequence: 0703c",
+    "output": "c3070"
+  },
+  {
+    "input": "Reverse the following sequence: 7vlj2",
+    "output": "2jlv7"
+  },
+  {
+    "input": "Reverse the following sequence: 0nh0z",
+    "output": "z0hn0"
+  },
+  {
+    "input": "Reverse the following sequence: dzc1p",
+    "output": "p1czd"
+  },
+  {
+    "input": "Reverse the following sequence: fqx2d",
+    "output": "d2xqf"
+  },
+  {
+    "input": "Reverse the following sequence: 0uhzv",
+    "output": "vzhu0"
+  },
+  {
+    "input": "Reverse the following sequence: 956i6",
+    "output": "6i659"
+  },
+  {
+    "input": "Reverse the following sequence: 9w815",
+    "output": "518w9"
+  },
+  {
+    "input": "Reverse the following sequence: msj2o",
+    "output": "o2jsm"
+  },
+  {
+    "input": "Reverse the following sequence: 7q4kp",
+    "output": "pk4q7"
+  },
+  {
+    "input": "Reverse the following sequence: kj4u7",
+    "output": "7u4jk"
+  },
+  {
+    "input": "Reverse the following sequence: r6f1l",
+    "output": "l1f6r"
+  },
+  {
+    "input": "Reverse the following sequence: ptrw6",
+    "output": "6wrtp"
+  },
+  {
+    "input": "Reverse the following sequence: dgug9",
+    "output": "9gugd"
+  },
+  {
+    "input": "Reverse the following sequence: 208rf",
+    "output": "fr802"
+  },
+  {
+    "input": "Reverse the following sequence: 0xf4h",
+    "output": "h4fx0"
+  },
+  {
+    "input": "Reverse the following sequence: xuaoz",
+    "output": "zoaux"
+  },
+  {
+    "input": "Reverse the following sequence: 1n76z",
+    "output": "z67n1"
+  },
+  {
+    "input": "Reverse the following sequence: pifiu",
+    "output": "uifip"
+  },
+  {
+    "input": "Reverse the following sequence: cfho9",
+    "output": "9ohfc"
+  },
+  {
+    "input": "Reverse the following sequence: 0iqo1",
+    "output": "1oqi0"
+  },
+  {
+    "input": "Reverse the following sequence: hfepi",
+    "output": "ipefh"
+  },
+  {
+    "input": "Reverse the following sequence: 1stlw",
+    "output": "wlts1"
+  },
+  {
+    "input": "Reverse the following sequence: f9xki",
+    "output": "ikx9f"
+  },
+  {
+    "input": "Reverse the following sequence: x3u9e",
+    "output": "e9u3x"
+  },
+  {
+    "input": "Reverse the following sequence: 811bi",
+    "output": "ib118"
+  },
+  {
+    "input": "Reverse the following sequence: fztom",
+    "output": "motzf"
+  },
+  {
+    "input": "Reverse the following sequence: mmlsl",
+    "output": "lslmm"
+  },
+  {
+    "input": "Reverse the following sequence: gxs2g",
+    "output": "g2sxg"
+  },
+  {
+    "input": "Reverse the following sequence: jmol1",
+    "output": "1lomj"
+  },
+  {
+    "input": "Reverse the following sequence: 1zuqz",
+    "output": "zquz1"
+  },
+  {
+    "input": "Reverse the following sequence: fndmh",
+    "output": "hmdnf"
+  },
+  {
+    "input": "Reverse the following sequence: v2442",
+    "output": "2442v"
+  },
+  {
+    "input": "Reverse the following sequence: g3fsa",
+    "output": "asf3g"
+  },
+  {
+    "input": "Reverse the following sequence: ot12e",
+    "output": "e21to"
+  },
+  {
+    "input": "Reverse the following sequence: wvda3",
+    "output": "3advw"
+  },
+  {
+    "input": "Reverse the following sequence: d2ad5",
+    "output": "5da2d"
+  },
+  {
+    "input": "Reverse the following sequence: w4cxf",
+    "output": "fxc4w"
+  },
+  {
+    "input": "Reverse the following sequence: 9xyt7",
+    "output": "7tyx9"
+  },
+  {
+    "input": "Reverse the following sequence: o6gve",
+    "output": "evg6o"
+  },
+  {
+    "input": "Reverse the following sequence: vm9qz",
+    "output": "zq9mv"
+  },
+  {
+    "input": "Reverse the following sequence: yonj5",
+    "output": "5jnoy"
+  },
+  {
+    "input": "Reverse the following sequence: k6h1o",
+    "output": "o1h6k"
+  },
+  {
+    "input": "Reverse the following sequence: wjwu3",
+    "output": "3uwjw"
+  },
+  {
+    "input": "Reverse the following sequence: x8h9p",
+    "output": "p9h8x"
+  },
+  {
+    "input": "Reverse the following sequence: kq5ue",
+    "output": "eu5qk"
+  },
+  {
+    "input": "Reverse the following sequence: xbbpf",
+    "output": "fpbbx"
+  },
+  {
+    "input": "Reverse the following sequence: qj0kx",
+    "output": "xk0jq"
+  },
+  {
+    "input": "Reverse the following sequence: xtizv",
+    "output": "vzitx"
+  },
+  {
+    "input": "Reverse the following sequence: 17pgg",
+    "output": "ggp71"
+  },
+  {
+    "input": "Reverse the following sequence: n4nnm",
+    "output": "mnn4n"
+  },
+  {
+    "input": "Reverse the following sequence: 7f2cp",
+    "output": "pc2f7"
+  },
+  {
+    "input": "Reverse the following sequence: csh1h",
+    "output": "h1hsc"
+  },
+  {
+    "input": "Reverse the following sequence: f22bs",
+    "output": "sb22f"
+  },
+  {
+    "input": "Reverse the following sequence: 8o05g",
+    "output": "g50o8"
+  },
+  {
+    "input": "Reverse the following sequence: drth4",
+    "output": "4htrd"
+  },
+  {
+    "input": "Reverse the following sequence: m5cgh",
+    "output": "hgc5m"
+  },
+  {
+    "input": "Reverse the following sequence: 4u5hx",
+    "output": "xh5u4"
+  },
+  {
+    "input": "Reverse the following sequence: 83rab",
+    "output": "bar38"
+  },
+  {
+    "input": "Reverse the following sequence: iz6zm",
+    "output": "mz6zi"
+  },
+  {
+    "input": "Reverse the following sequence: 4deey",
+    "output": "yeed4"
+  },
+  {
+    "input": "Reverse the following sequence: 4s7r9",
+    "output": "9r7s4"
+  },
+  {
+    "input": "Reverse the following sequence: qf8rc",
+    "output": "cr8fq"
+  },
+  {
+    "input": "Reverse the following sequence: q0rr3",
+    "output": "3rr0q"
+  },
+  {
+    "input": "Reverse the following sequence: 1pd9u",
+    "output": "u9dp1"
+  },
+  {
+    "input": "Reverse the following sequence: j4a3s",
+    "output": "s3a4j"
+  },
+  {
+    "input": "Reverse the following sequence: 0n17r",
+    "output": "r71n0"
+  },
+  {
+    "input": "Reverse the following sequence: 5fpwz",
+    "output": "zwpf5"
+  },
+  {
+    "input": "Reverse the following sequence: rgp5z",
+    "output": "z5pgr"
+  },
+  {
+    "input": "Reverse the following sequence: 7s97z",
+    "output": "z79s7"
+  },
+  {
+    "input": "Reverse the following sequence: y96el",
+    "output": "le69y"
+  },
+  {
+    "input": "Reverse the following sequence: 9p5ld",
+    "output": "dl5p9"
+  },
+  {
+    "input": "Reverse the following sequence: 2k899",
+    "output": "998k2"
+  },
+  {
+    "input": "Reverse the following sequence: 8gtnt",
+    "output": "tntg8"
+  },
+  {
+    "input": "Reverse the following sequence: cheip",
+    "output": "piehc"
+  },
+  {
+    "input": "Reverse the following sequence: nf2ls",
+    "output": "sl2fn"
+  },
+  {
+    "input": "Reverse the following sequence: bqzxd",
+    "output": "dxzqb"
+  },
+  {
+    "input": "Reverse the following sequence: m7v5r",
+    "output": "r5v7m"
+  },
+  {
+    "input": "Reverse the following sequence: kdc8m",
+    "output": "m8cdk"
+  },
+  {
+    "input": "Reverse the following sequence: cmkdf",
+    "output": "fdkmc"
+  },
+  {
+    "input": "Reverse the following sequence: m6b6s",
+    "output": "s6b6m"
+  },
+  {
+    "input": "Reverse the following sequence: iqd3t",
+    "output": "t3dqi"
+  },
+  {
+    "input": "Reverse the following sequence: ivdzo",
+    "output": "ozdvi"
+  },
+  {
+    "input": "Reverse the following sequence: zl4ps",
+    "output": "sp4lz"
+  },
+  {
+    "input": "Reverse the following sequence: 6b4w2",
+    "output": "2w4b6"
+  },
+  {
+    "input": "Reverse the following sequence: nuf8p",
+    "output": "p8fun"
+  },
+  {
+    "input": "Reverse the following sequence: x3oe2",
+    "output": "2eo3x"
+  },
+  {
+    "input": "Reverse the following sequence: t293i",
+    "output": "i392t"
+  },
+  {
+    "input": "Reverse the following sequence: vyc6i",
+    "output": "i6cyv"
+  },
+  {
+    "input": "Reverse the following sequence: jo9es",
+    "output": "se9oj"
+  },
+  {
+    "input": "Reverse the following sequence: v176y",
+    "output": "y671v"
+  },
+  {
+    "input": "Reverse the following sequence: mzf7w",
+    "output": "w7fzm"
+  },
+  {
+    "input": "Reverse the following sequence: ad1ye",
+    "output": "ey1da"
+  },
+  {
+    "input": "Reverse the following sequence: 0ygen",
+    "output": "negy0"
+  },
+  {
+    "input": "Reverse the following sequence: k2rk1",
+    "output": "1kr2k"
+  },
+  {
+    "input": "Reverse the following sequence: h9wcx",
+    "output": "xcw9h"
+  },
+  {
+    "input": "Reverse the following sequence: asrq5",
+    "output": "5qrsa"
+  },
+  {
+    "input": "Reverse the following sequence: sjojb",
+    "output": "bjojs"
+  },
+  {
+    "input": "Reverse the following sequence: v2rh6",
+    "output": "6hr2v"
+  },
+  {
+    "input": "Reverse the following sequence: oy7gc",
+    "output": "cg7yo"
+  },
+  {
+    "input": "Reverse the following sequence: g0s6o",
+    "output": "o6s0g"
+  },
+  {
+    "input": "Reverse the following sequence: wbwl7",
+    "output": "7lwbw"
+  },
+  {
+    "input": "Reverse the following sequence: rqh4l",
+    "output": "l4hqr"
+  },
+  {
+    "input": "Reverse the following sequence: 3nfs4",
+    "output": "4sfn3"
+  },
+  {
+    "input": "Reverse the following sequence: 6i6ua",
+    "output": "au6i6"
+  },
+  {
+    "input": "Reverse the following sequence: snc24",
+    "output": "42cns"
+  },
+  {
+    "input": "Reverse the following sequence: 5xndd",
+    "output": "ddnx5"
+  },
+  {
+    "input": "Reverse the following sequence: xxext",
+    "output": "txexx"
+  },
+  {
+    "input": "Reverse the following sequence: jhr5x",
+    "output": "x5rhj"
+  },
+  {
+    "input": "Reverse the following sequence: n4rwb",
+    "output": "bwr4n"
+  },
+  {
+    "input": "Reverse the following sequence: 8es5o",
+    "output": "o5se8"
+  },
+  {
+    "input": "Reverse the following sequence: p7hpt",
+    "output": "tph7p"
+  },
+  {
+    "input": "Reverse the following sequence: wjgvs",
+    "output": "svgjw"
+  },
+  {
+    "input": "Reverse the following sequence: kkilg",
+    "output": "glikk"
+  },
+  {
+    "input": "Reverse the following sequence: bzkhx",
+    "output": "xhkzb"
+  },
+  {
+    "input": "Reverse the following sequence: oi4pw",
+    "output": "wp4io"
+  },
+  {
+    "input": "Reverse the following sequence: 7sizq",
+    "output": "qzis7"
+  },
+  {
+    "input": "Reverse the following sequence: 0js2m",
+    "output": "m2sj0"
+  },
+  {
+    "input": "Reverse the following sequence: 97y6g",
+    "output": "g6y79"
+  },
+  {
+    "input": "Reverse the following sequence: sm7bx",
+    "output": "xb7ms"
+  },
+  {
+    "input": "Reverse the following sequence: 6o57s",
+    "output": "s75o6"
+  },
+  {
+    "input": "Reverse the following sequence: c5eqo",
+    "output": "oqe5c"
+  },
+  {
+    "input": "Reverse the following sequence: xwsw7",
+    "output": "7wswx"
+  },
+  {
+    "input": "Reverse the following sequence: u47q0",
+    "output": "0q74u"
+  },
+  {
+    "input": "Reverse the following sequence: ae8e1",
+    "output": "1e8ea"
+  },
+  {
+    "input": "Reverse the following sequence: al8l4",
+    "output": "4l8la"
+  },
+  {
+    "input": "Reverse the following sequence: y2hiw",
+    "output": "wih2y"
+  },
+  {
+    "input": "Reverse the following sequence: z794f",
+    "output": "f497z"
+  },
+  {
+    "input": "Reverse the following sequence: c9w89",
+    "output": "98w9c"
+  },
+  {
+    "input": "Reverse the following sequence: s8elb",
+    "output": "ble8s"
+  },
+  {
+    "input": "Reverse the following sequence: subor",
+    "output": "robus"
+  },
+  {
+    "input": "Reverse the following sequence: 7hvvd",
+    "output": "dvvh7"
+  },
+  {
+    "input": "Reverse the following sequence: 4gbi9",
+    "output": "9ibg4"
+  },
+  {
+    "input": "Reverse the following sequence: y70w0",
+    "output": "0w07y"
+  },
+  {
+    "input": "Reverse the following sequence: 9vrlf",
+    "output": "flrv9"
+  },
+  {
+    "input": "Reverse the following sequence: wct0m",
+    "output": "m0tcw"
+  },
+  {
+    "input": "Reverse the following sequence: embbq",
+    "output": "qbbme"
+  },
+  {
+    "input": "Reverse the following sequence: 4pqk2",
+    "output": "2kqp4"
+  },
+  {
+    "input": "Reverse the following sequence: 126si",
+    "output": "is621"
+  },
+  {
+    "input": "Reverse the following sequence: ldwg7",
+    "output": "7gwdl"
+  },
+  {
+    "input": "Reverse the following sequence: t5os5",
+    "output": "5so5t"
+  },
+  {
+    "input": "Reverse the following sequence: 2k87d",
+    "output": "d78k2"
+  },
+  {
+    "input": "Reverse the following sequence: ef2xx",
+    "output": "xx2fe"
+  },
+  {
+    "input": "Reverse the following sequence: wt5x4",
+    "output": "4x5tw"
+  },
+  {
+    "input": "Reverse the following sequence: wncn7",
+    "output": "7ncnw"
+  },
+  {
+    "input": "Reverse the following sequence: ro6nt",
+    "output": "tn6or"
+  },
+  {
+    "input": "Reverse the following sequence: 6omfd",
+    "output": "dfmo6"
+  },
+  {
+    "input": "Reverse the following sequence: b5djd",
+    "output": "djd5b"
+  },
+  {
+    "input": "Reverse the following sequence: 8c1my",
+    "output": "ym1c8"
+  },
+  {
+    "input": "Reverse the following sequence: 55cdj",
+    "output": "jdc55"
+  },
+  {
+    "input": "Reverse the following sequence: bc005",
+    "output": "500cb"
+  },
+  {
+    "input": "Reverse the following sequence: zkhqf",
+    "output": "fqhkz"
+  },
+  {
+    "input": "Reverse the following sequence: n3de1",
+    "output": "1ed3n"
+  },
+  {
+    "input": "Reverse the following sequence: svguk",
+    "output": "kugvs"
+  },
+  {
+    "input": "Reverse the following sequence: 5jxoj",
+    "output": "joxj5"
+  },
+  {
+    "input": "Reverse the following sequence: vy1gf",
+    "output": "fg1yv"
+  },
+  {
+    "input": "Reverse the following sequence: n5z6q",
+    "output": "q6z5n"
+  },
+  {
+    "input": "Reverse the following sequence: uj7rz",
+    "output": "zr7ju"
+  },
+  {
+    "input": "Reverse the following sequence: ndocz",
+    "output": "zcodn"
+  },
+  {
+    "input": "Reverse the following sequence: 6t85w",
+    "output": "w58t6"
+  },
+  {
+    "input": "Reverse the following sequence: zloyk",
+    "output": "kyolz"
+  },
+  {
+    "input": "Reverse the following sequence: 0m6z3",
+    "output": "3z6m0"
+  },
+  {
+    "input": "Reverse the following sequence: 601u4",
+    "output": "4u106"
+  },
+  {
+    "input": "Reverse the following sequence: 2r471",
+    "output": "174r2"
+  },
+  {
+    "input": "Reverse the following sequence: smm5b",
+    "output": "b5mms"
+  },
+  {
+    "input": "Reverse the following sequence: yxhhj",
+    "output": "jhhxy"
+  },
+  {
+    "input": "Reverse the following sequence: t6fbr",
+    "output": "rbf6t"
+  },
+  {
+    "input": "Reverse the following sequence: ub4ey",
+    "output": "ye4bu"
+  },
+  {
+    "input": "Reverse the following sequence: ep784",
+    "output": "487pe"
+  },
+  {
+    "input": "Reverse the following sequence: e77ow",
+    "output": "wo77e"
+  },
+  {
+    "input": "Reverse the following sequence: 8u9oh",
+    "output": "ho9u8"
+  },
+  {
+    "input": "Reverse the following sequence: hytnz",
+    "output": "zntyh"
+  },
+  {
+    "input": "Reverse the following sequence: efla4",
+    "output": "4alfe"
+  },
+  {
+    "input": "Reverse the following sequence: qefal",
+    "output": "lafeq"
+  },
+  {
+    "input": "Reverse the following sequence: k06et",
+    "output": "te60k"
+  },
+  {
+    "input": "Reverse the following sequence: ckr0c",
+    "output": "c0rkc"
+  },
+  {
+    "input": "Reverse the following sequence: xztro",
+    "output": "ortzx"
+  },
+  {
+    "input": "Reverse the following sequence: dnnj1",
+    "output": "1jnnd"
+  },
+  {
+    "input": "Reverse the following sequence: ux3vs",
+    "output": "sv3xu"
+  },
+  {
+    "input": "Reverse the following sequence: av80j",
+    "output": "j08va"
+  },
+  {
+    "input": "Reverse the following sequence: rw0ad",
+    "output": "da0wr"
+  },
+  {
+    "input": "Reverse the following sequence: pv0cv",
+    "output": "vc0vp"
+  },
+  {
+    "input": "Reverse the following sequence: ze3sy",
+    "output": "ys3ez"
+  },
+  {
+    "input": "Reverse the following sequence: 8gf6a",
+    "output": "a6fg8"
+  },
+  {
+    "input": "Reverse the following sequence: oe6x2",
+    "output": "2x6eo"
+  },
+  {
+    "input": "Reverse the following sequence: er6st",
+    "output": "ts6re"
+  },
+  {
+    "input": "Reverse the following sequence: 6p5h5",
+    "output": "5h5p6"
+  },
+  {
+    "input": "Reverse the following sequence: 7tuga",
+    "output": "agut7"
+  },
+  {
+    "input": "Reverse the following sequence: cwgfq",
+    "output": "qfgwc"
+  },
+  {
+    "input": "Reverse the following sequence: 08f2f",
+    "output": "f2f80"
+  },
+  {
+    "input": "Reverse the following sequence: fsmen",
+    "output": "nemsf"
+  },
+  {
+    "input": "Reverse the following sequence: 4j247",
+    "output": "742j4"
+  },
+  {
+    "input": "Reverse the following sequence: 7357z",
+    "output": "z7537"
+  },
+  {
+    "input": "Reverse the following sequence: h49vb",
+    "output": "bv94h"
+  },
+  {
+    "input": "Reverse the following sequence: telyi",
+    "output": "iylet"
+  },
+  {
+    "input": "Reverse the following sequence: h0hcn",
+    "output": "nch0h"
+  },
+  {
+    "input": "Reverse the following sequence: 7q9tz",
+    "output": "zt9q7"
+  },
+  {
+    "input": "Reverse the following sequence: mstng",
+    "output": "gntsm"
+  },
+  {
+    "input": "Reverse the following sequence: e4cn6",
+    "output": "6nc4e"
+  },
+  {
+    "input": "Reverse the following sequence: 5y8ak",
+    "output": "ka8y5"
+  },
+  {
+    "input": "Reverse the following sequence: j0ij5",
+    "output": "5ji0j"
+  },
+  {
+    "input": "Reverse the following sequence: ua46y",
+    "output": "y64au"
+  },
+  {
+    "input": "Reverse the following sequence: 9nltv",
+    "output": "vtln9"
+  },
+  {
+    "input": "Reverse the following sequence: cq917",
+    "output": "719qc"
+  },
+  {
+    "input": "Reverse the following sequence: ayg6g",
+    "output": "g6gya"
+  },
+  {
+    "input": "Reverse the following sequence: ye3ub",
+    "output": "bu3ey"
+  },
+  {
+    "input": "Reverse the following sequence: b5qof",
+    "output": "foq5b"
+  },
+  {
+    "input": "Reverse the following sequence: 9ktyp",
+    "output": "pytk9"
+  },
+  {
+    "input": "Reverse the following sequence: du97j",
+    "output": "j79ud"
+  },
+  {
+    "input": "Reverse the following sequence: afeu9",
+    "output": "9uefa"
+  },
+  {
+    "input": "Reverse the following sequence: s4rv1",
+    "output": "1vr4s"
+  },
+  {
+    "input": "Reverse the following sequence: nl1g3",
+    "output": "3g1ln"
+  },
+  {
+    "input": "Reverse the following sequence: hkrsa",
+    "output": "asrkh"
+  },
+  {
+    "input": "Reverse the following sequence: 6uhok",
+    "output": "kohu6"
+  },
+  {
+    "input": "Reverse the following sequence: 2c1dt",
+    "output": "td1c2"
+  },
+  {
+    "input": "Reverse the following sequence: 79un0",
+    "output": "0nu97"
+  },
+  {
+    "input": "Reverse the following sequence: kj7am",
+    "output": "ma7jk"
+  },
+  {
+    "input": "Reverse the following sequence: h2zgl",
+    "output": "lgz2h"
+  },
+  {
+    "input": "Reverse the following sequence: 09iu1",
+    "output": "1ui90"
+  },
+  {
+    "input": "Reverse the following sequence: 03b8k",
+    "output": "k8b30"
+  },
+  {
+    "input": "Reverse the following sequence: kannh",
+    "output": "hnnak"
+  },
+  {
+    "input": "Reverse the following sequence: 5d1q0",
+    "output": "0q1d5"
+  },
+  {
+    "input": "Reverse the following sequence: 3itgv",
+    "output": "vgti3"
+  },
+  {
+    "input": "Reverse the following sequence: edt5i",
+    "output": "i5tde"
+  },
+  {
+    "input": "Reverse the following sequence: 9hc4h",
+    "output": "h4ch9"
+  },
+  {
+    "input": "Reverse the following sequence: tyhhu",
+    "output": "uhhyt"
+  },
+  {
+    "input": "Reverse the following sequence: l1h3u",
+    "output": "u3h1l"
+  },
+  {
+    "input": "Reverse the following sequence: bnlyy",
+    "output": "yylnb"
+  },
+  {
+    "input": "Reverse the following sequence: itma5",
+    "output": "5amti"
+  },
+  {
+    "input": "Reverse the following sequence: r6tx7",
+    "output": "7xt6r"
+  },
+  {
+    "input": "Reverse the following sequence: pl9k3",
+    "output": "3k9lp"
+  },
+  {
+    "input": "Reverse the following sequence: dv2u1",
+    "output": "1u2vd"
+  },
+  {
+    "input": "Reverse the following sequence: v8zho",
+    "output": "ohz8v"
+  },
+  {
+    "input": "Reverse the following sequence: 97h83",
+    "output": "38h79"
+  },
+  {
+    "input": "Reverse the following sequence: abme7",
+    "output": "7emba"
+  },
+  {
+    "input": "Reverse the following sequence: yz1ib",
+    "output": "bi1zy"
+  },
+  {
+    "input": "Reverse the following sequence: 1w04v",
+    "output": "v40w1"
+  },
+  {
+    "input": "Reverse the following sequence: q8bup",
+    "output": "pub8q"
+  },
+  {
+    "input": "Reverse the following sequence: lrvml",
+    "output": "lmvrl"
+  },
+  {
+    "input": "Reverse the following sequence: f8vut",
+    "output": "tuv8f"
+  },
+  {
+    "input": "Reverse the following sequence: btkv0",
+    "output": "0vktb"
+  },
+  {
+    "input": "Reverse the following sequence: x2fc7",
+    "output": "7cf2x"
+  },
+  {
+    "input": "Reverse the following sequence: 7bxdk",
+    "output": "kdxb7"
+  },
+  {
+    "input": "Reverse the following sequence: hnzvf",
+    "output": "fvznh"
+  },
+  {
+    "input": "Reverse the following sequence: iuhdw",
+    "output": "wdhui"
+  },
+  {
+    "input": "Reverse the following sequence: 7mwux",
+    "output": "xuwm7"
+  },
+  {
+    "input": "Reverse the following sequence: 6xqnw",
+    "output": "wnqx6"
+  },
+  {
+    "input": "Reverse the following sequence: fkyi1",
+    "output": "1iykf"
+  },
+  {
+    "input": "Reverse the following sequence: 92lqh",
+    "output": "hql29"
+  },
+  {
+    "input": "Reverse the following sequence: mdb6t",
+    "output": "t6bdm"
+  },
+  {
+    "input": "Reverse the following sequence: 306xh",
+    "output": "hx603"
+  },
+  {
+    "input": "Reverse the following sequence: 575ur",
+    "output": "ru575"
+  },
+  {
+    "input": "Reverse the following sequence: d47mx",
+    "output": "xm74d"
+  },
+  {
+    "input": "Reverse the following sequence: ew90i",
+    "output": "i09we"
+  },
+  {
+    "input": "Reverse the following sequence: 25m5r",
+    "output": "r5m52"
+  },
+  {
+    "input": "Reverse the following sequence: gs9g2",
+    "output": "2g9sg"
+  },
+  {
+    "input": "Reverse the following sequence: wzej0",
+    "output": "0jezw"
+  },
+  {
+    "input": "Reverse the following sequence: n5224",
+    "output": "4225n"
+  },
+  {
+    "input": "Reverse the following sequence: oaljv",
+    "output": "vjlao"
+  },
+  {
+    "input": "Reverse the following sequence: tr11b",
+    "output": "b11rt"
+  },
+  {
+    "input": "Reverse the following sequence: clbh4",
+    "output": "4hblc"
+  },
+  {
+    "input": "Reverse the following sequence: gnppn",
+    "output": "nppng"
+  },
+  {
+    "input": "Reverse the following sequence: c6lu4",
+    "output": "4ul6c"
+  },
+  {
+    "input": "Reverse the following sequence: hf7mf",
+    "output": "fm7fh"
+  },
+  {
+    "input": "Reverse the following sequence: 6hxd2",
+    "output": "2dxh6"
+  },
+  {
+    "input": "Reverse the following sequence: uc3f2",
+    "output": "2f3cu"
+  },
+  {
+    "input": "Reverse the following sequence: h88ho",
+    "output": "oh88h"
+  },
+  {
+    "input": "Reverse the following sequence: tbple",
+    "output": "elpbt"
+  },
+  {
+    "input": "Reverse the following sequence: ot8k5",
+    "output": "5k8to"
+  },
+  {
+    "input": "Reverse the following sequence: d3blc",
+    "output": "clb3d"
+  },
+  {
+    "input": "Reverse the following sequence: yb4hi",
+    "output": "ih4by"
+  },
+  {
+    "input": "Reverse the following sequence: 7czjg",
+    "output": "gjzc7"
+  },
+  {
+    "input": "Reverse the following sequence: 3c1xi",
+    "output": "ix1c3"
+  },
+  {
+    "input": "Reverse the following sequence: vyxcd",
+    "output": "dcxyv"
+  },
+  {
+    "input": "Reverse the following sequence: 3dla0",
+    "output": "0ald3"
+  },
+  {
+    "input": "Reverse the following sequence: b1ym2",
+    "output": "2my1b"
+  },
+  {
+    "input": "Reverse the following sequence: 7v4c1",
+    "output": "1c4v7"
+  },
+  {
+    "input": "Reverse the following sequence: l2lq4",
+    "output": "4ql2l"
+  },
+  {
+    "input": "Reverse the following sequence: cdoii",
+    "output": "iiodc"
+  },
+  {
+    "input": "Reverse the following sequence: ql14f",
+    "output": "f41lq"
+  },
+  {
+    "input": "Reverse the following sequence: iwgwn",
+    "output": "nwgwi"
+  },
+  {
+    "input": "Reverse the following sequence: mxga8",
+    "output": "8agxm"
+  },
+  {
+    "input": "Reverse the following sequence: q4cnh",
+    "output": "hnc4q"
+  },
+  {
+    "input": "Reverse the following sequence: u89tm",
+    "output": "mt98u"
+  },
+  {
+    "input": "Reverse the following sequence: 5ot9n",
+    "output": "n9to5"
+  },
+  {
+    "input": "Reverse the following sequence: 7t1um",
+    "output": "mu1t7"
+  },
+  {
+    "input": "Reverse the following sequence: 5jz62",
+    "output": "26zj5"
+  },
+  {
+    "input": "Reverse the following sequence: x10zx",
+    "output": "xz01x"
+  },
+  {
+    "input": "Reverse the following sequence: z1kfv",
+    "output": "vfk1z"
+  },
+  {
+    "input": "Reverse the following sequence: f1i2k",
+    "output": "k2i1f"
+  },
+  {
+    "input": "Reverse the following sequence: p2apd",
+    "output": "dpa2p"
+  },
+  {
+    "input": "Reverse the following sequence: l9thi",
+    "output": "iht9l"
+  },
+  {
+    "input": "Reverse the following sequence: bhib1",
+    "output": "1bihb"
+  },
+  {
+    "input": "Reverse the following sequence: 91zs6",
+    "output": "6sz19"
+  },
+  {
+    "input": "Reverse the following sequence: vpxap",
+    "output": "paxpv"
+  },
+  {
+    "input": "Reverse the following sequence: 5njyn",
+    "output": "nyjn5"
+  },
+  {
+    "input": "Reverse the following sequence: ows27",
+    "output": "72swo"
+  },
+  {
+    "input": "Reverse the following sequence: v3s2s",
+    "output": "s2s3v"
+  },
+  {
+    "input": "Reverse the following sequence: rfgvg",
+    "output": "gvgfr"
+  },
+  {
+    "input": "Reverse the following sequence: o0kx8",
+    "output": "8xk0o"
+  },
+  {
+    "input": "Reverse the following sequence: npf13",
+    "output": "31fpn"
+  },
+  {
+    "input": "Reverse the following sequence: zkjha",
+    "output": "ahjkz"
+  },
+  {
+    "input": "Reverse the following sequence: o9plp",
+    "output": "plp9o"
+  },
+  {
+    "input": "Reverse the following sequence: 2aab0",
+    "output": "0baa2"
+  },
+  {
+    "input": "Reverse the following sequence: c17s7",
+    "output": "7s71c"
+  },
+  {
+    "input": "Reverse the following sequence: 7thmn",
+    "output": "nmht7"
+  },
+  {
+    "input": "Reverse the following sequence: hclv3",
+    "output": "3vlch"
+  },
+  {
+    "input": "Reverse the following sequence: qv8h5",
+    "output": "5h8vq"
+  },
+  {
+    "input": "Reverse the following sequence: p6g0y",
+    "output": "y0g6p"
+  },
+  {
+    "input": "Reverse the following sequence: ahbjw",
+    "output": "wjbha"
+  },
+  {
+    "input": "Reverse the following sequence: b21pi",
+    "output": "ip12b"
+  },
+  {
+    "input": "Reverse the following sequence: kdal1",
+    "output": "1ladk"
+  },
+  {
+    "input": "Reverse the following sequence: ambyk",
+    "output": "kybma"
+  },
+  {
+    "input": "Reverse the following sequence: lgme0",
+    "output": "0emgl"
+  },
+  {
+    "input": "Reverse the following sequence: nv2so",
+    "output": "os2vn"
+  },
+  {
+    "input": "Reverse the following sequence: d4jbq",
+    "output": "qbj4d"
+  },
+  {
+    "input": "Reverse the following sequence: xc53e",
+    "output": "e35cx"
+  },
+  {
+    "input": "Reverse the following sequence: ovlgy",
+    "output": "yglvo"
+  },
+  {
+    "input": "Reverse the following sequence: owvrt",
+    "output": "trvwo"
+  },
+  {
+    "input": "Reverse the following sequence: 9jkpf",
+    "output": "fpkj9"
+  },
+  {
+    "input": "Reverse the following sequence: dc192",
+    "output": "291cd"
+  },
+  {
+    "input": "Reverse the following sequence: eiktg",
+    "output": "gtkie"
+  },
+  {
+    "input": "Reverse the following sequence: aphr6",
+    "output": "6rhpa"
+  },
+  {
+    "input": "Reverse the following sequence: om4md",
+    "output": "dm4mo"
+  },
+  {
+    "input": "Reverse the following sequence: nlxo3",
+    "output": "3oxln"
+  },
+  {
+    "input": "Reverse the following sequence: 8bqwg",
+    "output": "gwqb8"
+  },
+  {
+    "input": "Reverse the following sequence: be7dx",
+    "output": "xd7eb"
+  },
+  {
+    "input": "Reverse the following sequence: m4fvz",
+    "output": "zvf4m"
+  },
+  {
+    "input": "Reverse the following sequence: 5hemo",
+    "output": "omeh5"
+  },
+  {
+    "input": "Reverse the following sequence: 396qb",
+    "output": "bq693"
+  },
+  {
+    "input": "Reverse the following sequence: flwi2",
+    "output": "2iwlf"
+  },
+  {
+    "input": "Reverse the following sequence: k9m3p",
+    "output": "p3m9k"
+  },
+  {
+    "input": "Reverse the following sequence: o6pbk",
+    "output": "kbp6o"
+  },
+  {
+    "input": "Reverse the following sequence: fjes9",
+    "output": "9sejf"
+  },
+  {
+    "input": "Reverse the following sequence: 8mz2g",
+    "output": "g2zm8"
+  },
+  {
+    "input": "Reverse the following sequence: 7yzr7",
+    "output": "7rzy7"
+  },
+  {
+    "input": "Reverse the following sequence: c2f09",
+    "output": "90f2c"
+  },
+  {
+    "input": "Reverse the following sequence: d5oj5",
+    "output": "5jo5d"
+  },
+  {
+    "input": "Reverse the following sequence: cvsnk",
+    "output": "knsvc"
+  },
+  {
+    "input": "Reverse the following sequence: 45xi8",
+    "output": "8ix54"
+  },
+  {
+    "input": "Reverse the following sequence: j80et",
+    "output": "te08j"
+  },
+  {
+    "input": "Reverse the following sequence: jqimo",
+    "output": "omiqj"
+  },
+  {
+    "input": "Reverse the following sequence: 66zfc",
+    "output": "cfz66"
+  },
+  {
+    "input": "Reverse the following sequence: 321a5",
+    "output": "5a123"
+  },
+  {
+    "input": "Reverse the following sequence: 4a3yn",
+    "output": "ny3a4"
+  },
+  {
+    "input": "Reverse the following sequence: 5b64k",
+    "output": "k46b5"
+  },
+  {
+    "input": "Reverse the following sequence: fibxk",
+    "output": "kxbif"
+  },
+  {
+    "input": "Reverse the following sequence: s4gdv",
+    "output": "vdg4s"
+  },
+  {
+    "input": "Reverse the following sequence: pebk1",
+    "output": "1kbep"
+  },
+  {
+    "input": "Reverse the following sequence: 8lr7o",
+    "output": "o7rl8"
+  },
+  {
+    "input": "Reverse the following sequence: 1xe7w",
+    "output": "w7ex1"
+  },
+  {
+    "input": "Reverse the following sequence: aituz",
+    "output": "zutia"
+  },
+  {
+    "input": "Reverse the following sequence: ka5gr",
+    "output": "rg5ak"
+  },
+  {
+    "input": "Reverse the following sequence: 3bujf",
+    "output": "fjub3"
+  },
+  {
+    "input": "Reverse the following sequence: 49emp",
+    "output": "pme94"
+  },
+  {
+    "input": "Reverse the following sequence: 7y76j",
+    "output": "j67y7"
+  },
+  {
+    "input": "Reverse the following sequence: hpfsz",
+    "output": "zsfph"
+  },
+  {
+    "input": "Reverse the following sequence: 17hql",
+    "output": "lqh71"
+  },
+  {
+    "input": "Reverse the following sequence: y38td",
+    "output": "dt83y"
+  },
+  {
+    "input": "Reverse the following sequence: q0wr6",
+    "output": "6rw0q"
+  },
+  {
+    "input": "Reverse the following sequence: ua6f2",
+    "output": "2f6au"
+  },
+  {
+    "input": "Reverse the following sequence: xtx87",
+    "output": "78xtx"
+  },
+  {
+    "input": "Reverse the following sequence: s2zge",
+    "output": "egz2s"
+  },
+  {
+    "input": "Reverse the following sequence: coczj",
+    "output": "jzcoc"
+  },
+  {
+    "input": "Reverse the following sequence: xe31c",
+    "output": "c13ex"
+  },
+  {
+    "input": "Reverse the following sequence: 1rxnp",
+    "output": "pnxr1"
+  },
+  {
+    "input": "Reverse the following sequence: 62p69",
+    "output": "96p26"
+  },
+  {
+    "input": "Reverse the following sequence: 889e3",
+    "output": "3e988"
+  },
+  {
+    "input": "Reverse the following sequence: jtw25",
+    "output": "52wtj"
+  },
+  {
+    "input": "Reverse the following sequence: rn69g",
+    "output": "g96nr"
+  },
+  {
+    "input": "Reverse the following sequence: vwakw",
+    "output": "wkawv"
+  },
+  {
+    "input": "Reverse the following sequence: zn3ba",
+    "output": "ab3nz"
+  },
+  {
+    "input": "Reverse the following sequence: jd91a",
+    "output": "a19dj"
+  },
+  {
+    "input": "Reverse the following sequence: 7to28",
+    "output": "82ot7"
+  },
+  {
+    "input": "Reverse the following sequence: y5f48",
+    "output": "84f5y"
+  },
+  {
+    "input": "Reverse the following sequence: 84frg",
+    "output": "grf48"
+  },
+  {
+    "input": "Reverse the following sequence: nto85",
+    "output": "58otn"
+  },
+  {
+    "input": "Reverse the following sequence: ovmr9",
+    "output": "9rmvo"
+  },
+  {
+    "input": "Reverse the following sequence: 7j01y",
+    "output": "y10j7"
+  },
+  {
+    "input": "Reverse the following sequence: ufrv8",
+    "output": "8vrfu"
+  },
+  {
+    "input": "Reverse the following sequence: wk5qp",
+    "output": "pq5kw"
+  },
+  {
+    "input": "Reverse the following sequence: 2dqfo",
+    "output": "ofqd2"
+  },
+  {
+    "input": "Reverse the following sequence: vhuce",
+    "output": "ecuhv"
+  },
+  {
+    "input": "Reverse the following sequence: uz8cb",
+    "output": "bc8zu"
+  },
+  {
+    "input": "Reverse the following sequence: ld8j2",
+    "output": "2j8dl"
+  },
+  {
+    "input": "Reverse the following sequence: xs9lb",
+    "output": "bl9sx"
+  },
+  {
+    "input": "Reverse the following sequence: 69997",
+    "output": "79996"
+  },
+  {
+    "input": "Reverse the following sequence: raly3",
+    "output": "3ylar"
+  },
+  {
+    "input": "Reverse the following sequence: 0vd94",
+    "output": "49dv0"
+  },
+  {
+    "input": "Reverse the following sequence: jbp77",
+    "output": "77pbj"
+  },
+  {
+    "input": "Reverse the following sequence: f4v63",
+    "output": "36v4f"
+  },
+  {
+    "input": "Reverse the following sequence: oqcam",
+    "output": "macqo"
+  },
+  {
+    "input": "Reverse the following sequence: 8owmb",
+    "output": "bmwo8"
+  },
+  {
+    "input": "Reverse the following sequence: 4mumo",
+    "output": "omum4"
+  },
+  {
+    "input": "Reverse the following sequence: kye3w",
+    "output": "w3eyk"
+  },
+  {
+    "input": "Reverse the following sequence: ejyfd",
+    "output": "dfyje"
+  },
+  {
+    "input": "Reverse the following sequence: afrxz",
+    "output": "zxrfa"
+  },
+  {
+    "input": "Reverse the following sequence: 90wax",
+    "output": "xaw09"
+  },
+  {
+    "input": "Reverse the following sequence: 868gg",
+    "output": "gg868"
+  },
+  {
+    "input": "Reverse the following sequence: vhoa0",
+    "output": "0aohv"
+  },
+  {
+    "input": "Reverse the following sequence: pp3v1",
+    "output": "1v3pp"
+  },
+  {
+    "input": "Reverse the following sequence: jy9oh",
+    "output": "ho9yj"
+  },
+  {
+    "input": "Reverse the following sequence: t6z1c",
+    "output": "c1z6t"
+  },
+  {
+    "input": "Reverse the following sequence: xlbct",
+    "output": "tcblx"
+  },
+  {
+    "input": "Reverse the following sequence: fp3wj",
+    "output": "jw3pf"
+  },
+  {
+    "input": "Reverse the following sequence: rtxc6",
+    "output": "6cxtr"
+  },
+  {
+    "input": "Reverse the following sequence: 8k7l4",
+    "output": "4l7k8"
+  },
+  {
+    "input": "Reverse the following sequence: zm1or",
+    "output": "ro1mz"
+  },
+  {
+    "input": "Reverse the following sequence: y8ra8",
+    "output": "8ar8y"
+  },
+  {
+    "input": "Reverse the following sequence: j52i5",
+    "output": "5i25j"
+  },
+  {
+    "input": "Reverse the following sequence: qd9g6",
+    "output": "6g9dq"
+  },
+  {
+    "input": "Reverse the following sequence: paryb",
+    "output": "byrap"
+  },
+  {
+    "input": "Reverse the following sequence: 23egt",
+    "output": "tge32"
+  },
+  {
+    "input": "Reverse the following sequence: dgd1a",
+    "output": "a1dgd"
+  },
+  {
+    "input": "Reverse the following sequence: 2v70f",
+    "output": "f07v2"
+  },
+  {
+    "input": "Reverse the following sequence: 5zaka",
+    "output": "akaz5"
+  },
+  {
+    "input": "Reverse the following sequence: walqe",
+    "output": "eqlaw"
+  },
+  {
+    "input": "Reverse the following sequence: u2xmb",
+    "output": "bmx2u"
+  },
+  {
+    "input": "Reverse the following sequence: 60d5g",
+    "output": "g5d06"
+  },
+  {
+    "input": "Reverse the following sequence: b3o4y",
+    "output": "y4o3b"
+  },
+  {
+    "input": "Reverse the following sequence: j21vr",
+    "output": "rv12j"
+  },
+  {
+    "input": "Reverse the following sequence: s2ux1",
+    "output": "1xu2s"
+  },
+  {
+    "input": "Reverse the following sequence: 9thz9",
+    "output": "9zht9"
+  },
+  {
+    "input": "Reverse the following sequence: 5pksq",
+    "output": "qskp5"
+  },
+  {
+    "input": "Reverse the following sequence: 91pjx",
+    "output": "xjp19"
+  },
+  {
+    "input": "Reverse the following sequence: yd1wa",
+    "output": "aw1dy"
+  },
+  {
+    "input": "Reverse the following sequence: 7agna",
+    "output": "anga7"
+  },
+  {
+    "input": "Reverse the following sequence: mmnms",
+    "output": "smnmm"
+  },
+  {
+    "input": "Reverse the following sequence: nrvnt",
+    "output": "tnvrn"
+  },
+  {
+    "input": "Reverse the following sequence: fmmic",
+    "output": "cimmf"
+  },
+  {
+    "input": "Reverse the following sequence: 6vc7r",
+    "output": "r7cv6"
+  },
+  {
+    "input": "Reverse the following sequence: 694b2",
+    "output": "2b496"
+  },
+  {
+    "input": "Reverse the following sequence: ehmjf",
+    "output": "fjmhe"
+  },
+  {
+    "input": "Reverse the following sequence: ggq99",
+    "output": "99qgg"
+  },
+  {
+    "input": "Reverse the following sequence: rfxln",
+    "output": "nlxfr"
+  },
+  {
+    "input": "Reverse the following sequence: z9epc",
+    "output": "cpe9z"
+  },
+  {
+    "input": "Reverse the following sequence: 89pg6",
+    "output": "6gp98"
+  },
+  {
+    "input": "Reverse the following sequence: if3u8",
+    "output": "8u3fi"
+  },
+  {
+    "input": "Reverse the following sequence: xsmiz",
+    "output": "zimsx"
+  },
+  {
+    "input": "Reverse the following sequence: vgtt7",
+    "output": "7ttgv"
+  },
+  {
+    "input": "Reverse the following sequence: 0dvr8",
+    "output": "8rvd0"
+  },
+  {
+    "input": "Reverse the following sequence: gjv90",
+    "output": "09vjg"
+  },
+  {
+    "input": "Reverse the following sequence: mkjto",
+    "output": "otjkm"
+  },
+  {
+    "input": "Reverse the following sequence: 0u16u",
+    "output": "u61u0"
+  },
+  {
+    "input": "Reverse the following sequence: mtsox",
+    "output": "xostm"
+  },
+  {
+    "input": "Reverse the following sequence: 7vkwi",
+    "output": "iwkv7"
+  },
+  {
+    "input": "Reverse the following sequence: 3szpj",
+    "output": "jpzs3"
+  },
+  {
+    "input": "Reverse the following sequence: rynp4",
+    "output": "4pnyr"
+  },
+  {
+    "input": "Reverse the following sequence: p7hw3",
+    "output": "3wh7p"
+  },
+  {
+    "input": "Reverse the following sequence: 0q0a9",
+    "output": "9a0q0"
+  },
+  {
+    "input": "Reverse the following sequence: 86987",
+    "output": "78968"
+  },
+  {
+    "input": "Reverse the following sequence: sl2k0",
+    "output": "0k2ls"
+  },
+  {
+    "input": "Reverse the following sequence: dreez",
+    "output": "zeerd"
+  },
+  {
+    "input": "Reverse the following sequence: ncvn0",
+    "output": "0nvcn"
+  },
+  {
+    "input": "Reverse the following sequence: kcy4y",
+    "output": "y4yck"
+  },
+  {
+    "input": "Reverse the following sequence: w0n96",
+    "output": "69n0w"
+  },
+  {
+    "input": "Reverse the following sequence: 0i046",
+    "output": "640i0"
+  },
+  {
+    "input": "Reverse the following sequence: 50pn4",
+    "output": "4np05"
+  },
+  {
+    "input": "Reverse the following sequence: lsjf3",
+    "output": "3fjsl"
+  },
+  {
+    "input": "Reverse the following sequence: akfj7",
+    "output": "7jfka"
+  },
+  {
+    "input": "Reverse the following sequence: e8w1s",
+    "output": "s1w8e"
+  },
+  {
+    "input": "Reverse the following sequence: 56w8t",
+    "output": "t8w65"
+  },
+  {
+    "input": "Reverse the following sequence: 5ym50",
+    "output": "05my5"
+  },
+  {
+    "input": "Reverse the following sequence: oo3xd",
+    "output": "dx3oo"
+  },
+  {
+    "input": "Reverse the following sequence: curvd",
+    "output": "dvruc"
+  },
+  {
+    "input": "Reverse the following sequence: yvj71",
+    "output": "17jvy"
+  },
+  {
+    "input": "Reverse the following sequence: 6jogb",
+    "output": "bgoj6"
+  },
+  {
+    "input": "Reverse the following sequence: b7pbw",
+    "output": "wbp7b"
+  },
+  {
+    "input": "Reverse the following sequence: b5ofi",
+    "output": "ifo5b"
+  },
+  {
+    "input": "Reverse the following sequence: vmipk",
+    "output": "kpimv"
+  },
+  {
+    "input": "Reverse the following sequence: 2hgiu",
+    "output": "uigh2"
+  },
+  {
+    "input": "Reverse the following sequence: h18jv",
+    "output": "vj81h"
+  },
+  {
+    "input": "Reverse the following sequence: isi3j",
+    "output": "j3isi"
+  },
+  {
+    "input": "Reverse the following sequence: 3eu3m",
+    "output": "m3ue3"
+  },
+  {
+    "input": "Reverse the following sequence: 9d0ma",
+    "output": "am0d9"
+  },
+  {
+    "input": "Reverse the following sequence: f66db",
+    "output": "bd66f"
+  },
+  {
+    "input": "Reverse the following sequence: rsqnv",
+    "output": "vnqsr"
+  },
+  {
+    "input": "Reverse the following sequence: qjjcz",
+    "output": "zcjjq"
+  },
+  {
+    "input": "Reverse the following sequence: v33bh",
+    "output": "hb33v"
+  },
+  {
+    "input": "Reverse the following sequence: rs6dg",
+    "output": "gd6sr"
+  },
+  {
+    "input": "Reverse the following sequence: qlapf",
+    "output": "fpalq"
+  },
+  {
+    "input": "Reverse the following sequence: 36m48",
+    "output": "84m63"
+  },
+  {
+    "input": "Reverse the following sequence: z3mhk",
+    "output": "khm3z"
+  },
+  {
+    "input": "Reverse the following sequence: kdqbu",
+    "output": "ubqdk"
+  },
+  {
+    "input": "Reverse the following sequence: 3yrk6",
+    "output": "6kry3"
+  },
+  {
+    "input": "Reverse the following sequence: oesj8",
+    "output": "8jseo"
+  },
+  {
+    "input": "Reverse the following sequence: eeid7",
+    "output": "7diee"
+  },
+  {
+    "input": "Reverse the following sequence: he9qb",
+    "output": "bq9eh"
+  },
+  {
+    "input": "Reverse the following sequence: 5pp2r",
+    "output": "r2pp5"
+  },
+  {
+    "input": "Reverse the following sequence: tu5fm",
+    "output": "mf5ut"
+  },
+  {
+    "input": "Reverse the following sequence: 8jyry",
+    "output": "yryj8"
+  },
+  {
+    "input": "Reverse the following sequence: vxc3a",
+    "output": "a3cxv"
+  },
+  {
+    "input": "Reverse the following sequence: cu24k",
+    "output": "k42uc"
+  },
+  {
+    "input": "Reverse the following sequence: 77aal",
+    "output": "laa77"
+  },
+  {
+    "input": "Reverse the following sequence: 8xtyo",
+    "output": "oytx8"
+  },
+  {
+    "input": "Reverse the following sequence: ndwrm",
+    "output": "mrwdn"
+  },
+  {
+    "input": "Reverse the following sequence: j9e5t",
+    "output": "t5e9j"
+  },
+  {
+    "input": "Reverse the following sequence: uoct3",
+    "output": "3tcou"
+  },
+  {
+    "input": "Reverse the following sequence: bd3vq",
+    "output": "qv3db"
+  },
+  {
+    "input": "Reverse the following sequence: coto4",
+    "output": "4otoc"
+  },
+  {
+    "input": "Reverse the following sequence: f6jyl",
+    "output": "lyj6f"
+  },
+  {
+    "input": "Reverse the following sequence: kqn44",
+    "output": "44nqk"
+  },
+  {
+    "input": "Reverse the following sequence: o56xd",
+    "output": "dx65o"
+  },
+  {
+    "input": "Reverse the following sequence: lth2f",
+    "output": "f2htl"
+  },
+  {
+    "input": "Reverse the following sequence: uh25k",
+    "output": "k52hu"
+  },
+  {
+    "input": "Reverse the following sequence: v2hfb",
+    "output": "bfh2v"
+  },
+  {
+    "input": "Reverse the following sequence: qsq96",
+    "output": "69qsq"
+  },
+  {
+    "input": "Reverse the following sequence: us3yf",
+    "output": "fy3su"
+  },
+  {
+    "input": "Reverse the following sequence: 7i7da",
+    "output": "ad7i7"
+  },
+  {
+    "input": "Reverse the following sequence: 6sl78",
+    "output": "87ls6"
+  },
+  {
+    "input": "Reverse the following sequence: g7kem",
+    "output": "mek7g"
+  },
+  {
+    "input": "Reverse the following sequence: q5amf",
+    "output": "fma5q"
+  },
+  {
+    "input": "Reverse the following sequence: xp8wy",
+    "output": "yw8px"
+  },
+  {
+    "input": "Reverse the following sequence: tleqw",
+    "output": "wqelt"
+  },
+  {
+    "input": "Reverse the following sequence: mngtm",
+    "output": "mtgnm"
+  },
+  {
+    "input": "Reverse the following sequence: ce19h",
+    "output": "h91ec"
+  },
+  {
+    "input": "Reverse the following sequence: a8bz4",
+    "output": "4zb8a"
+  },
+  {
+    "input": "Reverse the following sequence: i6iyt",
+    "output": "tyi6i"
+  },
+  {
+    "input": "Reverse the following sequence: tidah",
+    "output": "hadit"
+  },
+  {
+    "input": "Reverse the following sequence: 1m7zi",
+    "output": "iz7m1"
+  },
+  {
+    "input": "Reverse the following sequence: 7nxsc",
+    "output": "csxn7"
+  },
+  {
+    "input": "Reverse the following sequence: ldx1g",
+    "output": "g1xdl"
+  },
+  {
+    "input": "Reverse the following sequence: vqema",
+    "output": "ameqv"
+  },
+  {
+    "input": "Reverse the following sequence: i707p",
+    "output": "p707i"
+  },
+  {
+    "input": "Reverse the following sequence: 8msxe",
+    "output": "exsm8"
+  },
+  {
+    "input": "Reverse the following sequence: f43di",
+    "output": "id34f"
+  },
+  {
+    "input": "Reverse the following sequence: 6qpim",
+    "output": "mipq6"
+  },
+  {
+    "input": "Reverse the following sequence: 2p453",
+    "output": "354p2"
+  },
+  {
+    "input": "Reverse the following sequence: wbhmo",
+    "output": "omhbw"
+  },
+  {
+    "input": "Reverse the following sequence: ms75x",
+    "output": "x57sm"
+  },
+  {
+    "input": "Reverse the following sequence: 1dxng",
+    "output": "gnxd1"
+  },
+  {
+    "input": "Reverse the following sequence: 68wqr",
+    "output": "rqw86"
+  },
+  {
+    "input": "Reverse the following sequence: f5nwk",
+    "output": "kwn5f"
+  },
+  {
+    "input": "Reverse the following sequence: glcyf",
+    "output": "fyclg"
+  },
+  {
+    "input": "Reverse the following sequence: g2gfb",
+    "output": "bfg2g"
+  },
+  {
+    "input": "Reverse the following sequence: o153t",
+    "output": "t351o"
+  },
+  {
+    "input": "Reverse the following sequence: g70j6",
+    "output": "6j07g"
+  }
+]
